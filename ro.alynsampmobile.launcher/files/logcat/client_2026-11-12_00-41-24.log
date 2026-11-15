@@ -1,0 +1,126 @@
+[12-11-2026 00:41:24] [info] Initializing Alyn_SAMPMOBILE client...
+[12-11-2026 00:41:24] [info] Java VM: 0xAFB871C0
+[12-11-2026 00:41:24] [info] Game version: GTA: SA v2.10 (armeabi-v7a)
+[12-11-2026 00:41:24] [info] Game directory: /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/
+[12-11-2026 00:41:24] [info] Offline mode: false
+[12-11-2026 00:41:24] [info] Initializing settings...
+[12-11-2026 00:41:24] [info] host play.uifserver.net
+[12-11-2026 00:41:24] [info] port 7776
+[12-11-2026 00:41:24] [info] password 
+[12-11-2026 00:41:24] [info] nick_name Nogueira
+[12-11-2026 00:41:24] [info] samp_version 0
+[12-11-2026 00:41:24] [info] new_interface false
+[12-11-2026 00:41:24] [info] system_keyboard false
+[12-11-2026 00:41:24] [info] timestamp false
+[12-11-2026 00:41:24] [info] fast_connect false
+[12-11-2026 00:41:24] [info] voice_chat false
+[12-11-2026 00:41:24] [info] display_fps true
+[12-11-2026 00:41:24] [info] fps_limit 60
+[12-11-2026 00:41:24] [info] chat_strings 5
+[12-11-2026 00:41:24] [info] font_size 26
+[12-11-2026 00:41:24] [info] chat_pos 100 10
+[12-11-2026 00:41:24] [info] chat_size 400 150
+[12-11-2026 00:41:24] [info] SA-MP version: 0.3.7
+[12-11-2026 00:41:24] [info] Loading libGTASA.so...
+[12-11-2026 00:41:24] [info] Open: libGTASA.so Handle: 0xAFBD0EC0
+[12-11-2026 00:41:24] [info] libGTASA.so loaded at 0x78246000
+[12-11-2026 00:41:24] [info] Initializing SA...
+[12-11-2026 00:41:24] [info] Installing hooks...
+[12-11-2026 00:41:25] [info] Installing pickup hooks...
+[12-11-2026 00:41:25] [info] Installing remove building hooks...
+[12-11-2026 00:41:25] [info] Installing pad hooks...
+[12-11-2026 00:41:25] [info] Installing widget fix hooks...
+[12-11-2026 00:41:25] [info] Installing crosshair fix hooks...
+[12-11-2026 00:41:25] [info] Applying patches...
+[12-11-2026 00:41:25] [info] Allocating world players...
+[12-11-2026 00:41:25] [info] CWorld::Players new address: 0x7A4AA3C0, old address: 0x78BB169C, size: 84840
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x784ed2c8 bytes: e4 f6 9a e9 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7863ccdc bytes: a7 f5 ea e8 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x786293c9 bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x788122e9 bytes: f8 70 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7867cfad bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7867d01d bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7867f7b5 bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78545ab5 bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78545b55 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78544b61 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78544b2d bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7870bf6a bytes: ca f8 e0 04 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78642d84 bytes: 91 f5 ca ef 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78642dc4 bytes: 91 f5 aa ef 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x787fe46d bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78750ac9 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x787152dd bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78799e96 bytes: 39 f4 f4 ef 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x787a7ac2 bytes: 2c f4 de e9 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x787b1ed4 bytes: 21 f4 d4 ef 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x787c30c4 bytes: 10 f4 dc ee 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7882a966 bytes: b5 f7 18 e7 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78651f26 bytes: 8b f5 68 eb 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x785dd6fd bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x787bf285 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x786b15b9 bytes: b5 6f 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7854cf41 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x786522e7 bytes: ee 10 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78687bc5 bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78687a59 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78685e5a bytes: 5d f5 44 eb 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x786869ae bytes: 5c f5 9a ed 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78668049 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7882ac39 bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x78719ded bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x786eb398 bytes: e9 f4 6a ef 90 f8 53 01 00 28 3e d0 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7877ecfd bytes: b5 03 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7863b9b1 bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x7852e33d bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x787b43c1 bytes: b5 02 
+[12-11-2026 00:41:25] [info] saveBytesToMap addr: 0x785e57c1 bytes: b5 03 
+[12-11-2026 00:41:25] [info] Initializing multi touch..
+[12-11-2026 00:41:25] [info] Initializing java..
+[12-11-2026 00:41:26] [info] Initializing samp texture database...
+[12-11-2026 00:41:29] [info] Loading timecyc.dat..
+[12-11-2026 00:41:29] [info] GTA pools initializing..
+[12-11-2026 00:41:29] [info] Initializing better pools size...
+[12-11-2026 00:41:29] [info] Initializing image list...
+[12-11-2026 00:41:30] [info] Loading peds.ide..
+[12-11-2026 00:41:30] [info] Loading gta.dat..
+[12-11-2026 00:41:30] [info] Loading scriptV1.img..
+[12-11-2026 00:41:37] [info] Loading scriptV1.img..
+[12-11-2026 00:41:37] [info] Loading tracks2.dat...
+[12-11-2026 00:41:37] [info] Loading tracks4.dat...
+[12-11-2026 00:41:38] [info] Loading mainV1.scm..
+[12-11-2026 00:41:38] [info] Loading mainV1.scm..
+[12-11-2026 00:41:38] [info] Loading mainV1.scm..
+[12-11-2026 00:41:38] [info] saveBytesToMap addr: 0x7877fc16 bytes: c4 f8 60 55 
+[12-11-2026 00:41:38] [info] ImGuiWrapper::initialize
+[12-11-2026 00:41:38] [info] ImGuiWrapper::loadFont: arial_bold.ttf from /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/fonts/
+[12-11-2026 00:41:38] [info] ImGuiWrapper::loadFont: gtaweap3.ttf from /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/fonts/
+[12-11-2026 00:41:38] [info] ImGuiWrapper::createFontTexture
+[12-11-2026 00:41:38] [info] Atlas width 2048
+[12-11-2026 00:41:38] [info] Atlas height 128
+[12-11-2026 00:41:38] [info] LoadTextureFromTxd: txdName: menu, textureName: menu_adjback
+[12-11-2026 00:41:38] [info] CSprite2d::CSprite2d()
+[12-11-2026 00:41:38] [info] CSprite2d::SetTexture(menu_adjback)
+[12-11-2026 00:41:38] [info] CSprite2d::~CSprite2d()
+[12-11-2026 00:41:38] [info] LoadTextureFromTxd: txdName: samp, textureName: PassengerButton
+[12-11-2026 00:41:38] [info] CSprite2d::CSprite2d()
+[12-11-2026 00:41:38] [info] CSprite2d::SetTexture(PassengerButton)
+[12-11-2026 00:41:38] [info] CSprite2d::~CSprite2d()
+[12-11-2026 00:41:38] [info] LoadTextureFromTxd: txdName: samp, textureName: voiceactive
+[12-11-2026 00:41:38] [info] CSprite2d::CSprite2d()
+[12-11-2026 00:41:38] [info] CSprite2d::SetTexture(voiceactive)
+[12-11-2026 00:41:38] [info] CSprite2d::~CSprite2d()
+[12-11-2026 00:41:38] [info] LoadTextureFromTxd: txdName: samp, textureName: voicepassive
+[12-11-2026 00:41:38] [info] CSprite2d::CSprite2d()
+[12-11-2026 00:41:38] [info] CSprite2d::SetTexture(voicepassive)
+[12-11-2026 00:41:38] [info] CSprite2d::~CSprite2d()
+[12-11-2026 00:41:38] [info] ImGuiWrapper::checkVertexBuffer
+[12-11-2026 00:41:38] [info] Vertex buffer reallocated. Size 10016
+[12-11-2026 00:41:39] [info] Initializing game...
+[12-11-2026 00:41:39] [info] Loading AFK icon..
+[12-11-2026 00:41:39] [info] LoadTextureFromTxd: txdName: samp, textureName: afk_icon
+[12-11-2026 00:41:39] [info] CSprite2d::CSprite2d()
+[12-11-2026 00:41:39] [info] CSprite2d::SetTexture(afk_icon)
+[12-11-2026 00:41:39] [info] CSprite2d::~CSprite2d()
+[12-11-2026 00:41:39] [info] Applying FPS patches...
+[12-11-2026 00:41:39] [info] saveBytesT

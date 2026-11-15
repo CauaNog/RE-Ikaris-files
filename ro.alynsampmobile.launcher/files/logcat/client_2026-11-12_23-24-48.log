@@ -1,0 +1,3130 @@
+[12-11-2026 23:24:48] [info] Initializing Alyn_SAMPMOBILE client...
+[12-11-2026 23:24:48] [info] Java VM: 0xAFB871C0
+[12-11-2026 23:24:48] [info] Game version: GTA: SA v2.10 (armeabi-v7a)
+[12-11-2026 23:24:48] [info] Game directory: /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/
+[12-11-2026 23:24:48] [info] Offline mode: false
+[12-11-2026 23:24:48] [info] Initializing settings...
+[12-11-2026 23:24:48] [info] host play.uifserver.net
+[12-11-2026 23:24:48] [info] port 7776
+[12-11-2026 23:24:48] [info] password 
+[12-11-2026 23:24:48] [info] nick_name Nogueira
+[12-11-2026 23:24:48] [info] samp_version 0
+[12-11-2026 23:24:48] [info] new_interface false
+[12-11-2026 23:24:48] [info] system_keyboard false
+[12-11-2026 23:24:48] [info] timestamp false
+[12-11-2026 23:24:48] [info] fast_connect false
+[12-11-2026 23:24:48] [info] voice_chat false
+[12-11-2026 23:24:48] [info] display_fps true
+[12-11-2026 23:24:48] [info] fps_limit 60
+[12-11-2026 23:24:48] [info] chat_strings 5
+[12-11-2026 23:24:48] [info] font_size 26
+[12-11-2026 23:24:48] [info] chat_pos 100 10
+[12-11-2026 23:24:48] [info] chat_size 400 150
+[12-11-2026 23:24:48] [info] SA-MP version: 0.3.7
+[12-11-2026 23:24:48] [info] Loading libGTASA.so...
+[12-11-2026 23:24:48] [info] Open: libGTASA.so Handle: 0xAFBD0590
+[12-11-2026 23:24:48] [info] libGTASA.so loaded at 0x7848B000
+[12-11-2026 23:24:48] [info] Initializing SA...
+[12-11-2026 23:24:48] [info] Installing hooks...
+[12-11-2026 23:24:49] [info] Installing pickup hooks...
+[12-11-2026 23:24:49] [info] Installing remove building hooks...
+[12-11-2026 23:24:49] [info] Installing pad hooks...
+[12-11-2026 23:24:50] [info] Installing widget fix hooks...
+[12-11-2026 23:24:50] [info] Installing crosshair fix hooks...
+[12-11-2026 23:24:50] [info] Applying patches...
+[12-11-2026 23:24:50] [info] Allocating world players...
+[12-11-2026 23:24:50] [info] CWorld::Players new address: 0x7A51AF80, old address: 0x78DF669C, size: 84840
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x787322c8 bytes: e4 f6 9a e9 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78881cdc bytes: a7 f5 ea e8 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x7886e3c9 bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78a572e9 bytes: f8 70 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788c1fad bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788c201d bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788c47b5 bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x7878aab5 bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x7878ab55 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78789b61 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78789b2d bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78950f6a bytes: ca f8 e0 04 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78887d84 bytes: 91 f5 ca ef 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78887dc4 bytes: 91 f5 aa ef 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78a4346d bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78995ac9 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x7895a2dd bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x789dee96 bytes: 39 f4 f4 ef 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x789ecac2 bytes: 2c f4 de e9 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x789f6ed4 bytes: 21 f4 d4 ef 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78a080c4 bytes: 10 f4 dc ee 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78a6f966 bytes: b5 f7 18 e7 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78896f26 bytes: 8b f5 68 eb 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788226fd bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78a04285 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788f65b9 bytes: b5 6f 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78791f41 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788972e7 bytes: ee 10 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788ccbc5 bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788cca59 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788cae5a bytes: 5d f5 44 eb 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788cb9ae bytes: 5c f5 9a ed 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788ad049 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78a6fc39 bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x7895eded bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x78930398 bytes: e9 f4 6a ef 90 f8 53 01 00 28 3e d0 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x789c3cfd bytes: b5 03 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x788809b1 bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x7877333d bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x789f93c1 bytes: b5 02 
+[12-11-2026 23:24:50] [info] saveBytesToMap addr: 0x7882a7c1 bytes: b5 03 
+[12-11-2026 23:24:50] [info] Initializing multi touch..
+[12-11-2026 23:24:50] [info] Initializing java..
+[12-11-2026 23:24:50] [info] Initializing samp texture database...
+[12-11-2026 23:24:53] [info] Loading timecyc.dat..
+[12-11-2026 23:24:53] [info] GTA pools initializing..
+[12-11-2026 23:24:53] [info] Initializing better pools size...
+[12-11-2026 23:24:53] [info] Initializing image list...
+[12-11-2026 23:24:54] [info] Loading peds.ide..
+[12-11-2026 23:24:54] [info] Loading gta.dat..
+[12-11-2026 23:24:54] [info] Loading scriptV1.img..
+[12-11-2026 23:24:59] [info] Loading scriptV1.img..
+[12-11-2026 23:25:00] [info] Loading tracks2.dat...
+[12-11-2026 23:25:00] [info] Loading tracks4.dat...
+[12-11-2026 23:25:01] [info] Loading mainV1.scm..
+[12-11-2026 23:25:01] [info] Loading mainV1.scm..
+[12-11-2026 23:25:01] [info] Loading mainV1.scm..
+[12-11-2026 23:25:01] [info] saveBytesToMap addr: 0x789c4c16 bytes: c4 f8 60 55 
+[12-11-2026 23:25:01] [info] ImGuiWrapper::initialize
+[12-11-2026 23:25:01] [info] ImGuiWrapper::loadFont: arial_bold.ttf from /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/fonts/
+[12-11-2026 23:25:01] [info] ImGuiWrapper::loadFont: gtaweap3.ttf from /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/fonts/
+[12-11-2026 23:25:01] [info] ImGuiWrapper::createFontTexture
+[12-11-2026 23:25:01] [info] Atlas width 2048
+[12-11-2026 23:25:01] [info] Atlas height 128
+[12-11-2026 23:25:01] [info] LoadTextureFromTxd: txdName: menu, textureName: menu_adjback
+[12-11-2026 23:25:01] [info] CSprite2d::CSprite2d()
+[12-11-2026 23:25:01] [info] CSprite2d::SetTexture(menu_adjback)
+[12-11-2026 23:25:01] [info] CSprite2d::~CSprite2d()
+[12-11-2026 23:25:01] [info] LoadTextureFromTxd: txdName: samp, textureName: PassengerButton
+[12-11-2026 23:25:01] [info] CSprite2d::CSprite2d()
+[12-11-2026 23:25:01] [info] CSprite2d::SetTexture(PassengerButton)
+[12-11-2026 23:25:01] [info] CSprite2d::~CSprite2d()
+[12-11-2026 23:25:01] [info] LoadTextureFromTxd: txdName: samp, textureName: voiceactive
+[12-11-2026 23:25:01] [info] CSprite2d::CSprite2d()
+[12-11-2026 23:25:01] [info] CSprite2d::SetTexture(voiceactive)
+[12-11-2026 23:25:01] [info] CSprite2d::~CSprite2d()
+[12-11-2026 23:25:01] [info] LoadTextureFromTxd: txdName: samp, textureName: voicepassive
+[12-11-2026 23:25:01] [info] CSprite2d::CSprite2d()
+[12-11-2026 23:25:01] [info] CSprite2d::SetTexture(voicepassive)
+[12-11-2026 23:25:01] [info] CSprite2d::~CSprite2d()
+[12-11-2026 23:25:01] [info] ImGuiWrapper::checkVertexBuffer
+[12-11-2026 23:25:01] [info] Vertex buffer reallocated. Size 10016
+[12-11-2026 23:25:02] [info] Initializing game...
+[12-11-2026 23:25:02] [info] Loading AFK icon..
+[12-11-2026 23:25:02] [info] LoadTextureFromTxd: txdName: samp, textureName: afk_icon
+[12-11-2026 23:25:02] [info] CSprite2d::CSprite2d()
+[12-11-2026 23:25:02] [info] CSprite2d::SetTexture(afk_icon)
+[12-11-2026 23:25:02] [info] CSprite2d::~CSprite2d()
+[12-11-2026 23:25:02] [info] Applying FPS patches...
+[12-11-2026 23:25:02] [info] saveBytesToMap addr: 0x788a057d bytes: ee 10 
+[12-11-2026 23:25:02] [info] Initiating scripting...
+[12-11-2026 23:25:02] [info] Initializing client commands..
+[12-11-2026 23:25:02] [info] Initializing netgame...
+[12-11-2026 23:25:02] [info] NetGame initializing..
+[12-11-2026 23:25:02] [info] Registering RPC's..
+[12-11-2026 23:25:02] [info] Registering script RPC's..
+[12-11-2026 23:25:04] [info] [AUTH] 6E4751667CC5CC6 -> 76679E3836E8EAED90B6F10B121B52FE4F03339B
+[12-11-2026 23:25:04] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:11] [info] Pause menu Continue requested
+[12-11-2026 23:25:11] [info] Processing pause menu Continue on game thread
+[12-11-2026 23:25:11] [info] RPC: Client message 
+[12-11-2026 23:25:11] [info] dwColor 16711935
+[12-11-2026 23:25:11] [info] dwStrLen 77
+[12-11-2026 23:25:11] [info] szMsg ZONE WAR: - [ First ] Azier Family -{00FF00} vs {a1190d}The Youngsters Family
+[12-11-2026 23:25:11] [info] RPC: Client message 
+[12-11-2026 23:25:11] [info] dwColor 4278190335
+[12-11-2026 23:25:11] [info] dwStrLen 33
+[12-11-2026 23:25:11] [info] szMsg *** ADMIN .Tyga(18):  /respect 18
+[12-11-2026 23:25:11] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:11] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:12] [info] PlayerID 64
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Timi_Zajc
+[12-11-2026 23:25:12] [info] PlayerID 11
+[12-11-2026 23:25:12] [info] dwMarkerColor 4281084960
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName mariovreco
+[12-11-2026 23:25:12] [info] PlayerID 27
+[12-11-2026 23:25:12] [info] dwMarkerColor 820430079
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Paisa..
+[12-11-2026 23:25:12] [info] PlayerID 57
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName NezukoKamado
+[12-11-2026 23:25:12] [info] PlayerID 14
+[12-11-2026 23:25:12] [info] dwMarkerColor 4294967295
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName FaizDT
+[12-11-2026 23:25:12] [info] PlayerID 37
+[12-11-2026 23:25:12] [info] dwMarkerColor 4001558271
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Brizzle
+[12-11-2026 23:25:12] [info] PlayerID 15
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName GeMGeM
+[12-11-2026 23:25:12] [info] PlayerID 90
+[12-11-2026 23:25:12] [info] dwMarkerColor 961864959
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Mr.Doom_tmp7
+[12-11-2026 23:25:12] [info] PlayerID 25
+[12-11-2026 23:25:12] [info] dwMarkerColor 3422552319
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Warden.0G
+[12-11-2026 23:25:12] [info] PlayerID 19
+[12-11-2026 23:25:12] [info] dwMarkerColor 1094795775
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName 4Hockage_
+[12-11-2026 23:25:12] [info] PlayerID 26
+[12-11-2026 23:25:12] [info] dwMarkerColor 1094795775
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Warden.NM
+[12-11-2026 23:25:12] [info] PlayerID 43
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName mimbaz
+[12-11-2026 23:25:12] [info] PlayerID 35
+[12-11-2026 23:25:12] [info] dwMarkerColor 690431999
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName AdanLcN
+[12-11-2026 23:25:12] [info] PlayerID 12
+[12-11-2026 23:25:12] [info] dwMarkerColor 3692313855
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Huary
+[12-11-2026 23:25:12] [info] PlayerID 23
+[12-11-2026 23:25:12] [info] dwMarkerColor 4278190335
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName GeM.KOD
+[12-11-2026 23:25:12] [info] PlayerID 8
+[12-11-2026 23:25:12] [info] dwMarkerColor 4294967295
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Ava.HM
+[12-11-2026 23:25:12] [info] PlayerID 49
+[12-11-2026 23:25:12] [info] dwMarkerColor 4281084960
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName GangBangDetroit
+[12-11-2026 23:25:12] [info] PlayerID 21
+[12-11-2026 23:25:12] [info] dwMarkerColor 4041641215
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName yuri_==
+[12-11-2026 23:25:12] [info] PlayerID 10
+[12-11-2026 23:25:12] [info] dwMarkerColor 4278190335
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName SteveY22
+[12-11-2026 23:25:12] [info] PlayerID 48
+[12-11-2026 23:25:12] [info] dwMarkerColor 4197606655
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName [DVLZ]Kang
+[12-11-2026 23:25:12] [info] PlayerID 5
+[12-11-2026 23:25:12] [info] dwMarkerColor 1100318975
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName AL7TRA_01
+[12-11-2026 23:25:12] [info] PlayerID 2
+[12-11-2026 23:25:12] [info] dwMarkerColor 796066047
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName DJ_Wavecast
+[12-11-2026 23:25:12] [info] PlayerID 18
+[12-11-2026 23:25:12] [info] dwMarkerColor 1010630432
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName .Tyga
+[12-11-2026 23:25:12] [info] PlayerID 80
+[12-11-2026 23:25:12] [info] dwMarkerColor 4197606655
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Dadn
+[12-11-2026 23:25:12] [info] PlayerID 22
+[12-11-2026 23:25:12] [info] dwMarkerColor 820430079
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Ava.SG
+[12-11-2026 23:25:12] [info] PlayerID 16
+[12-11-2026 23:25:12] [info] dwMarkerColor 4294967295
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Ava.NM
+[12-11-2026 23:25:12] [info] PlayerID 24
+[12-11-2026 23:25:12] [info] dwMarkerColor 16777215
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName wdz
+[12-11-2026 23:25:12] [info] PlayerID 7
+[12-11-2026 23:25:12] [info] dwMarkerColor 4209888767
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName SlayeR.797
+[12-11-2026 23:25:12] [info] PlayerID 40
+[12-11-2026 23:25:12] [info] dwMarkerColor 16711712
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Rodri_Bandini
+[12-11-2026 23:25:12] [info] PlayerID 47
+[12-11-2026 23:25:12] [info] dwMarkerColor 4281084960
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName AMBABUSID
+[12-11-2026 23:25:12] [info] PlayerID 62
+[12-11-2026 23:25:12] [info] dwMarkerColor 4281084960
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Skript
+[12-11-2026 23:25:12] [info] PlayerID 0
+[12-11-2026 23:25:12] [info] dwMarkerColor 16777215
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Alyn__Dev
+[12-11-2026 23:25:12] [info] PlayerID 91
+[12-11-2026 23:25:12] [info] dwMarkerColor 1093473791
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName drixmeda[m31]
+[12-11-2026 23:25:12] [info] PlayerID 20
+[12-11-2026 23:25:12] [info] dwMarkerColor 4278190335
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Marzuz
+[12-11-2026 23:25:12] [info] PlayerID 46
+[12-11-2026 23:25:12] [info] dwMarkerColor 1010630432
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Wo_Et
+[12-11-2026 23:25:12] [info] PlayerID 30
+[12-11-2026 23:25:12] [info] dwMarkerColor 16711712
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Legend_AMV1
+[12-11-2026 23:25:12] [info] PlayerID 17
+[12-11-2026 23:25:12] [info] dwMarkerColor 1094795775
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName $vandeta$
+[12-11-2026 23:25:12] [info] PlayerID 9
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Weskerr
+[12-11-2026 23:25:12] [info] PlayerID 31
+[12-11-2026 23:25:12] [info] dwMarkerColor 3479446015
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName BITCOlN
+[12-11-2026 23:25:12] [info] PlayerID 13
+[12-11-2026 23:25:12] [info] dwMarkerColor 4287401215
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Ava.ExT.
+[12-11-2026 23:25:12] [info] PlayerID 38
+[12-11-2026 23:25:12] [info] dwMarkerColor 4281084960
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Mahateer
+[12-11-2026 23:25:12] [info] PlayerID 67
+[12-11-2026 23:25:12] [info] dwMarkerColor 1010630399
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName TheDareDevil
+[12-11-2026 23:25:12] [info] PlayerID 63
+[12-11-2026 23:25:12] [info] dwMarkerColor 2702773759
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Ksik122
+[12-11-2026 23:25:12] [info] PlayerID 44
+[12-11-2026 23:25:12] [info] dwMarkerColor 4289003775
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName [SYS]Kaelen_Frost
+[12-11-2026 23:25:12] [info] PlayerID 42
+[12-11-2026 23:25:12] [info] dwMarkerColor 2702773759
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName 35venge
+[12-11-2026 23:25:12] [info] PlayerID 81
+[12-11-2026 23:25:12] [info] dwMarkerColor 685530623
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName iggy434
+[12-11-2026 23:25:12] [info] PlayerID 33
+[12-11-2026 23:25:12] [info] dwMarkerColor 1073790975
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Ash_Bot.
+[12-11-2026 23:25:12] [info] PlayerID 85
+[12-11-2026 23:25:12] [info] dwMarkerColor 690431999
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName ]LcN.raider
+[12-11-2026 23:25:12] [info] PlayerID 39
+[12-11-2026 23:25:12] [info] dwMarkerColor 4294967295
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName C.P.company
+[12-11-2026 23:25:12] [info] PlayerID 28
+[12-11-2026 23:25:12] [info] dwMarkerColor 3221170431
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Rebelde
+[12-11-2026 23:25:12] [info] PlayerID 29
+[12-11-2026 23:25:12] [info] dwMarkerColor 820430079
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Warden.SG
+[12-11-2026 23:25:12] [info] PlayerID 51
+[12-11-2026 23:25:12] [info] dwMarkerColor 65279
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Krish.bot
+[12-11-2026 23:25:12] [info] PlayerID 32
+[12-11-2026 23:25:12] [info] dwMarkerColor 1089236223
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Devil_[bot]
+[12-11-2026 23:25:12] [info] PlayerID 3
+[12-11-2026 23:25:12] [info] dwMarkerColor 4278190335
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Annazili
+[12-11-2026 23:25:12] [info] PlayerID 72
+[12-11-2026 23:25:12] [info] dwMarkerColor 1093832959
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName CSTT.Griro.30k
+[12-11-2026 23:25:12] [info] PlayerID 61
+[12-11-2026 23:25:12] [info] dwMarkerColor 4281085183
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName OArthur
+[12-11-2026 23:25:12] [info] PlayerID 6
+[12-11-2026 23:25:12] [info] dwMarkerColor 1073790975
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Biggyatbooty
+[12-11-2026 23:25:12] [info] PlayerID 4
+[12-11-2026 23:25:12] [info] dwMarkerColor 690431999
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName EvaLcN
+[12-11-2026 23:25:12] [info] PlayerID 54
+[12-11-2026 23:25:12] [info] dwMarkerColor 1416615423
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Jackieeyy
+[12-11-2026 23:25:12] [info] PlayerID 117
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName wL.pluto[oD]
+[12-11-2026 23:25:12] [info] PlayerID 95
+[12-11-2026 23:25:12] [info] dwMarkerColor 16711935
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName USMAN_OP
+[12-11-2026 23:25:12] [info] PlayerID 56
+[12-11-2026 23:25:12] [info] dwMarkerColor 4197606655
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Moonknightly
+[12-11-2026 23:25:12] [info] PlayerID 34
+[12-11-2026 23:25:12] [info] dwMarkerColor 4197606655
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName [DVLZ]Mightybomb
+[12-11-2026 23:25:12] [info] PlayerID 84
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Cussel
+[12-11-2026 23:25:12] [info] PlayerID 71
+[12-11-2026 23:25:12] [info] dwMarkerColor 4278190335
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName rilly
+[12-11-2026 23:25:12] [info] PlayerID 107
+[12-11-2026 23:25:12] [info] dwMarkerColor 382612223
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName PEPE_bro4
+[12-11-2026 23:25:12] [info] PlayerID 69
+[12-11-2026 23:25:12] [info] dwMarkerColor 4294967295
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Koreahangman
+[12-11-2026 23:25:12] [info] PlayerID 1
+[12-11-2026 23:25:12] [info] dwMarkerColor 4281084960
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName DrunK@DZ_tmp4
+[12-11-2026 23:25:12] [info] PlayerID 65
+[12-11-2026 23:25:12] [info] dwMarkerColor 309447167
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName GTA9_tmp5
+[12-11-2026 23:25:12] [info] PlayerID 36
+[12-11-2026 23:25:12] [info] dwMarkerColor 4290631935
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName AdminBot
+[12-11-2026 23:25:12] [info] PlayerID 60
+[12-11-2026 23:25:12] [info] dwMarkerColor 1687547391
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName Antonia
+[12-11-2026 23:25:12] [info] PlayerID 59
+[12-11-2026 23:25:12] [info] dwMarkerColor 3843759103
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName GGTTRR_tmp2
+[12-11-2026 23:25:12] [info] PlayerID 53
+[12-11-2026 23:25:12] [info] dwMarkerColor 1228042239
+[12-11-2026 23:25:12] [info] byteIsNPC 0
+[12-11-2026 23:25:12] [info] szPlayerName byydoremi
+[12-11-2026 23:25:12] [info] dwTime 251725498
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrShowGameText
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: AIRPORT, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: Attractors, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BAR, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BASEBALL, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BD_FIRE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BEACH, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: benchpress, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BF_injection, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BIKED, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BIKEH, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BIKELEAP, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BIKES, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BIKEV, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BIKE_DBZ, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BLOWJOBZ, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BMX, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BOMBER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BOX, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BSKTBALL, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BUDDY, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: BUS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CAMERA, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CAR, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CARRY, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CAR_CHAT, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CASINO, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CHAINSAW, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CHOPPA, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CLOTHES, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: COACH, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: COLT45, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: COP_AMBIENT, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: COP_DVBYZ, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CRACK, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: CRIB, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: DAM_JUMP, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: DANCING, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: DEALER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: DILDO, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: DODGE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: DOZER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: DRIVEBYS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FAT, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FIGHT_B, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FIGHT_C, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FIGHT_D, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FIGHT_E, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FINALE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FINALE2, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FLAME, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: Flowers, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: FOOD, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: Freeweights, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: GANGS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: GHANDS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: GHETTO_DB, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: goggles, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: GRAFFITI, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: GRAVEYARD, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: GRENADE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: GYMNASIUM, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: HAIRCUTS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: HEIST9, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: INT_HOUSE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: INT_OFFICE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: INT_SHOP, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: JST_BUISNESS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: KART, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: KISSING, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: KNIFE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: LAPDAN1, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: LAPDAN2, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: LAPDAN3, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: LOWRIDER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: MD_CHASE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: MD_END, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: MEDIC, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: MISC, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: MTB, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: MUSCULAR, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: NEVADA, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: ON_LOOKERS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: OTB, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: PARACHUTE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: PARK, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: PAULNMAC, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: ped, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: PLAYER_DVBYS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: PLAYIDLES, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: POLICE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: POOL, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: POOR, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: PYTHON, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: QUAD, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: QUAD_DBZ, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: RAPPING, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: RIFLE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: RIOT, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: ROB_BANK, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: ROCKET, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: RUSTLER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: RYDER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SCRATCHING, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SHAMAL, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SHOP, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SHOTGUN, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SILENCED, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SKATE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SMOKING, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SNIPER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SPRAYCAN, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: STRIP, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SUNBATHE, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SWAT, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SWEET, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SWIM, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: SWORD, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: TANK, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: TATTOOS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: TEC, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: TRAIN, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: TRUCK, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: UZI, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: VAN, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: VENDING, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: VORTEX, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: WAYFARER, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: WEAPONS, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrApplyPlayerAnimation
+[12-11-2026 23:25:12] [info] ApplyAnimation: WUZI, null
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 3374, (-50.0156, 3.1797, 3.4766), 0.25
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 11654, (-681.875, 965.8906, 11.125), 0.25
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 11492, (-681.875, 965.8906, 11.125), 0.25
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 16203, (199.344, 1943.79, 18.2031), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 16590, (199.344, 1943.79, 18.2031), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 16323, (199.336, 1943.88, 18.2031), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 16619, (199.336, 1943.88, 18.2031), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 1697, (228.797, 1835.34, 23.2344), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 16094, (191.141, 1870.04, 21.4766), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 1411, (347.1953, 1799.2656, 18.7578), 10
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 10027, (-1951.6875, 660.024, 89.5078), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 9939, (-1951.6875, 660.024, 89.5078), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 985, (2497.4062, 2777.0703, 11.5313), 0.25
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 986, (2497.4062, 2769.1094, 11.5313), 0.25
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 1226, (265.481, -1581.1, 32.9311), 5
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 6518, (280.297, -1606.2, 72.3984), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 6463, (389.7734, -2028.4688, 19.8047), 0.5
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 3751, (389.875, -2035.3828, 29.9531), 50
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 6298, (389.7734, -2028.4688, 19.8047), 0.5
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 6461, (389.7734, -2028.5, 20.1094), 0.5
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 3752, (389.875, -2028.5, 32.2266), 50
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 12853, (666.711, -565.133, 17.3359), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 12854, (666.492, -571.18, 17.3125), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrRemoveBuilding
+[12-11-2026 23:25:12] [info] RemoveBuilding::add 13245, (666.711, -565.133, 17.3359), 250
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrShowTextDraw
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 1 modelid: 18877
+[12-11-2026 23:25:12] [info] CObject::CObject(18877, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18877
+[12-11-2026 23:25:12] [info] Object created with model 18877 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 5 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 10 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 2 modelid: 18878
+[12-11-2026 23:25:12] [info] CObject::CObject(18878, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18878
+[12-11-2026 23:25:12] [info] Object created with model 18878 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 6 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 12 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 11 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 7 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 8 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 3 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 9 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:12] [info] obj id: 4 modelid: 18879
+[12-11-2026 23:25:12] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 18879
+[12-11-2026 23:25:12] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[12-11-2026 23:25:12] [info] RPC: InitGame
+[12-11-2026 23:25:12] [info] szHostName,                 UIF - United Islands Freeroam
+[12-11-2026 23:25:12] [info] vehicleFriendlyFire, 0
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetPlayerName
+[12-11-2026 23:25:12] [info] RPC: DialogBox
+[12-11-2026 23:25:12] [info] wDialogID 2
+[12-11-2026 23:25:12] [info] byteDialogStyle 3
+[12-11-2026 23:25:12] [info] szTitle {00FF00}UIF - Login
+[12-11-2026 23:25:12] [info] szButton1 Login
+[12-11-2026 23:25:12] [info] szButton2 Forgot Pass
+[12-11-2026 23:25:12] [info] szMessage {FFFFFF}This name is registered.
+
+\   - Your account? Enter your password and click 'Login'.
+
+\   - Not your account? Click 'Login'.
+
+\   - Forgot your password? Click 'Forgot Pass'.
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrTogglePlayerControllable
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrPlayerPlaySound
+[12-11-2026 23:25:12] [info] RPC: Weather
+[12-11-2026 23:25:12] [info] weather 1
+[12-11-2026 23:25:12] [info] RPC: SetTimeEx
+[12-11-2026 23:25:12] [info] byteHour 12
+[12-11-2026 23:25:12] [info] byteMinute 0
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetCameraPos
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetCameraLookAt
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetPlayerInterior
+[12-11-2026 23:25:12] [info] refresh streaming at x: 1133.0504, y: -2038.4034
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetPlayerPos
+[12-11-2026 23:25:12] [info] ScriptRPC: ScrSetPlayerFacingAngle
+[12-11-2026 23:25:12] [info] RPC: Request class
+[12-11-2026 23:25:12] [info] SetModelIndex: 299
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 299
+[12-11-2026 23:25:12] [info] IsValidPedModel: (299)
+[12-11-2026 23:25:12] [info] saveBytesToMap addr: 0x788e2581 bytes: b5 03 
+[12-11-2026 23:25:12] [info] GetModelInfoByID: 299
+[12-11-2026 23:25:12] [info] GetModelRWObject: 299
+[12-11-2026 23:25:13] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:13] [info] RPC: Server quit
+[12-11-2026 23:25:14] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:14] [info] RPC: Player Death
+[12-11-2026 23:25:14] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:14] [info] PlayerID 5
+[12-11-2026 23:25:14] [info] dwMarkerColor 3340107775
+[12-11-2026 23:25:14] [info] byteIsNPC 0
+[12-11-2026 23:25:14] [info] szPlayerName Rayhan_Dacos
+[12-11-2026 23:25:14] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:15] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:15] [info] RPC: Player Death
+[12-11-2026 23:25:16] [info] PlayerID 45
+[12-11-2026 23:25:16] [info] dwMarkerColor 2336560127
+[12-11-2026 23:25:16] [info] byteIsNPC 0
+[12-11-2026 23:25:16] [info] szPlayerName Conre..
+[12-11-2026 23:25:16] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:16] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:17] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:19] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:19] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:19] [info] RPC: Server quit
+[12-11-2026 23:25:19] [info] Java_com_samp_game_ui_UI_sendDialogResponse
+[12-11-2026 23:25:19] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:19] [info] ScriptRPC: ScrShowTextDraw
+[12-11-2026 23:25:19] [info] ScriptRPC: ScrTextDrawSetString
+[12-11-2026 23:25:20] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:20] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:20] [info] RPC: Player Death
+[12-11-2026 23:25:21] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:21] [info] RPC: Player Death
+[12-11-2026 23:25:21] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:21] [info] RPC: Player Death
+[12-11-2026 23:25:21] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:21] [info] ScriptRPC: ScrSetSpawnInfo
+[12-11-2026 23:25:21] [info] RPC: DialogBox
+[12-11-2026 23:25:21] [info] wDialogID 30
+[12-11-2026 23:25:21] [info] byteDialogStyle 5
+[12-11-2026 23:25:21] [info] szTitle {00FF00}Where would you like to go?
+[12-11-2026 23:25:21] [info] szButton1 OK
+[12-11-2026 23:25:21] [info] szButton2 Cancel
+[12-11-2026 23:25:21] [info] szMessage {FFFF00}Teleport	{FFFF00}Players
+{00FF00}Freeroam	{00FF00}51
+{00FF00}Deathmatch	{00FF00}0
+{00FF00}Race	{00FF00}0
+{00FF00}Derby	{00FF00}0
+{00FF00}Fall	{00FF00}0
+{00FF00}Protect the President	{00FF00}13
+{00FF00}Cops and Robbers	{00FF00}3
+Stunts
+Specials
+Challenges
+Jumps
+Parachute Jumps
+Cities
+Hotspots
+Interiors
+House Interiors
+Vehicle Tuning
+Drift Spots
+
+[12-11-2026 23:25:21] [info] RPC: Request spawn
+[12-11-2026 23:25:21] [info] byteRequestOutcome 0
+[12-11-2026 23:25:23] [info] Java_com_samp_game_ui_UI_sendDialogResponse
+[12-11-2026 23:25:23] [info] ScriptRPC: ScrTogglePlayerControllable
+[12-11-2026 23:25:23] [info] ScriptRPC: ScrPlayerPlaySound
+[12-11-2026 23:25:23] [info] RPC: Weather
+[12-11-2026 23:25:23] [info] weather 10
+[12-11-2026 23:25:23] [info] RPC: SetTimeEx
+[12-11-2026 23:25:23] [info] byteHour 12
+[12-11-2026 23:25:23] [info] byteMinute 0
+[12-11-2026 23:25:23] [info] ScriptRPC: ScrResetPlayerWeapons
+[12-11-2026 23:25:23] [info] ScriptRPC: ScrDisableVehicleCollisions
+[12-11-2026 23:25:23] [info] RPC: Request spawn
+[12-11-2026 23:25:23] [info] byteRequestOutcome 2
+[12-11-2026 23:25:23] [info] Spawn localplayer
+[12-11-2026 23:25:23] [error] GetSymbol: Invalid address! Address: 0x0 Name: _ZZ20Menu_SwitchOffToGamevE12bInitWidgets
+[12-11-2026 23:25:23] [info] Widgets not inited
+[12-11-2026 23:25:23] [info] SetModelIndex: 299
+[12-11-2026 23:25:23] [info] GetModelInfoByID: 299
+[12-11-2026 23:25:23] [info] IsValidPedModel: (299)
+[12-11-2026 23:25:23] [info] RPC: DialogBox
+[12-11-2026 23:25:23] [info] wDialogID 0
+[12-11-2026 23:25:23] [info] byteDialogStyle 0
+[12-11-2026 23:25:23] [info] szTitle {00FF00}Welcome to UIF
+[12-11-2026 23:25:23] [info] szButton1 OK
+[12-11-2026 23:25:23] [info] szButton2 
+[12-11-2026 23:25:23] [info] szMessage {00FF00}/c {FFFFFF}- commands
+{00FF00}/t {FFFFFF}- teleports
+{00FF00}/v {FFFFFF}- vehicles
+{00FF00}/w {FFFFFF}- weapons
+{00FF00}/a {FFFFFF}- animations
+{00FF00}/o {FFFFFF}- body objects
+{00FF00}/h {FFFFFF}- houses
+
+[12-11-2026 23:25:23] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetArmedWeapon
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerHealth
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerArmour
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrDisableVehicleCollisions
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrTogglePlayerControllable
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerInterior
+[12-11-2026 23:25:24] [info] refresh streaming at x: -1479.4341, y: 920.4487
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerPos
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerFacingAngle
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 13 modelid: 712
+[12-11-2026 23:25:24] [info] CObject::CObject(712, [1598.32 1177.67 18.51], [0 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:24] [info] Object created with model 712 at [1598.32 1177.67 18.51].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 14 modelid: 1633
+[12-11-2026 23:25:24] [info] CObject::CObject(1633, [1585.99 1169.1 11.65], [8 0 268], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1633
+[12-11-2026 23:25:24] [info] Object created with model 1633 at [1585.99 1169.1 11.65].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 15 modelid: 1633
+[12-11-2026 23:25:24] [info] CObject::CObject(1633, [1586.13 1173.21 11.65], [8 0 268], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1633
+[12-11-2026 23:25:24] [info] Object created with model 1633 at [1586.13 1173.21 11.65].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 16 modelid: 901
+[12-11-2026 23:25:24] [info] CObject::CObject(901, [1592.69 1184.68 7.55], [0 0 1.38], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 901
+[12-11-2026 23:25:24] [info] Object created with model 901 at [1592.69 1184.68 7.55].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 17 modelid: 1634
+[12-11-2026 23:25:24] [info] CObject::CObject(1634, [1618.77 1239.95 10], [3 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:24] [info] Object created with model 1634 at [1618.77 1239.95 10].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 18 modelid: 1634
+[12-11-2026 23:25:24] [info] CObject::CObject(1634, [1624.32 1239.95 14.37], [23 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:24] [info] Object created with model 1634 at [1624.32 1239.95 14.37].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 19 modelid: 1634
+[12-11-2026 23:25:24] [info] CObject::CObject(1634, [1629.04 1239.97 21.2], [37 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:24] [info] Object created with model 1634 at [1629.04 1239.97 21.2].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 20 modelid: 3279
+[12-11-2026 23:25:24] [info] CObject::CObject(3279, [1557.26 1216.62 9.7], [0 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 3279
+[12-11-2026 23:25:24] [info] Object created with model 3279 at [1557.26 1216.62 9.7].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 21 modelid: 1634
+[12-11-2026 23:25:24] [info] CObject::CObject(1634, [1630.7 1239.96 27.63], [64 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:24] [info] Object created with model 1634 at [1630.7 1239.96 27.63].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 22 modelid: 1634
+[12-11-2026 23:25:24] [info] CObject::CObject(1634, [1628.34 1239.96 34.34], [98 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:24] [info] Object created with model 1634 at [1628.34 1239.96 34.34].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 23 modelid: 619
+[12-11-2026 23:25:24] [info] CObject::CObject(619, [1541.24 1217.61 10.79], [0 0 350.64], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 619
+[12-11-2026 23:25:24] [info] Object created with model 619 at [1541.24 1217.61 10.79].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 24 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1521 1164.44 13.76], [-12.46 -0.15 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1521 1164.44 13.76].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 25 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1521 1164.44 13.76], [-12.46 -0.15 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1521 1164.44 13.76].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 26 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1521 1144.29 20.34], [-23.83 -0.39 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1521 1144.29 20.34].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 27 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1521 1144.29 20.34], [-23.83 -0.39 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1521 1144.29 20.34].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 28 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1521 1188.46 10.84], [358 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1521 1188.46 10.84].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 29 modelid: 3508
+[12-11-2026 23:25:24] [info] CObject::CObject(3508, [1530.84 1217.42 10.49], [0 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 3508
+[12-11-2026 23:25:24] [info] Object created with model 3508 at [1530.84 1217.42 10.49].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 30 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1126.72 30.06], [-33.67 -0.48 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1126.72 30.06].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 31 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1126.72 30.06], [-33.67 -0.48 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1126.72 30.06].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 32 modelid: 18834
+[12-11-2026 23:25:24] [info] CObject::CObject(18834, [1609.51 1271.19 21.24], [106 0 62.83], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:24] [info] Object created with model 18834 at [1609.51 1271.19 21.24].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 33 modelid: 3508
+[12-11-2026 23:25:24] [info] CObject::CObject(3508, [1520.87 1217.26 10.49], [0 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 3508
+[12-11-2026 23:25:24] [info] Object created with model 3508 at [1520.87 1217.26 10.49].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 34 modelid: 18834
+[12-11-2026 23:25:24] [info] CObject::CObject(18834, [1610.07 1270.23 38.77], [106 0 66.3], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:24] [info] Object created with model 18834 at [1610.07 1270.23 38.77].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 35 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1110.46 42.42], [-40.09 -0.37 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1110.46 42.42].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 36 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1110.46 42.42], [-40.09 -0.37 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1110.46 42.42].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 37 modelid: 3508
+[12-11-2026 23:25:24] [info] CObject::CObject(3508, [1510.95 1217.26 10.49], [0 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 3508
+[12-11-2026 23:25:24] [info] Object created with model 3508 at [1510.95 1217.26 10.49].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 38 modelid: 18822
+[12-11-2026 23:25:24] [info] CObject::CObject(18822, [1536.07 1259.42 15.74], [0 290 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:24] [info] Object created with model 18822 at [1536.07 1259.42 15.74].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 39 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1094.21 56.9], [-42.68 -0.19 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1094.21 56.9].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 40 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1094.21 56.9], [-42.68 -0.19 -0.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1094.21 56.9].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 41 modelid: 619
+[12-11-2026 23:25:24] [info] CObject::CObject(619, [1500.68 1217.38 10.79], [0 0 115.08], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 619
+[12-11-2026 23:25:24] [info] Object created with model 619 at [1500.68 1217.38 10.79].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 42 modelid: 18834
+[12-11-2026 23:25:24] [info] CObject::CObject(18834, [1623.24 1299.43 15.89], [94 0 242.68], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:24] [info] Object created with model 18834 at [1623.24 1299.43 15.89].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 43 modelid: 18834
+[12-11-2026 23:25:24] [info] CObject::CObject(18834, [1623.9 1299.39 30.01], [106 0 243.02], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:24] [info] Object created with model 18834 at [1623.9 1299.39 30.01].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 44 modelid: 18834
+[12-11-2026 23:25:24] [info] CObject::CObject(18834, [1622.6 1299.73 47.6], [106 0 247.83], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:24] [info] Object created with model 18834 at [1622.6 1299.73 47.6].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 45 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1076.69 72.99], [318 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1076.69 72.99].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 46 modelid: 18822
+[12-11-2026 23:25:24] [info] CObject::CObject(18822, [1525.4 1276.76 15.74], [0 290 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:24] [info] Object created with model 18822 at [1525.4 1276.76 15.74].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 47 modelid: 1634
+[12-11-2026 23:25:24] [info] CObject::CObject(1634, [1494.23 1242.83 14.33], [8 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:24] [info] Object created with model 1634 at [1494.23 1242.83 14.33].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 48 modelid: 18822
+[12-11-2026 23:25:24] [info] CObject::CObject(18822, [1506.11 1259.6 15.74], [0 290 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:24] [info] Object created with model 18822 at [1506.11 1259.6 15.74].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 49 modelid: 18822
+[12-11-2026 23:25:24] [info] CObject::CObject(18822, [1516.84 1276.77 15.74], [0 290 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:24] [info] Object created with model 18822 at [1516.84 1276.77 15.74].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 50 modelid: 1634
+[12-11-2026 23:25:24] [info] CObject::CObject(1634, [1486.4 1242.82 10], [0 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:24] [info] Object created with model 1634 at [1486.4 1242.82 10].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 51 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1046.75 99.98], [-42.08 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1046.75 99.98].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 52 modelid: 1655
+[12-11-2026 23:25:24] [info] CObject::CObject(1655, [1586.16 1342.7 10.89], [0 0 346], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:24] [info] Object created with model 1655 at [1586.16 1342.7 10.89].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 53 modelid: 1655
+[12-11-2026 23:25:24] [info] CObject::CObject(1655, [1587.7 1348.85 15.01], [20 0 346], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:24] [info] Object created with model 1655 at [1587.7 1348.85 15.01].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 54 modelid: 19002
+[12-11-2026 23:25:24] [info] CObject::CObject(19002, [1590.93 1359.21 23.66], [0 0 346.93], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:24] [info] Object created with model 19002 at [1590.93 1359.21 23.66].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 55 modelid: 18830
+[12-11-2026 23:25:24] [info] CObject::CObject(18830, [1440 1278 36], [359.5 270 90], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:24] [info] Object created with model 18830 at [1440 1278 36].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 56 modelid: 18830
+[12-11-2026 23:25:24] [info] CObject::CObject(18830, [1440 1288.52 16.64], [359.8 214 90], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:24] [info] Object created with model 18830 at [1440 1288.52 16.64].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 57 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 1009.83 133.43], [-42.27 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 1009.83 133.43].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 58 modelid: 19005
+[12-11-2026 23:25:24] [info] CObject::CObject(19005, [1541.51 1373.24 12.5], [0 0 11.01], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19005
+[12-11-2026 23:25:24] [info] Object created with model 19005 at [1541.51 1373.24 12.5].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 59 modelid: 18830
+[12-11-2026 23:25:24] [info] CObject::CObject(18830, [1425 1278 36], [359.49 270 90], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:24] [info] Object created with model 18830 at [1425 1278 36].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 60 modelid: 18830
+[12-11-2026 23:25:24] [info] CObject::CObject(18830, [1425 1288.52 16.64], [359.8 214 90], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:24] [info] Object created with model 18830 at [1425 1288.52 16.64].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 61 modelid: 1655
+[12-11-2026 23:25:24] [info] CObject::CObject(1655, [1619.06 1405.84 21.58], [0 0 320], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:24] [info] Object created with model 1655 at [1619.06 1405.84 21.58].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 62 modelid: 18776
+[12-11-2026 23:25:24] [info] CObject::CObject(18776, [1371.3 1234.7 12.89], [0 0 90], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18776
+[12-11-2026 23:25:24] [info] Object created with model 18776 at [1371.3 1234.7 12.89].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 63 modelid: 18776
+[12-11-2026 23:25:24] [info] CObject::CObject(18776, [1367.83 1234.7 14.8], [14 0 90], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 18776
+[12-11-2026 23:25:24] [info] Object created with model 18776 at [1367.83 1234.7 14.8].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 64 modelid: 19071
+[12-11-2026 23:25:24] [info] CObject::CObject(19071, [1520.99 968.83 170.88], [-42.57 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:24] [info] Object created with model 19071 at [1520.99 968.83 170.88].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 65 modelid: 8493
+[12-11-2026 23:25:24] [info] CObject::CObject(8493, [1512.8 1413.71 25.78], [0 0 123.64], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 8493
+[12-11-2026 23:25:24] [info] Object created with model 8493 at [1512.8 1413.71 25.78].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 66 modelid: 1655
+[12-11-2026 23:25:24] [info] CObject::CObject(1655, [1635.02 1435.8 27.3], [0 0 0], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:24] [info] Object created with model 1655 at [1635.02 1435.8 27.3].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 67 modelid: 19005
+[12-11-2026 23:25:24] [info] CObject::CObject(19005, [1603.36 1448.71 34.81], [0 0 90], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19005
+[12-11-2026 23:25:24] [info] Object created with model 19005 at [1603.36 1448.71 34.81].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 68 modelid: 19002
+[12-11-2026 23:25:24] [info] CObject::CObject(19002, [1588.11 1448.32 46.28], [0 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:24] [info] Object created with model 19002 at [1588.11 1448.32 46.28].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 69 modelid: 19002
+[12-11-2026 23:25:24] [info] CObject::CObject(19002, [1583.31 1448.02 46.28], [0 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:24] [info] Object created with model 19002 at [1583.31 1448.02 46.28].
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:24] [info] obj id: 70 modelid: 19002
+[12-11-2026 23:25:24] [info] CObject::CObject(19002, [1578.17 1447.79 46.28], [0 0 270], 0, 0).
+[12-11-2026 23:25:24] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:24] [info] Object created with model 19002 at [1578.17 1447.79 46.28].
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrTogglePlayerControllable
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetSpawnInfo
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrResetPlayerWeapons
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrGivePlayerWeapon
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrShowGameText
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerCameraBehindPlayer
+[12-11-2026 23:25:24] [info] RPC: World vehicle add
+[12-11-2026 23:25:24] [info] CVehicle::CVehicle(538, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[12-11-2026 23:25:24] [info] GamePrepareTrain
+[12-11-2026 23:25:24] [info] CVehicle::CVehicle(570, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[12-11-2026 23:25:24] [error] CEntity::SetModelIndex: m_entity is nullptr
+[12-11-2026 23:25:24] [info] CVehicle::CVehicle(570, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[12-11-2026 23:25:24] [error] CEntity::SetModelIndex: m_entity is nullptr
+[12-11-2026 23:25:24] [info] CVehicle::CVehicle(570, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[12-11-2026 23:25:24] [error] CEntity::SetModelIndex: m_entity is nullptr
+[12-11-2026 23:25:24] [info] dwTime 251737544
+[12-11-2026 23:25:24] [info] RPC: Client message 
+[12-11-2026 23:25:24] [info] dwColor 4294967295
+[12-11-2026 23:25:24] [info] dwStrLen 77
+[12-11-2026 23:25:24] [info] szMsg {1271C9}GTA9_tmp5: {FFFFFF}(65) {FFFFFF}a cada uno le gustan cosas diferentes
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:24] [info] RPC: Server quit
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] Java_com_samp_game_ui_UI_sendDialogResponse
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] RPC: Update 3D text label
+[12-11-2026 23:25:24] [info] RPC: Create 3D text label
+[12-11-2026 23:25:24] [info] Vehicle 366 is removed
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrSetPlayerDrunkLevel
+[12-11-2026 23:25:24] [info] ScriptRPC: ScrShowTextDraw
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:25] [info] RPC: Player Death
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(411, 2012.7852, 1177.7339, 10.547398, 233.2171, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 1025
+[12-11-2026 23:25:25] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(487, 1909.06, 1364.9, 24.8954, 269.30298, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 1281
+[12-11-2026 23:25:25] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(504, 1555.5, 1196, 10.5322, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 1537
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(487, 1908.98, 1342.93, 24.8954, 269.096, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 1793
+[12-11-2026 23:25:25] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(558, 1555.5082, 1164, 10.442039, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 2049
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(522, 1618.505, 1199.9679, 10.3806, 100, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 2305
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(522, 1618.505, 1205.9679, 10.3806, 100, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 2561
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(415, 1555.5, 1180, 10.5322, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 2817
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(522, 1618.505, 1209.9679, 10.3806, 100, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 3073
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(411, 1555.5, 1160, 11.547804, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 3329
+[12-11-2026 23:25:25] [info] RPC: World vehicle remove
+[12-11-2026 23:25:25] [info] VehicleID 366
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(513, 1283.458, 1323.911, 11.093, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 258
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(477, 1555.5, 1184, 10.5322, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 514
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(487, 1909.39, 1323.53, 24.8534, 269.39, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 770
+[12-11-2026 23:25:25] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(541, 1555.505, 1176, 10.415692, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 3585
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(565, 1555.5, 1188, 10.5322, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 3841
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(534, 1555.5133, 1172, 10.519689, 269.99905, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 4097
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(522, 1618.505, 1201.9679, 10.3806, 100, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 4353
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(420, 1555.5, 1192, 10.5322, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 4609
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(522, 1618.505, 1207.9679, 10.3806, 100, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 4865
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(411, 2011.3992, 1155.8048, 10.547396, 296.57785, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 5121
+[12-11-2026 23:25:25] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(522, 1618.505, 1203.9679, 10.3806, 100, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 5377
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(424, 1555.5192, 1168, 10.6581955, 270.00012, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 5633
+[12-11-2026 23:25:25] [info] RPC: World vehicle add
+[12-11-2026 23:25:25] [info] CVehicle::CVehicle(513, 1282.288, 1360.73, 10.968, 270, false, false)
+[12-11-2026 23:25:25] [info] vehicle ret id: 5889
+[12-11-2026 23:25:25] [info] RPC: Pickup
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 1242
+[12-11-2026 23:25:25] [info] RPC: Pickup
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 370
+[12-11-2026 23:25:25] [info] RPC: Create 3D text label
+[12-11-2026 23:25:25] [info] RPC: World player add
+[12-11-2026 23:25:25] [info] CRemotePlayer::Spawn: 27 100 201 1617.1698 1177.2594 14.21875 170.86537
+[12-11-2026 23:25:25] [info] CPlayerPed::CPlayerPed(2, 201, 1617.1698, 1177.2594, 14.21875, 170.86537)
+[12-11-2026 23:25:25] [info] SetModelIndex: 201
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 201
+[12-11-2026 23:25:25] [info] IsValidPedModel: (201)
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 201
+[12-11-2026 23:25:25] [info] GetModelRWObject: 201
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:25] [info] CObject::CObject(19472, [1617.1698 1177.2594 14.36875], [88.696 80.898 0], 200, 1).
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 19472
+[12-11-2026 23:25:25] [info] Object created with model 19472 at [1617.1698 1177.2594 14.36875].
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:25] [info] CObject::CObject(358, [1617.1698 1177.2594 14.36875], [5.999 49.999 0], 200, 1).
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 358
+[12-11-2026 23:25:25] [info] Object created with model 358 at [1617.1698 1177.2594 14.36875].
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:25] [info] CObject::CObject(18914, [1617.1698 1177.2594 14.36875], [-85.899 -18.3 -91.5], 200, 1).
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 18914
+[12-11-2026 23:25:25] [info] Object created with model 18914 at [1617.1698 1177.2594 14.36875].
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:25] [info] CObject::CObject(19351, [1617.1698 1177.2594 14.36875], [81.5 0 19.3], 200, 1).
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 19351
+[12-11-2026 23:25:25] [info] Object created with model 19351 at [1617.1698 1177.2594 14.36875].
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:25] [info] CObject::CObject(19351, [1617.1698 1177.2594 14.36875], [11 27.1 128.7], 200, 1).
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 19351
+[12-11-2026 23:25:25] [info] Object created with model 19351 at [1617.1698 1177.2594 14.36875].
+[12-11-2026 23:25:25] [info] RPC: World player add
+[12-11-2026 23:25:25] [info] CRemotePlayer::Spawn: 19 100 209 1614.91 1164.06 14.3205 34.999996
+[12-11-2026 23:25:25] [info] CPlayerPed::CPlayerPed(3, 209, 1614.91, 1164.06, 14.3205, 34.999996)
+[12-11-2026 23:25:25] [info] SetModelIndex: 209
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 209
+[12-11-2026 23:25:25] [info] IsValidPedModel: (209)
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 209
+[12-11-2026 23:25:25] [info] GetModelRWObject: 209
+[12-11-2026 23:25:25] [info] RPC: World player add
+[12-11-2026 23:25:25] [info] CRemotePlayer::Spawn: 21 100 23 1614.6537 1165.9154 14.21875 18.079836
+[12-11-2026 23:25:25] [info] CPlayerPed::CPlayerPed(4, 23, 1614.6537, 1165.9154, 14.21875, 18.079836)
+[12-11-2026 23:25:25] [info] SetModelIndex: 23
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 23
+[12-11-2026 23:25:25] [info] IsValidPedModel: (23)
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 23
+[12-11-2026 23:25:25] [info] GetModelRWObject: 23
+[12-11-2026 23:25:25] [info] RPC: World player add
+[12-11-2026 23:25:25] [info] CRemotePlayer::Spawn: 5 100 299 1614.2493 1163.8805 14.21875 57.720932
+[12-11-2026 23:25:25] [info] CPlayerPed::CPlayerPed(5, 299, 1614.2493, 1163.8805, 14.21875, 57.720932)
+[12-11-2026 23:25:25] [info] SetModelIndex: 299
+[12-11-2026 23:25:25] [info] GetModelInfoByID: 299
+[12-11-2026 23:25:25] [info] IsValidPedModel: (299)
+[12-11-2026 23:25:25] [info] saveBytesToMap addr: 0x7892da92 bytes: f0 f4 ee ea 
+[12-11-2026 23:25:25] [info] saveBytesToMap addr: 0x7873ecac bytes: a8 f3 
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerHealth
+[12-11-2026 23:25:25] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:25] [info] CycleWeaponLeftJustDown isPressed
+[12-11-2026 23:25:25] [info] CycleWeaponLeftJustDown isPressed
+[12-11-2026 23:25:25] [info] Vehicle 85 is removed
+[12-11-2026 23:25:25] [info] Vehicle 86 is removed
+[12-11-2026 23:25:25] [info] Vehicle 1093 is removed
+[12-11-2026 23:25:25] [info] Vehicle 1095 is removed
+[12-11-2026 23:25:25] [info] Vehicle 1190 is removed
+[12-11-2026 23:25:25] [info] Vehicle 1191 is removed
+[12-11-2026 23:25:25] [info] Vehicle 1192 is removed
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerHealth
+[12-11-2026 23:25:25] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:25] [info] ScriptRPC: ScrSetPlayerHealth
+[12-11-2026 23:25:25] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:25] [info] SendTakeDamageEvent: PlayerID: 65535, fDamageFactor: 10, weaponType: 54, pedPieceType: 3
+[12-11-2026 23:25:26] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:26] [info] ScriptRPC: ScrHideTextDraw
+[12-11-2026 23:25:26] [info] RPC: Client message 
+[12-11-2026 23:25:26] [info] dwColor 16711935
+[12-11-2026 23:25:26] [info] dwStrLen 65
+[12-11-2026 23:25:26] [info] szMsg * Paisa..(27) has killed Nogueira_tmp2(41) and is now Most Wanted
+[12-11-2026 23:25:26] [info] ScriptRPC: ScrShowGameText
+[12-11-2026 23:25:26] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:26] [info] ScriptRPC: ScrSetPlayerWantedLevel
+[12-11-2026 23:25:26] [info] ScriptRPC: ScrShowTextDraw
+[12-11-2026 23:25:26] [info] PlayerID 50
+[12-11-2026 23:25:26] [info] dwMarkerColor 1229562111
+[12-11-2026 23:25:26] [info] byteIsNPC 0
+[12-11-2026 23:25:26] [info] szPlayerName Skript
+[12-11-2026 23:25:26] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:26] [info] ScriptRPC: ScrSetPlayerName
+[12-11-2026 23:25:26] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:27] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:27] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:27] [info] RPC: World player remove
+[12-11-2026 23:25:27] [info] playerId 5
+[12-11-2026 23:25:27] [info] Destroying PlayerPed(5)
+[12-11-2026 23:25:27] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:27] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:28] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:28] [info] RPC: Player Death
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:29] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:29] [info] RPC: Player Death
+[12-11-2026 23:25:30] [info] ScriptRPC: ScrSetPlayerName
+[12-11-2026 23:25:30] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:32] [info] RPC: World player remove
+[12-11-2026 23:25:32] [info] playerId 19
+[12-11-2026 23:25:32] [info] Destroying PlayerPed(3)
+[12-11-2026 23:25:32] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:32] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:32] [info] PlayerID 52
+[12-11-2026 23:25:32] [info] dwMarkerColor 344689663
+[12-11-2026 23:25:32] [info] byteIsNPC 0
+[12-11-2026 23:25:32] [info] szPlayerName SWYnai
+[12-11-2026 23:25:32] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:32] [info] Spawn localplayer
+[12-11-2026 23:25:32] [error] GetSymbol: Invalid address! Address: 0x0 Name: _ZZ20Menu_SwitchOffToGamevE12bInitWidgets
+[12-11-2026 23:25:32] [info] Widgets not inited
+[12-11-2026 23:25:32] [info] SetModelIndex: 299
+[12-11-2026 23:25:32] [info] GetModelInfoByID: 299
+[12-11-2026 23:25:32] [info] IsValidPedModel: (299)
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrHideTextDraw
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetArmedWeapon
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerHealth
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerArmour
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDisableVehicleCollisions
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrTogglePlayerControllable
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerInterior
+[12-11-2026 23:25:33] [info] refresh streaming at x: 1614.91, y: 1164.06
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerPos
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerFacingAngle
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 69
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 68
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 67
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 66
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19005
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 65
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 64
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 8493
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 63
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 62
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19005
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 61
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 60
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 59
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 58
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 57
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 56
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 55
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18776
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 54
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 53
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 52
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 51
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 50
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 49
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 3508
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 48
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1633
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 47
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 46
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 45
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 44
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 43
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18834
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 42
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 41
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 40
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 39
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 38
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 37
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 3508
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 36
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 35
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 34
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18776
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 33
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 32
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 31
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 30
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 29
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 28
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 27
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 26
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 25
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 24
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 23
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 22
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 21
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 901
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 20
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19071
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 19
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 18
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 3508
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 17
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1633
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 16
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 619
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 15
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 619
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 14
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 3279
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 13
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:33] [info] DestroyObject; Total objects: 12
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18822
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 13 modelid: 9241
+[12-11-2026 23:25:33] [info] CObject::CObject(9241, [-1179.34 33.11 14.81], [0 0 315], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 9241
+[12-11-2026 23:25:33] [info] Object created with model 9241 at [-1179.34 33.11 14.81].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 14 modelid: 619
+[12-11-2026 23:25:33] [info] CObject::CObject(619, [-1183.87 48.75 12.54], [0 0 38.13], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 619
+[12-11-2026 23:25:33] [info] Object created with model 619 at [-1183.87 48.75 12.54].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 15 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1160.16 29.26 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1160.16 29.26 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 16 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1177.01 12.59 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1177.01 12.59 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 17 modelid: 16113
+[12-11-2026 23:25:33] [info] CObject::CObject(16113, [-1157.32 53.38 9], [0 0 180.57], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 16113
+[12-11-2026 23:25:33] [info] Object created with model 16113 at [-1157.32 53.38 9].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 18 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1194.1 -4.45 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1194.1 -4.45 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 19 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1211.42 -21.2 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1211.42 -21.2 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 20 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1241.71 30.43 32], [0 0 316.56], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1241.71 30.43 32].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 21 modelid: 13592
+[12-11-2026 23:25:33] [info] CObject::CObject(13592, [-1220.43 87.77 22.95], [0 0 318.26], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 13592
+[12-11-2026 23:25:33] [info] Object created with model 13592 at [-1220.43 87.77 22.95].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 22 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1231.35 81.96 11.43], [0 0 44.46], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1231.35 81.96 11.43].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 23 modelid: 19901
+[12-11-2026 23:25:33] [info] CObject::CObject(19901, [-1249.26 53.75 26.95], [0 22 315], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19901
+[12-11-2026 23:25:33] [info] Object created with model 19901 at [-1249.26 53.75 26.95].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 24 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1234.39 85.07 14.28], [18 0 44], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1234.39 85.07 14.28].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 25 modelid: 18367
+[12-11-2026 23:25:33] [info] CObject::CObject(18367, [-1252.47 18.55 31.31], [20 0 318], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18367
+[12-11-2026 23:25:33] [info] Object created with model 18367 at [-1252.47 18.55 31.31].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 26 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1228.23 -38.03 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1228.23 -38.03 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 27 modelid: 13592
+[12-11-2026 23:25:33] [info] CObject::CObject(13592, [-1250.28 115.11 22.95], [0 0 321.1], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 13592
+[12-11-2026 23:25:33] [info] Object created with model 13592 at [-1250.28 115.11 22.95].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 28 modelid: 18786
+[12-11-2026 23:25:33] [info] CObject::CObject(18786, [-1290.61 35.23 33.19], [0 0 180.47], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18786
+[12-11-2026 23:25:33] [info] Object created with model 18786 at [-1290.61 35.23 33.19].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 29 modelid: 18367
+[12-11-2026 23:25:33] [info] CObject::CObject(18367, [-1294.36 14.86 16.74], [-8 0 46], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18367
+[12-11-2026 23:25:33] [info] Object created with model 18367 at [-1294.36 14.86 16.74].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 30 modelid: 18809
+[12-11-2026 23:25:33] [info] CObject::CObject(18809, [-1256.19 -54.54 22.41], [80 0 314.91], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18809
+[12-11-2026 23:25:33] [info] Object created with model 18809 at [-1256.19 -54.54 22.41].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 31 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1296.9 17.28 14.6], [0 0 224.12], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1296.9 17.28 14.6].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 32 modelid: 18784
+[12-11-2026 23:25:33] [info] CObject::CObject(18784, [-1290.16 -23.44 15.38], [0 0 180.55], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18784
+[12-11-2026 23:25:33] [info] Object created with model 18784 at [-1290.16 -23.44 15.38].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 33 modelid: 18783
+[12-11-2026 23:25:33] [info] CObject::CObject(18783, [-1310.26 35.09 28.28], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18783
+[12-11-2026 23:25:33] [info] Object created with model 18783 at [-1310.26 35.09 28.28].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 34 modelid: 18784
+[12-11-2026 23:25:33] [info] CObject::CObject(18784, [-1310.23 15.62 26.61], [0 -10 90], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18784
+[12-11-2026 23:25:33] [info] Object created with model 18784 at [-1310.23 15.62 26.61].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 35 modelid: 18784
+[12-11-2026 23:25:33] [info] CObject::CObject(18784, [-1310.25 54.51 26.61], [0 -10 270], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18784
+[12-11-2026 23:25:33] [info] Object created with model 18784 at [-1310.25 54.51 26.61].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 36 modelid: 622
+[12-11-2026 23:25:33] [info] CObject::CObject(622, [-1290.92 -38.79 12.59], [0 0 8.9], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 622
+[12-11-2026 23:25:33] [info] Object created with model 622 at [-1290.92 -38.79 12.59].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 37 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1262.46 141.44 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1262.46 141.44 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 38 modelid: 18784
+[12-11-2026 23:25:33] [info] CObject::CObject(18784, [-1310.18 -3.79 20.18], [0 0 90.03], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18784
+[12-11-2026 23:25:33] [info] Object created with model 18784 at [-1310.18 -3.79 20.18].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 39 modelid: 18784
+[12-11-2026 23:25:33] [info] CObject::CObject(18784, [-1310.35 73.06 18.08], [0 -10 270], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18784
+[12-11-2026 23:25:33] [info] Object created with model 18784 at [-1310.35 73.06 18.08].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 40 modelid: 18783
+[12-11-2026 23:25:33] [info] CObject::CObject(18783, [-1309.99 -23.49 15.5], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18783
+[12-11-2026 23:25:33] [info] Object created with model 18783 at [-1309.99 -23.49 15.5].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 41 modelid: 18784
+[12-11-2026 23:25:33] [info] CObject::CObject(18784, [-1310.44 91.91 9.71], [0 -10 270], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18784
+[12-11-2026 23:25:33] [info] Object created with model 18784 at [-1310.44 91.91 9.71].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 42 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1263.3 157.87 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1263.3 157.87 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 43 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1288.37 150.12 14.2], [0 0 27.02], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1288.37 150.12 14.2].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 44 modelid: 19005
+[12-11-2026 23:25:33] [info] CObject::CObject(19005, [-1319.18 -46.05 16.02], [0 0 222.46], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19005
+[12-11-2026 23:25:33] [info] Object created with model 19005 at [-1319.18 -46.05 16.02].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 45 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1265.47 173.56 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1265.47 173.56 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 46 modelid: 18809
+[12-11-2026 23:25:33] [info] CObject::CObject(18809, [-1291.07 -89.33 31.13], [80 0 314.91], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18809
+[12-11-2026 23:25:33] [info] Object created with model 18809 at [-1291.07 -89.33 31.13].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 47 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1291.95 157.21 18.34], [6 0 27], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1291.95 157.21 18.34].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 48 modelid: 712
+[12-11-2026 23:25:33] [info] CObject::CObject(712, [-1271.61 188.38 22.56], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:33] [info] Object created with model 712 at [-1271.61 188.38 22.56].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 49 modelid: 13592
+[12-11-2026 23:25:33] [info] CObject::CObject(13592, [-1372.81 2.38 22.96], [0 0 322.27], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 13592
+[12-11-2026 23:25:33] [info] Object created with model 13592 at [-1372.81 2.38 22.96].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 50 modelid: 18779
+[12-11-2026 23:25:33] [info] CObject::CObject(18779, [-1372.05 -26.54 47.38], [0 0 224.05], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18779
+[12-11-2026 23:25:33] [info] Object created with model 18779 at [-1372.05 -26.54 47.38].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 51 modelid: 18779
+[12-11-2026 23:25:33] [info] CObject::CObject(18779, [-1379.72 -18.6 47.38], [0 0 224.05], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18779
+[12-11-2026 23:25:33] [info] Object created with model 18779 at [-1379.72 -18.6 47.38].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 52 modelid: 19005
+[12-11-2026 23:25:33] [info] CObject::CObject(19005, [-1213.1 -175.46 13.04], [0 0 194.23], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19005
+[12-11-2026 23:25:33] [info] Object created with model 19005 at [-1213.1 -175.46 13.04].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 53 modelid: 18809
+[12-11-2026 23:25:33] [info] CObject::CObject(18809, [-1319.09 -125.65 39.34], [80 0 330.39], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18809
+[12-11-2026 23:25:33] [info] Object created with model 18809 at [-1319.09 -125.65 39.34].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 54 modelid: 18786
+[12-11-2026 23:25:33] [info] CObject::CObject(18786, [-1365.78 -76.63 15.7], [0 0 359.7], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18786
+[12-11-2026 23:25:33] [info] Object created with model 18786 at [-1365.78 -76.63 15.7].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 55 modelid: 18857
+[12-11-2026 23:25:33] [info] CObject::CObject(18857, [-1386.1 -40.42 35.49], [0 0 314.08], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18857
+[12-11-2026 23:25:33] [info] Object created with model 18857 at [-1386.1 -40.42 35.49].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 56 modelid: 620
+[12-11-2026 23:25:33] [info] CObject::CObject(620, [-1126.38 -184.19 12.7], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 620
+[12-11-2026 23:25:33] [info] Object created with model 620 at [-1126.38 -184.19 12.7].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 57 modelid: 620
+[12-11-2026 23:25:33] [info] CObject::CObject(620, [-1385.98 -66.78 13], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 620
+[12-11-2026 23:25:33] [info] Object created with model 620 at [-1385.98 -66.78 13].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 58 modelid: 19002
+[12-11-2026 23:25:33] [info] CObject::CObject(19002, [-1386.38 -76.64 24.66], [0 0 268.31], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:33] [info] Object created with model 19002 at [-1386.38 -76.64 24.66].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 59 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1406.74 -24.52 17.88], [28 0 316], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1406.74 -24.52 17.88].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 60 modelid: 18830
+[12-11-2026 23:25:33] [info] CObject::CObject(18830, [-1122.46 -196.87 20.02], [359.8 214 157.22], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] Object created with model 18830 at [-1122.46 -196.87 20.02].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 61 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1408.53 -26.32 15.18], [18 0 316], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1408.53 -26.32 15.18].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 62 modelid: 18857
+[12-11-2026 23:25:33] [info] CObject::CObject(18857, [-1400.63 -54.4 35.73], [0 0 314.08], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18857
+[12-11-2026 23:25:33] [info] Object created with model 18857 at [-1400.63 -54.4 35.73].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 63 modelid: 18450
+[12-11-2026 23:25:33] [info] CObject::CObject(18450, [-1270.26 -187.79 10.72], [0 8 89], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18450
+[12-11-2026 23:25:33] [info] Object created with model 18450 at [-1270.26 -187.79 10.72].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 64 modelid: 1634
+[12-11-2026 23:25:33] [info] CObject::CObject(1634, [-1410.55 -28.43 13.62], [0 0 316.05], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:33] [info] Object created with model 1634 at [-1410.55 -28.43 13.62].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 65 modelid: 620
+[12-11-2026 23:25:33] [info] CObject::CObject(620, [-1386.44 -86.85 13], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 620
+[12-11-2026 23:25:33] [info] Object created with model 620 at [-1386.44 -86.85 13].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 66 modelid: 19002
+[12-11-2026 23:25:33] [info] CObject::CObject(19002, [-1203.39 -209.09 31.52], [0 0 14.83], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:33] [info] Object created with model 19002 at [-1203.39 -209.09 31.52].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 67 modelid: 18830
+[12-11-2026 23:25:33] [info] CObject::CObject(18830, [-1112.76 -201.05 38.4], [359.5 270 157.22], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] Object created with model 18830 at [-1112.76 -201.05 38.4].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 68 modelid: 18830
+[12-11-2026 23:25:33] [info] CObject::CObject(18830, [-1126.99 -207.85 20.02], [359.8 214 157.22], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] Object created with model 18830 at [-1126.99 -207.85 20.02].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 69 modelid: 620
+[12-11-2026 23:25:33] [info] CObject::CObject(620, [-1138.33 -214.59 12.7], [0 0 0], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 620
+[12-11-2026 23:25:33] [info] Object created with model 620 at [-1138.33 -214.59 12.7].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 70 modelid: 18830
+[12-11-2026 23:25:33] [info] CObject::CObject(18830, [-1117.31 -211.95 38.4], [359.5 270 157.22], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18830
+[12-11-2026 23:25:33] [info] Object created with model 18830 at [-1117.31 -211.95 38.4].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 71 modelid: 18786
+[12-11-2026 23:25:33] [info] CObject::CObject(18786, [-1408.43 -77.07 15.7], [0 0 178.92], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18786
+[12-11-2026 23:25:33] [info] Object created with model 18786 at [-1408.43 -77.07 15.7].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 72 modelid: 18809
+[12-11-2026 23:25:33] [info] CObject::CObject(18809, [-1343.5 -168.6 48.2], [80 0 330.39], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18809
+[12-11-2026 23:25:33] [info] Object created with model 18809 at [-1343.5 -168.6 48.2].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 73 modelid: 19002
+[12-11-2026 23:25:33] [info] CObject::CObject(19002, [-1231.76 -236.11 16.16], [-16 0 351], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:33] [info] Object created with model 19002 at [-1231.76 -236.11 16.16].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 74 modelid: 18801
+[12-11-2026 23:25:33] [info] CObject::CObject(18801, [-1280.1 -225.16 39.45], [-2 -6 276], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18801
+[12-11-2026 23:25:33] [info] Object created with model 18801 at [-1280.1 -225.16 39.45].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 75 modelid: 18801
+[12-11-2026 23:25:33] [info] CObject::CObject(18801, [-1299.52 -228.36 39.98], [-2 -6 276], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18801
+[12-11-2026 23:25:33] [info] Object created with model 18801 at [-1299.52 -228.36 39.98].
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:33] [info] obj id: 76 modelid: 18809
+[12-11-2026 23:25:33] [info] CObject::CObject(18809, [-1235.22 -258.57 24.45], [74 0 351], 0, 0).
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 18809
+[12-11-2026 23:25:33] [info] Object created with model 18809 at [-1235.22 -258.57 24.45].
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrTogglePlayerControllable
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetSpawnInfo
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrResetPlayerWeapons
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrGivePlayerWeapon
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrShowGameText
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrSetPlayerCameraBehindPlayer
+[12-11-2026 23:25:33] [info] RPC: Create 3D text label
+[12-11-2026 23:25:33] [info] RPC: World player add
+[12-11-2026 23:25:33] [info] CRemotePlayer::Spawn: 19 100 209 1613.8875 1164.0264 14.21875 60.552254
+[12-11-2026 23:25:33] [info] CPlayerPed::CPlayerPed(3, 209, 1613.8875, 1164.0264, 14.21875, 60.552254)
+[12-11-2026 23:25:33] [info] SetModelIndex: 209
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 209
+[12-11-2026 23:25:33] [info] IsValidPedModel: (209)
+[12-11-2026 23:25:33] [info] RPC: World player add
+[12-11-2026 23:25:33] [info] CRemotePlayer::Spawn: 5 100 299 1614.91 1164.06 14.21875 35.000004
+[12-11-2026 23:25:33] [info] CPlayerPed::CPlayerPed(5, 299, 1614.91, 1164.06, 14.21875, 35.000004)
+[12-11-2026 23:25:33] [info] SetModelIndex: 299
+[12-11-2026 23:25:33] [info] GetModelInfoByID: 299
+[12-11-2026 23:25:33] [info] IsValidPedModel: (299)
+[12-11-2026 23:25:33] [info] Vehicle 75 is removed
+[12-11-2026 23:25:33] [info] Vehicle 76 is removed
+[12-11-2026 23:25:33] [info] Vehicle 77 is removed
+[12-11-2026 23:25:33] [info] Vehicle 78 is removed
+[12-11-2026 23:25:33] [info] Vehicle 79 is removed
+[12-11-2026 23:25:33] [info] Vehicle 80 is removed
+[12-11-2026 23:25:33] [info] Vehicle 81 is removed
+[12-11-2026 23:25:33] [info] Vehicle 82 is removed
+[12-11-2026 23:25:33] [info] Vehicle 83 is removed
+[12-11-2026 23:25:33] [info] Vehicle 84 is removed
+[12-11-2026 23:25:33] [info] Vehicle 89 is removed
+[12-11-2026 23:25:33] [info] Vehicle 90 is removed
+[12-11-2026 23:25:33] [info] Vehicle 91 is removed
+[12-11-2026 23:25:33] [info] Vehicle 92 is removed
+[12-11-2026 23:25:33] [info] Vehicle 93 is removed
+[12-11-2026 23:25:33] [info] Vehicle 94 is removed
+[12-11-2026 23:25:33] [info] RemoveBuilding hook: model 3374
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Create 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Create 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Create 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Create 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Create 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Create 3D text label
+[12-11-2026 23:25:33] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] RPC: Update 3D text label
+[12-11-2026 23:25:33] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrShowTextDraw
+[12-11-2026 23:25:33] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:33] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:33] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:33] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:33] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:33] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:33] [info] RPC: Player Death
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(562, -1193.164, 5.911, 14.431179, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 6145
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 1095
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 411
+[12-11-2026 23:25:34] [info] Destroy car(411): Refs: 2
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 1191
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 487
+[12-11-2026 23:25:34] [info] Destroy car(487): Refs: 2
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 84
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 504
+[12-11-2026 23:25:34] [info] Destroy car(504): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(429, -1196.0581, 3.1677, 14.170271, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 1282
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 1190
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 487
+[12-11-2026 23:25:34] [info] Destroy car(487): Refs: 1
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(593, -1533.2554, -75.7453, 14.6166, 43.519, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 1538
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 76
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 558
+[12-11-2026 23:25:34] [info] Destroy car(558): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 89
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 522
+[12-11-2026 23:25:34] [info] Destroy car(522): Refs: 5
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 92
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 522
+[12-11-2026 23:25:34] [info] Destroy car(522): Refs: 4
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 80
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 415
+[12-11-2026 23:25:34] [info] Destroy car(415): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(411, -1209.4731, -10.9562, 13.8997, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 1794
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(553, -1261.0485, 197.7425, 16.8716, 46.3407, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 2050
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 94
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 522
+[12-11-2026 23:25:34] [info] Destroy car(522): Refs: 3
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(522, -1197.449, 26.41976, 13.716063, 135.01659, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 2306
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 75
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 411
+[12-11-2026 23:25:34] [info] Destroy car(411): Refs: 2
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(522, -1193.388, 22.2075, 13.718, 133.6584, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 2562
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(487, -1238.6805, 12.4005, 14.543981, 225.27238, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 2818
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(575, -1201.4884, -3.0361, 14.142992, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 3074
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(506, -1207.1273, -7.9263, 13.8748, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 3330
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(424, -1212.522, -12.8606, 13.5809, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 6401
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 86
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 513
+[12-11-2026 23:25:34] [info] Destroy car(513): Refs: 1
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 81
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 477
+[12-11-2026 23:25:34] [info] Destroy car(477): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(519, -1344.9688, 107.2967, 15.0662, 44.577995, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 515
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(475, -1214.6775, -15.6295, 13.8748, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 1026
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 1192
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 487
+[12-11-2026 23:25:34] [info] Destroy car(487): Refs: 1
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 79
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 541
+[12-11-2026 23:25:34] [info] Destroy car(541): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(415, -1190.3356, 8.494343, 14.022226, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 3586
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 82
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 565
+[12-11-2026 23:25:34] [info] Destroy car(565): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(560, -1204.4435, -5.2814, 14.1484, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 3842
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(541, -1187.758, 11.2751, 14.389581, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 6657
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 78
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 534
+[12-11-2026 23:25:34] [info] Destroy car(534): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(487, -1228.7546, 22.357, 14.542681, 223.4877, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 6913
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(598, -1198.7074, 0.4103, 14.358279, 45.000004, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 7169
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 90
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 522
+[12-11-2026 23:25:34] [info] Destroy car(522): Refs: 4
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(522, -1195.9446, 24.9655, 13.7178, 135.3438, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 7425
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 83
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 420
+[12-11-2026 23:25:34] [info] Destroy car(420): Refs: 0
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(522, -1198.8667, 27.9051, 13.7174, 137.29478, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 7681
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 93
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 522
+[12-11-2026 23:25:34] [info] Destroy car(522): Refs: 5
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 1093
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 411
+[12-11-2026 23:25:34] [info] Destroy car(411): Refs: 1
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 91
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 522
+[12-11-2026 23:25:34] [info] Destroy car(522): Refs: 4
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(519, -1270.485, 74.1385, 15.0706, 44.7964, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 5122
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(504, -1217.0977, -18.589, 13.9411, 43.390297, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 5378
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 77
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 424
+[12-11-2026 23:25:34] [info] Destroy car(424): Refs: 1
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(513, -1435.0964, 15.7182, 15.0681, 44.1287, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 5634
+[12-11-2026 23:25:34] [info] RPC: World vehicle remove
+[12-11-2026 23:25:34] [info] VehicleID 85
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 513
+[12-11-2026 23:25:34] [info] Destroy car(513): Refs: 1
+[12-11-2026 23:25:34] [info] RPC: World vehicle add
+[12-11-2026 23:25:34] [info] CVehicle::CVehicle(522, -1194.6252, 23.5987, 13.7207, 133.4749, false, false)
+[12-11-2026 23:25:34] [info] vehicle ret id: 5890
+[12-11-2026 23:25:34] [info] RPC: Destroy pickup
+[12-11-2026 23:25:34] [info] RPC: Pickup
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 370
+[12-11-2026 23:25:34] [info] RPC: Destroy pickup
+[12-11-2026 23:25:34] [info] RPC: Pickup
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 1242
+[12-11-2026 23:25:34] [info] RPC: Update 3D text label
+[12-11-2026 23:25:34] [info] RPC: Create 3D text label
+[12-11-2026 23:25:34] [info] RPC: Update 3D text label
+[12-11-2026 23:25:34] [info] RPC: World player remove
+[12-11-2026 23:25:34] [info] playerId 27
+[12-11-2026 23:25:34] [info] Destroying PlayerPed(2)
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 19472
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 358
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 18914
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 19351
+[12-11-2026 23:25:34] [info] GetModelInfoByID: 19351
+[12-11-2026 23:25:34] [info] RPC: World player remove
+[12-11-2026 23:25:34] [info] playerId 19
+[12-11-2026 23:25:34] [info] Destroying PlayerPed(3)
+[12-11-2026 23:25:34] [info] RPC: World player remove
+[12-11-2026 23:25:34] [info] playerId 21
+[12-11-2026 23:25:34] [info] Destroying PlayerPed(4)
+[12-11-2026 23:25:34] [info] RPC: World player remove
+[12-11-2026 23:25:34] [info] playerId 5
+[12-11-2026 23:25:34] [info] Destroying PlayerPed(5)
+[12-11-2026 23:25:34] [info] CycleWeaponLeftJustDown isPressed
+[12-11-2026 23:25:34] [info] CycleWeaponLeftJustDown isPressed
+[12-11-2026 23:25:34] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:34] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:34] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:34] [info] Vehicle 197 is removed
+[12-11-2026 23:25:34] [info] Vehicle 198 is removed
+[12-11-2026 23:25:35] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:35] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:35] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:35] [info] RPC: Update 3D text label
+[12-11-2026 23:25:35] [info] RPC: Create 3D text label
+[12-11-2026 23:25:36] [info] RPC: World player add
+[12-11-2026 23:25:36] [info] CRemotePlayer::Spawn: 5 100 299 -1178.7657 33.7059 16.638126 135
+[12-11-2026 23:25:36] [info] CPlayerPed::CPlayerPed(2, 299, -1178.7657, 33.7059, 16.638126, 135)
+[12-11-2026 23:25:36] [info] SetModelIndex: 299
+[12-11-2026 23:25:36] [info] GetModelInfoByID: 299
+[12-11-2026 23:25:36] [info] IsValidPedModel: (299)
+[12-11-2026 23:25:37] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:37] [info] RPC: Update scores and pings
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (64): score: 138914, ping: 200
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (11): score: 148, ping: 87
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (27): score: 8054, ping: 180
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (57): score: 121605, ping: 51
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (14): score: 21308, ping: 211
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (37): score: 483, ping: 138
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (15): score: 3454, ping: 20
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (90): score: 0, ping: 45
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (25): score: 20209, ping: 40
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (45): score: 19272, ping: 159
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (19): score: 5980, ping: 172
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (26): score: 19921, ping: 35
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (43): score: 63026, ping: 81
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (35): score: 22205, ping: 56
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (12): score: 769, ping: 149
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (23): score: 924, ping: 20
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (8): score: 41612, ping: 56
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (49): score: 25, ping: 160
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (50): score: 64535, ping: 82
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (21): score: 0, ping: 221
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (10): score: 70773, ping: 112
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (48): score: 5264, ping: 117
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (5): score: 0, ping: 287
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (2): score: 0, ping: 65535
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (18): score: 88346, ping: 66
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (80): score: 3730, ping: 81
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (22): score: 41806, ping: 56
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (16): score: 41699, ping: 56
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (24): score: 3639, ping: 40
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (7): score: 213211, ping: 71
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (40): score: 117, ping: 195
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (47): score: 34, ping: 217
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (0): score: 417, ping: 102
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (91): score: 15747, ping: 221
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (20): score: 26273, ping: 138
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (46): score: 68383, ping: 51
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (30): score: 4, ping: 56
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (17): score: 7577, ping: 71
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (9): score: 610, ping: 51
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (31): score: 3724, ping: 45
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (13): score: 18909, ping: 216
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (38): score: 19, ping: 195
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (67): score: 434, ping: 586
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (63): score: 752, ping: 45
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (44): score: 528, ping: 257
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (42): score: 1475, ping: 45
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (81): score: 15, ping: 149
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (33): score: 67, ping: 164
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (85): score: 162303, ping: 175
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (39): score: 4557, ping: 216
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (28): score: 28061, ping: 231
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (29): score: 15872, ping: 35
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (51): score: 1121, ping: 76
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (32): score: 899, ping: 76
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (41): score: 0, ping: 240
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (3): score: 1675, ping: 195
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (72): score: 8045, ping: 211
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (61): score: 1141, ping: 159
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (6): score: 7555, ping: 154
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (4): score: 22044, ping: 51
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (54): score: 0, ping: 195
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (117): score: 10745, ping: 51
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (95): score: 25865, ping: 576
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (56): score: 2456, ping: 117
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (52): score: 2655, ping: 282
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (34): score: 7141, ping: 117
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (84): score: 4149, ping: 71
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (71): score: 2340, ping: 66
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (107): score: 87, ping: 51
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (69): score: 45, ping: 262
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (1): score: 316, ping: 66
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (65): score: 0, ping: 231
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (36): score: 33594, ping: 97
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (60): score: 25, ping: 61
+[12-11-2026 23:25:37] [info] RPC_PINGIP: (59): score: 0, ping: 81
+[12-11-2026 23:25:37] [info] RPC: Update 3D text label
+[12-11-2026 23:25:37] [info] RPC: Create 3D text label
+[12-11-2026 23:25:38] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:38] [info] RPC: World player add
+[12-11-2026 23:25:38] [info] CRemotePlayer::Spawn: 19 100 209 -1179.0016 33.4697 16.638126 135
+[12-11-2026 23:25:38] [info] CPlayerPed::CPlayerPed(3, 209, -1179.0016, 33.4697, 16.638126, 135)
+[12-11-2026 23:25:38] [info] SetModelIndex: 209
+[12-11-2026 23:25:38] [info] GetModelInfoByID: 209
+[12-11-2026 23:25:38] [info] IsValidPedModel: (209)
+[12-11-2026 23:25:38] [info] RPC: Update 3D text label
+[12-11-2026 23:25:38] [info] RPC: Create 3D text label
+[12-11-2026 23:25:39] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:39] [info] RPC: World player add
+[12-11-2026 23:25:39] [info] CRemotePlayer::Spawn: 52 100 169 -1178.7657 33.7059 16.638126 134.99998
+[12-11-2026 23:25:39] [info] CPlayerPed::CPlayerPed(4, 169, -1178.7657, 33.7059, 16.638126, 134.99998)
+[12-11-2026 23:25:39] [info] SetModelIndex: 169
+[12-11-2026 23:25:39] [info] GetModelInfoByID: 169
+[12-11-2026 23:25:39] [info] IsValidPedModel: (169)
+[12-11-2026 23:25:39] [info] GetModelInfoByID: 169
+[12-11-2026 23:25:39] [info] GetModelRWObject: 169
+[12-11-2026 23:25:39] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:39] [info] obj id: 77 modelid: 18818
+[12-11-2026 23:25:39] [info] CObject::CObject(18818, [-1363.02 -203.42 51.99], [90 0 330.62], 0, 0).
+[12-11-2026 23:25:39] [info] GetModelInfoByID: 18818
+[12-11-2026 23:25:39] [info] Object created with model 18818 at [-1363.02 -203.42 51.99].
+[12-11-2026 23:25:39] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:39] [info] obj id: 78 modelid: 18826
+[12-11-2026 23:25:39] [info] CObject::CObject(18826, [-1336.71 -228.11 36.15], [0 0 146.86], 0, 0).
+[12-11-2026 23:25:39] [info] GetModelInfoByID: 18826
+[12-11-2026 23:25:39] [info] Object created with model 18826 at [-1336.71 -228.11 36.15].
+[12-11-2026 23:25:39] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:39] [info] obj id: 79 modelid: 13592
+[12-11-2026 23:25:39] [info] CObject::CObject(13592, [-1371.54 -210.93 22.95], [0 0 333.02], 0, 0).
+[12-11-2026 23:25:39] [info] GetModelInfoByID: 13592
+[12-11-2026 23:25:39] [info] Object created with model 13592 at [-1371.54 -210.93 22.95].
+[12-11-2026 23:25:39] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:39] [info] obj id: 80 modelid: 1634
+[12-11-2026 23:25:39] [info] CObject::CObject(1634, [-1388.35 -205.67 13.32], [0 0 52.58], 0, 0).
+[12-11-2026 23:25:39] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:39] [info] Object created with model 1634 at [-1388.35 -205.67 13.32].
+[12-11-2026 23:25:39] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:39] [info] obj id: 81 modelid: 1634
+[12-11-2026 23:25:39] [info] CObject::CObject(1634, [-1394.52 -201 17.76], [10 0 53], 0, 0).
+[12-11-2026 23:25:39] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:39] [info] Object created with model 1634 at [-1394.52 -201 17.76].
+[12-11-2026 23:25:40] [info] Vehicle 200 is removed
+[12-11-2026 23:25:40] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:40] [info] obj id: 82 modelid: 1634
+[12-11-2026 23:25:40] [info] CObject::CObject(1634, [-1182.5 -287.86 14.17], [0 0 193.53], 0, 0).
+[12-11-2026 23:25:40] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:40] [info] Object created with model 1634 at [-1182.5 -287.86 14.17].
+[12-11-2026 23:25:41] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:41] [info] obj id: 83 modelid: 1655
+[12-11-2026 23:25:41] [info] CObject::CObject(1655, [-1362.62 -232.13 13], [0 0 150.1], 0, 0).
+[12-11-2026 23:25:41] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:41] [info] Object created with model 1655 at [-1362.62 -232.13 13].
+[12-11-2026 23:25:41] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:41] [info] obj id: 84 modelid: 18858
+[12-11-2026 23:25:41] [info] CObject::CObject(18858, [-1412.69 -186.68 33.44], [0 0 58.45], 0, 0).
+[12-11-2026 23:25:41] [info] GetModelInfoByID: 18858
+[12-11-2026 23:25:41] [info] Object created with model 18858 at [-1412.69 -186.68 33.44].
+[12-11-2026 23:25:41] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:41] [info] obj id: 85 modelid: 1655
+[12-11-2026 23:25:41] [info] CObject::CObject(1655, [-1364.77 -235.85 15.28], [14 0 150], 0, 0).
+[12-11-2026 23:25:41] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:41] [info] Object created with model 1655 at [-1364.77 -235.85 15.28].
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:42] [info] obj id: 86 modelid: 1634
+[12-11-2026 23:25:42] [info] CObject::CObject(1634, [-1180.81 -295.18 19.36], [20 0 194], 0, 0).
+[12-11-2026 23:25:42] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:42] [info] Object created with model 1634 at [-1180.81 -295.18 19.36].
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:42] [info] obj id: 87 modelid: 18450
+[12-11-2026 23:25:42] [info] CObject::CObject(18450, [-1310.43 -271.39 22.85], [0 8 89], 0, 0).
+[12-11-2026 23:25:42] [info] GetModelInfoByID: 18450
+[12-11-2026 23:25:42] [info] Object created with model 18450 at [-1310.43 -271.39 22.85].
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:42] [info] obj id: 88 modelid: 1634
+[12-11-2026 23:25:42] [info] CObject::CObject(1634, [-1180.72 -295.45 34.24], [115 0 194], 0, 0).
+[12-11-2026 23:25:42] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:42] [info] Object created with model 1634 at [-1180.72 -295.45 34.24].
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:42] [info] NotifyEnterVehicle: 0x6F0264A0
+[12-11-2026 23:25:42] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:42] [info] DestroyObject; Total objects: 87
+[12-11-2026 23:25:42] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:43] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:43] [info] DestroyObject; Total objects: 86
+[12-11-2026 23:25:43] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:43] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:43] [info] DestroyObject; Total objects: 85
+[12-11-2026 23:25:43] [info] GetModelInfoByID: 18450
+[12-11-2026 23:25:43] [info] RPC: World player remove
+[12-11-2026 23:25:43] [info] playerId 52
+[12-11-2026 23:25:43] [info] Destroying PlayerPed(4)
+[12-11-2026 23:25:43] [info] RPC: Update 3D text label
+[12-11-2026 23:25:43] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:43] [info] obj id: 86 modelid: 18450
+[12-11-2026 23:25:43] [info] CObject::CObject(18450, [-1310.43 -271.39 22.85], [0 8 89], 0, 0).
+[12-11-2026 23:25:43] [info] GetModelInfoByID: 18450
+[12-11-2026 23:25:43] [info] Object created with model 18450 at [-1310.43 -271.39 22.85].
+[12-11-2026 23:25:44] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:44] [info] obj id: 87 modelid: 1634
+[12-11-2026 23:25:44] [info] CObject::CObject(1634, [-1180.81 -295.18 19.36], [20 0 194], 0, 0).
+[12-11-2026 23:25:44] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:44] [info] Object created with model 1634 at [-1180.81 -295.18 19.36].
+[12-11-2026 23:25:44] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:44] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:44] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:45] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:45] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:45] [info] DestroyObject; Total objects: 86
+[12-11-2026 23:25:45] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrHideTextDraw
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrShowTextDraw
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrShowTextDraw
+[12-11-2026 23:25:46] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:46] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:46] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:46] [info] RPC: Client message 
+[12-11-2026 23:25:46] [info] dwColor 16711935
+[12-11-2026 23:25:46] [info] dwStrLen 57
+[12-11-2026 23:25:46] [info] szMsg >> Your vehicle has been automatically locked (/autolock)
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrSetPlayerCameraBehindPlayer
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrSetVehicleHealth
+[12-11-2026 23:25:46] [info] RPC: Damage vehicle
+[12-11-2026 23:25:46] [info] RPC: VehicleParamsEx
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrSetVehicleHealth
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:46] [info] DestroyObject; Total objects: 85
+[12-11-2026 23:25:46] [info] GetModelInfoByID: 18450
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:46] [info] obj id: 86 modelid: 19477
+[12-11-2026 23:25:46] [info] CObject::CObject(19477, [0 0 0], [0 0 0], 0, 0).
+[12-11-2026 23:25:46] [info] GetModelInfoByID: 19477
+[12-11-2026 23:25:46] [info] Object created with model 19477 at [0 0 0].
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:46] [info] obj id: 86 modelid: 19477
+[12-11-2026 23:25:46] [info] GetModelInfoByID: 19477
+[12-11-2026 23:25:46] [info] CObject::CObject(19477, [0 0 0], [0 0 0], 0, 0).
+[12-11-2026 23:25:46] [info] GetModelInfoByID: 19477
+[12-11-2026 23:25:46] [info] Object created with model 19477 at [0 0 0].
+[12-11-2026 23:25:46] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:46] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:25:47] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:47] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:47] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:47] [info] Vehicle 200 is added
+[12-11-2026 23:25:47] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:47] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:47] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}31 {FFFFFF}km/h).
+[12-11-2026 23:25:48] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:48] [info] DestroyObject; Total objects: 86
+[12-11-2026 23:25:48] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:48] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:48] [info] obj id: 82 modelid: 1634
+[12-11-2026 23:25:48] [info] CObject::CObject(1634, [-1442.65 -164.5 24.73], [0 0 55.18], 0, 0).
+[12-11-2026 23:25:48] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:48] [info] Object created with model 1634 at [-1442.65 -164.5 24.73].
+[12-11-2026 23:25:48] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:48] [info] obj id: 87 modelid: 1634
+[12-11-2026 23:25:48] [info] CObject::CObject(1634, [-1444.78 -163.01 26.14], [10 0 55], 0, 0).
+[12-11-2026 23:25:48] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:48] [info] Object created with model 1634 at [-1444.78 -163.01 26.14].
+[12-11-2026 23:25:48] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:48] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}44 {FFFFFF}km/h).
+[12-11-2026 23:25:48] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:48] [info] RPC: Player Death
+[12-11-2026 23:25:48] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:48] [info] obj id: 88 modelid: 1634
+[12-11-2026 23:25:48] [info] CObject::CObject(1634, [-1182.5 -287.86 14.17], [0 0 193.53], 0, 0).
+[12-11-2026 23:25:48] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:48] [info] Object created with model 1634 at [-1182.5 -287.86 14.17].
+[12-11-2026 23:25:48] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:48] [info] obj id: 89 modelid: 18450
+[12-11-2026 23:25:48] [info] CObject::CObject(18450, [-1310.43 -271.39 22.85], [0 8 89], 0, 0).
+[12-11-2026 23:25:48] [info] GetModelInfoByID: 18450
+[12-11-2026 23:25:48] [info] Object created with model 18450 at [-1310.43 -271.39 22.85].
+[12-11-2026 23:25:49] [info] Vehicle 200 is removed
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:49] [info] obj id: 90 modelid: 1634
+[12-11-2026 23:25:49] [info] CObject::CObject(1634, [-1180.81 -295.18 19.36], [20 0 194], 0, 0).
+[12-11-2026 23:25:49] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:49] [info] Object created with model 1634 at [-1180.81 -295.18 19.36].
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:49] [info] obj id: 91 modelid: 1634
+[12-11-2026 23:25:49] [info] CObject::CObject(1634, [-1180.72 -295.45 34.24], [115 0 194], 0, 0).
+[12-11-2026 23:25:49] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:49] [info] Object created with model 1634 at [-1180.72 -295.45 34.24].
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:49] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}65 {FFFFFF}km/h).
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:49] [info] obj id: 92 modelid: 1634
+[12-11-2026 23:25:49] [info] CObject::CObject(1634, [-1179.95 -298.4 27.44], [62 0 194], 0, 0).
+[12-11-2026 23:25:49] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:49] [info] Object created with model 1634 at [-1179.95 -298.4 27.44].
+[12-11-2026 23:25:49] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:49] [info] obj id: 93 modelid: 18824
+[12-11-2026 23:25:49] [info] CObject::CObject(18824, [-1230.16 -303.04 36], [77 40 356], 0, 0).
+[12-11-2026 23:25:49] [info] GetModelInfoByID: 18824
+[12-11-2026 23:25:49] [info] Object created with model 18824 at [-1230.16 -303.04 36].
+[12-11-2026 23:25:50] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:50] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:50] [info] obj id: 94 modelid: 1655
+[12-11-2026 23:25:50] [info] CObject::CObject(1655, [-1474.68 -177.21 14.49], [5 0 279.02], 0, 0).
+[12-11-2026 23:25:50] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:50] [info] Object created with model 1655 at [-1474.68 -177.21 14.49].
+[12-11-2026 23:25:50] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:50] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}79 {FFFFFF}km/h).
+[12-11-2026 23:25:50] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:50] [info] obj id: 95 modelid: 1655
+[12-11-2026 23:25:50] [info] CObject::CObject(1655, [-1476.21 -177.43 13.88], [0 0 278.71], 0, 0).
+[12-11-2026 23:25:50] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:50] [info] Object created with model 1655 at [-1476.21 -177.43 13.88].
+[12-11-2026 23:25:50] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:50] [info] obj id: 96 modelid: 18982
+[12-11-2026 23:25:50] [info] CObject::CObject(18982, [-1505.18 -122.79 18.17], [0 0 314.84], 0, 0).
+[12-11-2026 23:25:50] [info] GetModelInfoByID: 18982
+[12-11-2026 23:25:50] [info] Object created with model 18982 at [-1505.18 -122.79 18.17].
+[12-11-2026 23:25:50] [info] RPC: Update 3D text label
+[12-11-2026 23:25:50] [info] RPC: Create 3D text label
+[12-11-2026 23:25:50] [info] RPC: World player add
+[12-11-2026 23:25:50] [info] CRemotePlayer::Spawn: 21 100 23 -1178.7657 33.7059 16.638126 135
+[12-11-2026 23:25:50] [info] CPlayerPed::CPlayerPed(4, 23, -1178.7657, 33.7059, 16.638126, 135)
+[12-11-2026 23:25:50] [info] SetModelIndex: 23
+[12-11-2026 23:25:50] [info] GetModelInfoByID: 23
+[12-11-2026 23:25:50] [info] IsValidPedModel: (23)
+[12-11-2026 23:25:50] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:50] [info] obj id: 97 modelid: 1655
+[12-11-2026 23:25:50] [info] CObject::CObject(1655, [-1311.25 -311.94 29], [0 0 178.05], 0, 0).
+[12-11-2026 23:25:50] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:50] [info] Object created with model 1655 at [-1311.25 -311.94 29].
+[12-11-2026 23:25:51] [info] Vehicle 198 is added
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:51] [info] obj id: 98 modelid: 1655
+[12-11-2026 23:25:51] [info] CObject::CObject(1655, [-1311.32 -313.86 29.87], [10 0 178], 0, 0).
+[12-11-2026 23:25:51] [info] GetModelInfoByID: 1655
+[12-11-2026 23:25:51] [info] Object created with model 1655 at [-1311.32 -313.86 29.87].
+[12-11-2026 23:25:51] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:51] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrHideTextDraw
+[12-11-2026 23:25:51] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:51] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}83 {FFFFFF}km/h).
+[12-11-2026 23:25:51] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrResetPlayerWeapons
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrGivePlayerWeapon
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrGivePlayerWeapon
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrGivePlayerWeapon
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrGivePlayerWeapon
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrGivePlayerWeapon
+[12-11-2026 23:25:51] [info] RPC: Client message 
+[12-11-2026 23:25:51] [info] dwColor 16711935
+[12-11-2026 23:25:51] [info] dwStrLen 29
+[12-11-2026 23:25:51] [info] szMsg FIGHT: Minigun Fight finished
+[12-11-2026 23:25:51] [info] RPC: Client message 
+[12-11-2026 23:25:51] [info] dwColor 16777215
+[12-11-2026 23:25:51] [info] dwStrLen 20
+[12-11-2026 23:25:51] [info] szMsg * Online players: 75
+[12-11-2026 23:25:51] [info] RPC: Client message 
+[12-11-2026 23:25:51] [info] dwColor 16777215
+[12-11-2026 23:25:51] [info] dwStrLen 107
+[12-11-2026 23:25:51] [info] szMsg {00FFFF}* Go to {FF0000}uifserver.net/vip {00FFFF}for information about {00FF00}Very Important Player (VIP)
+[12-11-2026 23:25:51] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:51] [info] RPC: Player Death
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:52] [info] obj id: 99 modelid: 19002
+[12-11-2026 23:25:52] [info] CObject::CObject(19002, [-1312.13 -326.57 34.68], [0 0 0], 0, 0).
+[12-11-2026 23:25:52] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:52] [info] Object created with model 19002 at [-1312.13 -326.57 34.68].
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:52] [info] obj id: 100 modelid: 18772
+[12-11-2026 23:25:52] [info] CObject::CObject(18772, [-1522.58 -172.62 30.96], [7 0 314.78], 0, 0).
+[12-11-2026 23:25:52] [info] GetModelInfoByID: 18772
+[12-11-2026 23:25:52] [info] Object created with model 18772 at [-1522.58 -172.62 30.96].
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:52] [info] obj id: 101 modelid: 19002
+[12-11-2026 23:25:52] [info] CObject::CObject(19002, [-1311.83 -333.87 37.5], [0 0 0], 0, 0).
+[12-11-2026 23:25:52] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:52] [info] Object created with model 19002 at [-1311.83 -333.87 37.5].
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:52] [info] obj id: 102 modelid: 18824
+[12-11-2026 23:25:52] [info] CObject::CObject(18824, [-1194.9 -332.14 42.6], [105 40 175.9], 0, 0).
+[12-11-2026 23:25:52] [info] GetModelInfoByID: 18824
+[12-11-2026 23:25:52] [info] Object created with model 18824 at [-1194.9 -332.14 42.6].
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:52] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}88 {FFFFFF}km/h).
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:52] [info] obj id: 103 modelid: 18985
+[12-11-2026 23:25:52] [info] CObject::CObject(18985, [-1216.56 -340.16 18.16], [0 0 355.54], 0, 0).
+[12-11-2026 23:25:52] [info] GetModelInfoByID: 18985
+[12-11-2026 23:25:52] [info] Object created with model 18985 at [-1216.56 -340.16 18.16].
+[12-11-2026 23:25:52] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:52] [info] obj id: 104 modelid: 19002
+[12-11-2026 23:25:52] [info] CObject::CObject(19002, [-1312.07 -340 41.2], [0 0 0], 0, 0).
+[12-11-2026 23:25:52] [info] GetModelInfoByID: 19002
+[12-11-2026 23:25:52] [info] Object created with model 19002 at [-1312.07 -340 41.2].
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:25:53] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:53] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}95 {FFFFFF}km/h).
+[12-11-2026 23:25:53] [info] RemoveBuilding hook: model 3374
+[12-11-2026 23:25:53] [info] Vehicle 199 is removed
+[12-11-2026 23:25:54] [info] dwTime 251767567
+[12-11-2026 23:25:54] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:54] [info] obj id: 105 modelid: 18809
+[12-11-2026 23:25:54] [info] CObject::CObject(18809, [-1189.26 -378.87 48.1], [90 0 353.01], 0, 0).
+[12-11-2026 23:25:54] [info] GetModelInfoByID: 18809
+[12-11-2026 23:25:54] [info] Object created with model 18809 at [-1189.26 -378.87 48.1].
+[12-11-2026 23:25:54] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:54] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}97 {FFFFFF}km/h).
+[12-11-2026 23:25:54] [info] Vehicle 198 is removed
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:55] [info] DestroyObject; Total objects: 105
+[12-11-2026 23:25:55] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:25:55] [info] RPC: Player Death
+[12-11-2026 23:25:55] [info] Vehicle 201 is removed
+[12-11-2026 23:25:55] [info] RPC: World player remove
+[12-11-2026 23:25:55] [info] playerId 21
+[12-11-2026 23:25:55] [info] Destroying PlayerPed(4)
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}101 {FFFFFF}km/h).
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:55] [info] DestroyObject; Total objects: 104
+[12-11-2026 23:25:55] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:55] [info] obj id: 45 modelid: 18824
+[12-11-2026 23:25:55] [info] CObject::CObject(18824, [-1205.68 -422.13 46.5], [86 0 130.74], 0, 0).
+[12-11-2026 23:25:55] [info] GetModelInfoByID: 18824
+[12-11-2026 23:25:55] [info] Object created with model 18824 at [-1205.68 -422.13 46.5].
+[12-11-2026 23:25:55] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:55] [info] obj id: 48 modelid: 18982
+[12-11-2026 23:25:55] [info] CObject::CObject(18982, [-1575.26 -192.46 18.17], [0 0 314.84], 0, 0).
+[12-11-2026 23:25:55] [info] GetModelInfoByID: 18982
+[12-11-2026 23:25:55] [info] Object created with model 18982 at [-1575.26 -192.46 18.17].
+[12-11-2026 23:25:56] [info] RPC: World player add
+[12-11-2026 23:25:56] [info] CRemotePlayer::Spawn: 21 100 23 -1179.4568 33.026993 16.638126 133.872
+[12-11-2026 23:25:56] [info] CPlayerPed::CPlayerPed(4, 23, -1179.4568, 33.026993, 16.638126, 133.872)
+[12-11-2026 23:25:56] [info] SetModelIndex: 23
+[12-11-2026 23:25:56] [info] GetModelInfoByID: 23
+[12-11-2026 23:25:56] [info] IsValidPedModel: (23)
+[12-11-2026 23:25:56] [info] RemoveBuilding hook: model 3374
+[12-11-2026 23:25:56] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:56] [info] DestroyObject; Total objects: 105
+[12-11-2026 23:25:56] [info] GetModelInfoByID: 712
+[12-11-2026 23:25:56] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:56] [info] DestroyObject; Total objects: 104
+[12-11-2026 23:25:56] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:56] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:56] [info] obj id: 42 modelid: 18985
+[12-11-2026 23:25:56] [info] CObject::CObject(18985, [-1224.58 -438.77 25.07], [-8 0 355.08], 0, 0).
+[12-11-2026 23:25:56] [info] GetModelInfoByID: 18985
+[12-11-2026 23:25:56] [info] Object created with model 18985 at [-1224.58 -438.77 25.07].
+[12-11-2026 23:25:56] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:56] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}72 {FFFFFF}km/h).
+[12-11-2026 23:25:56] [info] ScriptRPC: ScrCreateObject
+[12-11-2026 23:25:56] [info] obj id: 47 modelid: 18824
+[12-11-2026 23:25:56] [info] CObject::CObject(18824, [-1246.72 -443.11 46.4], [86 0 310.27], 0, 0).
+[12-11-2026 23:25:56] [info] GetModelInfoByID: 18824
+[12-11-2026 23:25:56] [info] Object created with model 18824 at [-1246.72 -443.11 46.4].
+[12-11-2026 23:25:56] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:56] [info] ScriptRPC: ScrDestroyObject
+[12-11-2026 23:25:56] [info] DestroyObject; Total objects: 105
+[12-11-2026 23:25:56] [info] GetModelInfoByID: 1634
+[12-11-2026 23:25:57] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:57] [info] Vehicle 182 is removed
+[12-11-2026 23:25:57] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:25:57] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}5 {FFFFFF}km/h).
+[12-11-2026 23:25:57] [info] CPlayerPed::FireInstant
+[12-11-2026 23:25:58] [info] CPlayerPed::FireInstant
+[12-11-2026 23:26:18] [info] Pause menu Continue requested
+[12-11-2026 23:26:18] [info] Processing pause menu Continue on game thread
+[12-11-2026 23:26:18] [info] CPlayerPed::FireInstant
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] CPlayerPed::FireInstant
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:26:18] [info] RPC: Player Death
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] RPC: World player remove
+[12-11-2026 23:26:18] [info] playerId 21
+[12-11-2026 23:26:18] [info] Destroying PlayerPed(4)
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] RPC: Client message 
+[12-11-2026 23:26:18] [info] dwColor 16711935
+[12-11-2026 23:26:18] [info] dwStrLen 68
+[12-11-2026 23:26:18] [info] szMsg ZONE WAR: - [ First ] Azier Family -{00FF00} takes over zone '# 202'
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:18] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:26:18] [info] RPC: Player Death
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] RPC: Client message 
+[12-11-2026 23:26:18] [info] dwColor 4294967295
+[12-11-2026 23:26:18] [info] dwStrLen 49
+[12-11-2026 23:26:18] [info] szMsg {413290}CSTT.Griro.30k: {FFFFFF}(72) {FFFFFF}a ya
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:18] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:19] [info] RPC: Update 3D text label
+[12-11-2026 23:26:19] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:19] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:20] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:20] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:20] [info] RPC: Client message 
+[12-11-2026 23:26:20] [info] dwColor 16711935
+[12-11-2026 23:26:20] [info] dwStrLen 74
+[12-11-2026 23:26:20] [info] szMsg ZONE WAR: - [ First ] Azier Family -{00FF00} vs {8f8fff}prime {414141}time
+[12-11-2026 23:26:29] [info] Pause menu Continue requested
+[12-11-2026 23:26:29] [info] Processing pause menu Continue on game thread
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerDrunkLevel
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:29] [info] RPC: Update 3D text label
+[12-11-2026 23:26:29] [info] RPC: Server quit
+[12-11-2026 23:26:29] [info] Destroying PlayerPed(2)
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:26:29] [info] RPC: Player Death
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:29] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:29] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:30] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:30] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:30] [info] dwTime 251804125
+[12-11-2026 23:26:35] [info] Opening native adjustable HUD editor
+[12-11-2026 23:26:35] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:35] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:35] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:35] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:35] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:35] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:35] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:35] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:35] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:35] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:36] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:36] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:36] [info] Vehicle 182 is added
+[12-11-2026 23:26:36] [info] RemoveBuilding hook: model 3374
+[12-11-2026 23:26:37] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:37] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}13 {FFFFFF}km/h).
+[12-11-2026 23:26:40] [info] Pause menu Continue requested
+[12-11-2026 23:26:40] [info] Processing pause menu Continue on game thread
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerTeam
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:40] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}2 {FFFFFF}km/h).
+[12-11-2026 23:26:40] [info] RPC: Destroy pickup
+[12-11-2026 23:26:40] [info] RPC: Destroy pickup
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:40] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}2 {FFFFFF}km/h).
+[12-11-2026 23:26:40] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:40] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}2 {FFFFFF}km/h).
+[12-11-2026 23:26:40] [info] RPC: World player remove
+[12-11-2026 23:26:40] [info] playerId 19
+[12-11-2026 23:26:40] [info] Destroying PlayerPed(3)
+[12-11-2026 23:26:40] [info] RPC: Update 3D text label
+[12-11-2026 23:26:43] [info] Opening native adjustable HUD editor
+[12-11-2026 23:26:43] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:43] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:43] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:43] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:43] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:43] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:44] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:44] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:47] [info] Opening native adjustable HUD editor
+[12-11-2026 23:26:47] [info] RPC: Client message 
+[12-11-2026 23:26:47] [info] dwColor 4294967295
+[12-11-2026 23:26:47] [info] dwStrLen 53
+[12-11-2026 23:26:47] [info] szMsg {414141}$vandeta$: {FFFFFF}(17) {FFFFFF}need a lifr ?
+[12-11-2026 23:26:47] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:47] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:47] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:47] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:47] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:47] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] Pause menu Continue requested
+[12-11-2026 23:26:55] [info] Processing pause menu Continue on game thread
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] RPC: Client message 
+[12-11-2026 23:26:55] [info] dwColor 4294967295
+[12-11-2026 23:26:55] [info] dwStrLen 46
+[12-11-2026 23:26:55] [info] szMsg {414141}$vandeta$: {FFFFFF}(17) {FFFFFF}lift ^
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] RPC: Client message 
+[12-11-2026 23:26:55] [info] dwColor 4294967295
+[12-11-2026 23:26:55] [info] dwStrLen 53
+[12-11-2026 23:26:55] [info] szMsg {292727}]LcN.raider: {FFFFFF}(85) {FFFFFF}nah im good
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] RPC: Client message 
+[12-11-2026 23:26:55] [info] dwColor 16777215
+[12-11-2026 23:26:55] [info] dwStrLen 20
+[12-11-2026 23:26:55] [info] szMsg * Online players: 74
+[12-11-2026 23:26:55] [info] RPC: Client message 
+[12-11-2026 23:26:55] [info] dwColor 16777215
+[12-11-2026 23:26:55] [info] dwStrLen 81
+[12-11-2026 23:26:55] [info] szMsg {00FFFF}* Go to {FF0000}uifserver.net/discord {00FFFF}to join our {00FF00}Discord
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] RPC: Client message 
+[12-11-2026 23:26:55] [info] dwColor 16711935
+[12-11-2026 23:26:55] [info] dwStrLen 68
+[12-11-2026 23:26:55] [info] szMsg ZONE WAR: Ashborn Revenants{00FF00} vs {a1190d}The Youngsters Family
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:26:55] [info] RPC: Client message 
+[12-11-2026 23:26:55] [info] dwColor 4294967295
+[12-11-2026 23:26:55] [info] dwStrLen 53
+[12-11-2026 23:26:55] [info] szMsg {292727}]LcN.raider: {FFFFFF}(85) {FFFFFF}preciate it
+[12-11-2026 23:26:55] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:55] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:56] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:56] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:57] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:57] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:58] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:58] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:26:59] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:26:59] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:00] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:00] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:01] [info] dwTime 251834598
+[12-11-2026 23:27:01] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:01] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:02] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:02] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:03] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:03] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:04] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:04] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:04] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:05] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:05] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] Opening native adjustable HUD editor
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] RPC: Client message 
+[12-11-2026 23:27:33] [info] dwColor 4294967295
+[12-11-2026 23:27:33] [info] dwStrLen 45
+[12-11-2026 23:27:33] [info] szMsg {414141}$vandeta$: {FFFFFF}(17) {FFFFFF}np :0
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] PlayerID 5
+[12-11-2026 23:27:33] [info] dwMarkerColor 3340107775
+[12-11-2026 23:27:33] [info] byteIsNPC 0
+[12-11-2026 23:27:33] [info] szPlayerName pepe_yer
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:33] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:33] [info] PlayerID 53
+[12-11-2026 23:27:33] [info] dwMarkerColor 344689663
+[12-11-2026 23:27:33] [info] byteIsNPC 0
+[12-11-2026 23:27:33] [info] szPlayerName jumalvelho0o0o0o
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:33] [info] RPC: Client message 
+[12-11-2026 23:27:33] [info] dwColor 16711935
+[12-11-2026 23:27:33] [info] dwStrLen 68
+[12-11-2026 23:27:33] [info] szMsg ZONE WAR: - [ First ] Azier Family -{00FF00} takes over zone '# 252'
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:27:33] [info] RPC: Player Death
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrDeathMessage
+[12-11-2026 23:27:33] [info] RPC: Player Death
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:33] [info] ScriptRPC: ScrSetPlayerColor
+[12-11-2026 23:27:34] [info] dwTime 251867661
+[12-11-2026 23:27:34] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:34] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:35] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:35] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:36] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:36] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-2026 23:27:40] [info] Opening native adjustable HUD editor
+[12-11-2026 23:27:40] [info] ScriptRPC: ScrSetPlayerDrunkLevel
+[12-11-2026 23:27:40] [info] ScriptRPC: ScrSetObjectMaterial
+[12-11-2026 23:27:40] [info] CObject::SetMaterialText(0, 90, Arial, 44, 1, 0xFF00FF00, 0x0, 2, {00FF00}0 {FFFFFF}km/h).
+[12-11-
