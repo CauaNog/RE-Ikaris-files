@@ -1,0 +1,79 @@
+[14-11-2026 11:45:15] [info] Initializing Alyn_SAMPMOBILE client...
+[14-11-2026 11:45:15] [info] Java VM: 0xAFB871C0
+[14-11-2026 11:45:15] [info] Game version: GTA: SA v2.10 (armeabi-v7a)
+[14-11-2026 11:45:15] [info] Game directory: /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/
+[14-11-2026 11:45:15] [info] Offline mode: false
+[14-11-2026 11:45:15] [info] Initializing settings...
+[14-11-2026 11:45:15] [info] host play.uifserver.net
+[14-11-2026 11:45:15] [info] port 7776
+[14-11-2026 11:45:15] [info] password 
+[14-11-2026 11:45:15] [info] nick_name Nogueira
+[14-11-2026 11:45:15] [info] samp_version 0
+[14-11-2026 11:45:15] [info] new_interface false
+[14-11-2026 11:45:15] [info] system_keyboard false
+[14-11-2026 11:45:15] [info] timestamp false
+[14-11-2026 11:45:15] [info] fast_connect false
+[14-11-2026 11:45:15] [info] voice_chat false
+[14-11-2026 11:45:15] [info] display_fps true
+[14-11-2026 11:45:15] [info] fps_limit 60
+[14-11-2026 11:45:15] [info] chat_strings 5
+[14-11-2026 11:45:15] [info] font_size 26
+[14-11-2026 11:45:15] [info] chat_pos 100 10
+[14-11-2026 11:45:15] [info] chat_size 400 150
+[14-11-2026 11:45:15] [info] SA-MP version: 0.3.7
+[14-11-2026 11:45:15] [info] Loading libGTASA.so...
+[14-11-2026 11:45:15] [info] Open: libGTASA.so Handle: 0xA46AA1F0
+[14-11-2026 11:45:15] [info] libGTASA.so loaded at 0x78689000
+[14-11-2026 11:45:15] [info] Initializing SA...
+[14-11-2026 11:45:15] [info] Installing hooks...
+[14-11-2026 11:45:15] [info] Installing pickup hooks...
+[14-11-2026 11:45:15] [info] Installing remove building hooks...
+[14-11-2026 11:45:15] [info] Installing pad hooks...
+[14-11-2026 11:45:16] [info] Installing widget fix hooks...
+[14-11-2026 11:45:16] [info] Installing crosshair fix hooks...
+[14-11-2026 11:45:16] [info] Applying patches...
+[14-11-2026 11:45:16] [info] Allocating world players...
+[14-11-2026 11:45:16] [info] CWorld::Players new address: 0x7A5A9F80, old address: 0x78FF469C, size: 84840
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x789302c8 bytes: e4 f6 9a e9 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a7fcdc bytes: a7 f5 ea e8 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a6c3c9 bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78c552e9 bytes: f8 70 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78abffad bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78ac001d bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78ac27b5 bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78988ab5 bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78988b55 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78987b61 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78987b2d bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78b4ef6a bytes: ca f8 e0 04 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a85d84 bytes: 91 f5 ca ef 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a85dc4 bytes: 91 f5 aa ef 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78c4146d bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78b93ac9 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78b582dd bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78bdce96 bytes: 39 f4 f4 ef 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78beaac2 bytes: 2c f4 de e9 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78bf4ed4 bytes: 21 f4 d4 ef 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78c060c4 bytes: 10 f4 dc ee 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78c6d966 bytes: b5 f7 18 e7 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a94f26 bytes: 8b f5 68 eb 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a206fd bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78c02285 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78af45b9 bytes: b5 6f 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x7898ff41 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a952e7 bytes: ee 10 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78acabc5 bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78acaa59 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78ac8e5a bytes: 5d f5 44 eb 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78ac99ae bytes: 5c f5 9a ed 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78aab049 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78c6dc39 bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78b5cded bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78b2e398 bytes: e9 f4 6a ef 90 f8 53 01 00 28 3e d0 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78bc1cfd bytes: b5 03 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a7e9b1 bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x7897133d bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78bf73c1 bytes: b5 02 
+[14-11-2026 11:45:16] [info] saveBytesToMap addr: 0x78a287c1 bytes: b5 03 
+[14-11-2026 11:45:16] [info] Initializing multi touch..
+[14-11-2026 11:45:16] [info] Initializing java..

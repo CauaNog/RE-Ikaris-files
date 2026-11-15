@@ -1,0 +1,2622 @@
+[11-11-2026 22:34:46] [info] Initializing Alyn_SAMPMOBILE client...
+[11-11-2026 22:34:46] [info] Java VM: 0xAFB871C0
+[11-11-2026 22:34:46] [info] Game version: GTA: SA v2.10 (armeabi-v7a)
+[11-11-2026 22:34:46] [info] Game directory: /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/
+[11-11-2026 22:34:46] [info] Offline mode: false
+[11-11-2026 22:34:46] [info] Initializing settings...
+[11-11-2026 22:34:46] [info] host play.uifserver.net
+[11-11-2026 22:34:46] [info] port 7776
+[11-11-2026 22:34:46] [info] password 
+[11-11-2026 22:34:46] [info] nick_name Nogueira
+[11-11-2026 22:34:46] [info] samp_version 0
+[11-11-2026 22:34:46] [info] new_interface false
+[11-11-2026 22:34:46] [info] system_keyboard false
+[11-11-2026 22:34:46] [info] timestamp false
+[11-11-2026 22:34:46] [info] fast_connect false
+[11-11-2026 22:34:46] [info] voice_chat false
+[11-11-2026 22:34:46] [info] display_fps true
+[11-11-2026 22:34:46] [info] fps_limit 60
+[11-11-2026 22:34:46] [info] chat_strings 5
+[11-11-2026 22:34:46] [info] font_size 26
+[11-11-2026 22:34:46] [info] chat_pos 100 10
+[11-11-2026 22:34:46] [info] chat_size 400 150
+[11-11-2026 22:34:46] [info] SA-MP version: 0.3.7
+[11-11-2026 22:34:46] [info] Loading libGTASA.so...
+[11-11-2026 22:34:46] [info] Open: libGTASA.so Handle: 0xAFBCD650
+[11-11-2026 22:34:46] [info] libGTASA.so loaded at 0x7A5E5000
+[11-11-2026 22:34:46] [info] Initializing SA...
+[11-11-2026 22:34:46] [info] Installing hooks...
+[11-11-2026 22:34:46] [info] Installing pickup hooks...
+[11-11-2026 22:34:46] [info] Installing remove building hooks...
+[11-11-2026 22:34:46] [info] Installing pad hooks...
+[11-11-2026 22:34:47] [info] Installing widget fix hooks...
+[11-11-2026 22:34:47] [info] Installing crosshair fix hooks...
+[11-11-2026 22:34:47] [info] Applying patches...
+[11-11-2026 22:34:47] [info] Allocating world players...
+[11-11-2026 22:34:47] [info] CWorld::Players new address: 0x795FA780, old address: 0x7AF5069C, size: 84840
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a88c2c8 bytes: e4 f6 9a e9 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9dbcdc bytes: a7 f5 ea e8 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9c83c9 bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7abb12e9 bytes: f8 70 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa1bfad bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa1c01d bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa1e7b5 bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a8e4ab5 bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a8e4b55 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a8e3b61 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a8e3b2d bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aaaaf6a bytes: ca f8 e0 04 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9e1d84 bytes: 91 f5 ca ef 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9e1dc4 bytes: 91 f5 aa ef 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab9d46d bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aaefac9 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aab42dd bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab38e96 bytes: 39 f4 f4 ef 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab46ac2 bytes: 2c f4 de e9 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab50ed4 bytes: 21 f4 d4 ef 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab620c4 bytes: 10 f4 dc ee 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7abc9966 bytes: b5 f7 18 e7 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9f0f26 bytes: 8b f5 68 eb 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a97c6fd bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab5e285 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa505b9 bytes: b5 6f 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a8ebf41 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9f12e7 bytes: ee 10 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa26bc5 bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa26a59 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa24e5a bytes: 5d f5 44 eb 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa259ae bytes: 5c f5 9a ed 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa07049 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7abc9c39 bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aab8ded bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7aa8a398 bytes: e9 f4 6a ef 90 f8 53 01 00 28 3e d0 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab1dcfd bytes: b5 03 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9da9b1 bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a8cd33d bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7ab533c1 bytes: b5 02 
+[11-11-2026 22:34:47] [info] saveBytesToMap addr: 0x7a9847c1 bytes: b5 03 
+[11-11-2026 22:34:47] [info] Initializing multi touch..
+[11-11-2026 22:34:47] [info] Initializing java..
+[11-11-2026 22:34:48] [info] Initializing samp texture database...
+[11-11-2026 22:34:50] [info] Loading timecyc.dat..
+[11-11-2026 22:34:51] [info] GTA pools initializing..
+[11-11-2026 22:34:51] [info] Initializing better pools size...
+[11-11-2026 22:34:51] [info] Initializing image list...
+[11-11-2026 22:34:51] [info] Loading peds.ide..
+[11-11-2026 22:34:51] [info] Loading gta.dat..
+[11-11-2026 22:34:51] [info] Loading scriptV1.img..
+[11-11-2026 22:34:52] [info] Loading scriptV1.img..
+[11-11-2026 22:34:53] [info] Loading tracks2.dat...
+[11-11-2026 22:34:53] [info] Loading tracks4.dat...
+[11-11-2026 22:34:54] [info] Loading mainV1.scm..
+[11-11-2026 22:34:54] [info] Loading mainV1.scm..
+[11-11-2026 22:34:54] [info] Loading mainV1.scm..
+[11-11-2026 22:34:54] [info] saveBytesToMap addr: 0x7ab1ec16 bytes: c4 f8 60 55 
+[11-11-2026 22:34:54] [info] ImGuiWrapper::initialize
+[11-11-2026 22:34:54] [info] ImGuiWrapper::loadFont: arial_bold.ttf from /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/fonts/
+[11-11-2026 22:34:54] [info] ImGuiWrapper::loadFont: gtaweap3.ttf from /storage/emulated/0/Android/data/ro.alynsampmobile.launcher/files/fonts/
+[11-11-2026 22:34:54] [info] ImGuiWrapper::createFontTexture
+[11-11-2026 22:34:54] [info] Atlas width 2048
+[11-11-2026 22:34:54] [info] Atlas height 128
+[11-11-2026 22:34:54] [info] LoadTextureFromTxd: txdName: menu, textureName: menu_adjback
+[11-11-2026 22:34:54] [info] CSprite2d::CSprite2d()
+[11-11-2026 22:34:54] [info] CSprite2d::SetTexture(menu_adjback)
+[11-11-2026 22:34:54] [info] CSprite2d::~CSprite2d()
+[11-11-2026 22:34:54] [info] LoadTextureFromTxd: txdName: samp, textureName: PassengerButton
+[11-11-2026 22:34:54] [info] CSprite2d::CSprite2d()
+[11-11-2026 22:34:54] [info] CSprite2d::SetTexture(PassengerButton)
+[11-11-2026 22:34:54] [info] CSprite2d::~CSprite2d()
+[11-11-2026 22:34:54] [info] LoadTextureFromTxd: txdName: samp, textureName: voiceactive
+[11-11-2026 22:34:54] [info] CSprite2d::CSprite2d()
+[11-11-2026 22:34:54] [info] CSprite2d::SetTexture(voiceactive)
+[11-11-2026 22:34:54] [info] CSprite2d::~CSprite2d()
+[11-11-2026 22:34:54] [info] LoadTextureFromTxd: txdName: samp, textureName: voicepassive
+[11-11-2026 22:34:54] [info] CSprite2d::CSprite2d()
+[11-11-2026 22:34:54] [info] CSprite2d::SetTexture(voicepassive)
+[11-11-2026 22:34:54] [info] CSprite2d::~CSprite2d()
+[11-11-2026 22:34:54] [info] ImGuiWrapper::checkVertexBuffer
+[11-11-2026 22:34:54] [info] Vertex buffer reallocated. Size 10016
+[11-11-2026 22:34:55] [info] Initializing game...
+[11-11-2026 22:34:55] [info] Loading AFK icon..
+[11-11-2026 22:34:55] [info] LoadTextureFromTxd: txdName: samp, textureName: afk_icon
+[11-11-2026 22:34:55] [info] CSprite2d::CSprite2d()
+[11-11-2026 22:34:55] [info] CSprite2d::SetTexture(afk_icon)
+[11-11-2026 22:34:55] [info] CSprite2d::~CSprite2d()
+[11-11-2026 22:34:55] [info] Applying FPS patches...
+[11-11-2026 22:34:55] [info] saveBytesToMap addr: 0x7a9fa57d bytes: ee 10 
+[11-11-2026 22:34:55] [info] Initiating scripting...
+[11-11-2026 22:34:55] [info] Initializing client commands..
+[11-11-2026 22:34:55] [info] Initializing netgame...
+[11-11-2026 22:34:55] [info] NetGame initializing..
+[11-11-2026 22:34:55] [info] Registering RPC's..
+[11-11-2026 22:34:55] [info] Registering script RPC's..
+[11-11-2026 22:34:57] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:57] [info] [AUTH] 4956553B1C4D91 -> CA8F2BD50C66A24FDC14506452DE038FC119D40A
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:58] [info] PlayerID 27
+[11-11-2026 22:34:58] [info] dwMarkerColor 690431999
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName EvaLcN
+[11-11-2026 22:34:58] [info] PlayerID 14
+[11-11-2026 22:34:58] [info] dwMarkerColor 4294967295
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName FaizDT
+[11-11-2026 22:34:58] [info] PlayerID 37
+[11-11-2026 22:34:58] [info] dwMarkerColor 4281084960
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName thmale14
+[11-11-2026 22:34:58] [info] PlayerID 15
+[11-11-2026 22:34:58] [info] dwMarkerColor 1687547391
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName GeMGeM
+[11-11-2026 22:34:58] [info] PlayerID 90
+[11-11-2026 22:34:58] [info] dwMarkerColor 961864959
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Mr.Doom_tmp7
+[11-11-2026 22:34:58] [info] PlayerID 25
+[11-11-2026 22:34:58] [info] dwMarkerColor 1094795775
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Warden.NM
+[11-11-2026 22:34:58] [info] PlayerID 19
+[11-11-2026 22:34:58] [info] dwMarkerColor 4281085183
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName K_One
+[11-11-2026 22:34:58] [info] PlayerID 26
+[11-11-2026 22:34:58] [info] dwMarkerColor 1094795775
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName 4Hockage_
+[11-11-2026 22:34:58] [info] PlayerID 43
+[11-11-2026 22:34:58] [info] dwMarkerColor 1010630432
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName rezaasraja
+[11-11-2026 22:34:58] [info] PlayerID 35
+[11-11-2026 22:34:58] [info] dwMarkerColor 1518229503
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName AntiWeonexxx
+[11-11-2026 22:34:58] [info] PlayerID 12
+[11-11-2026 22:34:58] [info] dwMarkerColor 3692313855
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Huary
+[11-11-2026 22:34:58] [info] PlayerID 23
+[11-11-2026 22:34:58] [info] dwMarkerColor 4278190335
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName GeM.KOD
+[11-11-2026 22:34:58] [info] PlayerID 8
+[11-11-2026 22:34:58] [info] dwMarkerColor 4294967295
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Ava.HM
+[11-11-2026 22:34:58] [info] PlayerID 49
+[11-11-2026 22:34:58] [info] dwMarkerColor 16711712
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName GHOST2.0
+[11-11-2026 22:34:58] [info] PlayerID 50
+[11-11-2026 22:34:58] [info] dwMarkerColor 1094795775
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Devil
+[11-11-2026 22:34:58] [info] PlayerID 21
+[11-11-2026 22:34:58] [info] dwMarkerColor 24503295
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName f48ez
+[11-11-2026 22:34:58] [info] PlayerID 10
+[11-11-2026 22:34:58] [info] dwMarkerColor 4278190335
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName SteveY22
+[11-11-2026 22:34:58] [info] PlayerID 48
+[11-11-2026 22:34:58] [info] dwMarkerColor 4197606655
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName [DVLZ]Kang
+[11-11-2026 22:34:58] [info] PlayerID 5
+[11-11-2026 22:34:58] [info] dwMarkerColor 3479446015
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName BITCOlN
+[11-11-2026 22:34:58] [info] PlayerID 2
+[11-11-2026 22:34:58] [info] dwMarkerColor 2702773759
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName _Punisher
+[11-11-2026 22:34:58] [info] PlayerID 18
+[11-11-2026 22:34:58] [info] dwMarkerColor 4294967295
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName leviataDEMON
+[11-11-2026 22:34:58] [info] PlayerID 22
+[11-11-2026 22:34:58] [info] dwMarkerColor 820430079
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Ava.SG
+[11-11-2026 22:34:58] [info] PlayerID 93
+[11-11-2026 22:34:58] [info] dwMarkerColor 210656767
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName rilly_tmp4
+[11-11-2026 22:34:58] [info] PlayerID 16
+[11-11-2026 22:34:58] [info] dwMarkerColor 4294967295
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Ava.NM
+[11-11-2026 22:34:58] [info] PlayerID 7
+[11-11-2026 22:34:58] [info] dwMarkerColor 1094795775
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName VoW.Adhi
+[11-11-2026 22:34:58] [info] PlayerID 40
+[11-11-2026 22:34:58] [info] dwMarkerColor 842150655
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Grok.
+[11-11-2026 22:34:58] [info] PlayerID 47
+[11-11-2026 22:34:58] [info] dwMarkerColor 65279
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Krish.bot
+[11-11-2026 22:34:58] [info] PlayerID 0
+[11-11-2026 22:34:58] [info] dwMarkerColor 576965375
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Brooklyneq
+[11-11-2026 22:34:58] [info] PlayerID 20
+[11-11-2026 22:34:58] [info] dwMarkerColor 820430079
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Warden.SG
+[11-11-2026 22:34:58] [info] PlayerID 46
+[11-11-2026 22:34:58] [info] dwMarkerColor 1572996607
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName skurwielvlog
+[11-11-2026 22:34:58] [info] PlayerID 30
+[11-11-2026 22:34:58] [info] dwMarkerColor 1094795775
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName .Tyga
+[11-11-2026 22:34:58] [info] PlayerID 17
+[11-11-2026 22:34:58] [info] dwMarkerColor 2635013119
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName GrandTheftBoat
+[11-11-2026 22:34:58] [info] PlayerID 9
+[11-11-2026 22:34:58] [info] dwMarkerColor 89742591
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Otdddooppsswe
+[11-11-2026 22:34:58] [info] PlayerID 31
+[11-11-2026 22:34:58] [info] dwMarkerColor 4294967295
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName guhsampkk
+[11-11-2026 22:34:58] [info] PlayerID 13
+[11-11-2026 22:34:58] [info] dwMarkerColor 4287401215
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Ava.ExT.
+[11-11-2026 22:34:58] [info] PlayerID 38
+[11-11-2026 22:34:58] [info] dwMarkerColor 16777215
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName wdz
+[11-11-2026 22:34:58] [info] PlayerID 76
+[11-11-2026 22:34:58] [info] dwMarkerColor 4209888767
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName SlayeR.797
+[11-11-2026 22:34:58] [info] PlayerID 55
+[11-11-2026 22:34:58] [info] dwMarkerColor 4294150143
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName doue
+[11-11-2026 22:34:58] [info] PlayerID 67
+[11-11-2026 22:34:58] [info] dwMarkerColor 1010630432
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName GvX
+[11-11-2026 22:34:58] [info] PlayerID 63
+[11-11-2026 22:34:58] [info] dwMarkerColor 1093473791
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName ehl.bot
+[11-11-2026 22:34:58] [info] PlayerID 44
+[11-11-2026 22:34:58] [info] dwMarkerColor 1687547391
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName cussel
+[11-11-2026 22:34:58] [info] PlayerID 42
+[11-11-2026 22:34:58] [info] dwMarkerColor 1093473791
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Lilithz
+[11-11-2026 22:34:58] [info] PlayerID 33
+[11-11-2026 22:34:58] [info] dwMarkerColor 4294150143
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName 144p
+[11-11-2026 22:34:58] [info] PlayerID 39
+[11-11-2026 22:34:58] [info] dwMarkerColor 3422552319
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Warden.0G
+[11-11-2026 22:34:58] [info] PlayerID 28
+[11-11-2026 22:34:58] [info] dwMarkerColor 4279538687
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName OArthur_tmp7
+[11-11-2026 22:34:58] [info] PlayerID 29
+[11-11-2026 22:34:58] [info] dwMarkerColor 16711712
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Wo_Et
+[11-11-2026 22:34:58] [info] PlayerID 51
+[11-11-2026 22:34:58] [info] dwMarkerColor 1339572991
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Csprjr
+[11-11-2026 22:34:58] [info] PlayerID 32
+[11-11-2026 22:34:58] [info] dwMarkerColor 946331135
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Devil_[bot]
+[11-11-2026 22:34:58] [info] PlayerID 41
+[11-11-2026 22:34:58] [info] dwMarkerColor 1687547391
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName ]gC[toby
+[11-11-2026 22:34:58] [info] PlayerID 3
+[11-11-2026 22:34:58] [info] dwMarkerColor 4115361279
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName DJ_Wavecast
+[11-11-2026 22:34:58] [info] PlayerID 61
+[11-11-2026 22:34:58] [info] dwMarkerColor 402199807
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName RruS
+[11-11-2026 22:34:58] [info] PlayerID 6
+[11-11-2026 22:34:58] [info] dwMarkerColor 3003121663
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Nikenholic
+[11-11-2026 22:34:58] [info] PlayerID 4
+[11-11-2026 22:34:58] [info] dwMarkerColor 3322657279
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Emmitt_Height
+[11-11-2026 22:34:58] [info] PlayerID 56
+[11-11-2026 22:34:58] [info] dwMarkerColor 4197606655
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Moonknightly
+[11-11-2026 22:34:58] [info] PlayerID 52
+[11-11-2026 22:34:58] [info] dwMarkerColor 4281084960
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName DrunK@DZ_tmp4
+[11-11-2026 22:34:58] [info] PlayerID 34
+[11-11-2026 22:34:58] [info] dwMarkerColor 4289003775
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Polisel
+[11-11-2026 22:34:58] [info] PlayerID 66
+[11-11-2026 22:34:58] [info] dwMarkerColor 265943807
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName Brizzle
+[11-11-2026 22:34:58] [info] PlayerID 1
+[11-11-2026 22:34:58] [info] dwMarkerColor 690431999
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName AdanLcN
+[11-11-2026 22:34:58] [info] PlayerID 36
+[11-11-2026 22:34:58] [info] dwMarkerColor 4290631935
+[11-11-2026 22:34:58] [info] byteIsNPC 0
+[11-11-2026 22:34:58] [info] szPlayerName AdminBot
+[11-11-2026 22:34:58] [info] dwTime 162308088
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrShowGameText
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: AIRPORT, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: Attractors, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BAR, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BASEBALL, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BD_FIRE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BEACH, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: benchpress, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BF_injection, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BIKED, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BIKEH, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BIKELEAP, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BIKES, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BIKEV, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BIKE_DBZ, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BLOWJOBZ, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BMX, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BOMBER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BOX, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BSKTBALL, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BUDDY, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: BUS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CAMERA, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CAR, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CARRY, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CAR_CHAT, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CASINO, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CHAINSAW, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CHOPPA, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CLOTHES, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: COACH, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: COLT45, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: COP_AMBIENT, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: COP_DVBYZ, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CRACK, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: CRIB, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: DAM_JUMP, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: DANCING, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: DEALER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: DILDO, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: DODGE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: DOZER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: DRIVEBYS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FAT, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FIGHT_B, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FIGHT_C, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FIGHT_D, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FIGHT_E, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FINALE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FINALE2, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FLAME, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: Flowers, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: FOOD, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: Freeweights, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: GANGS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: GHANDS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: GHETTO_DB, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: goggles, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: GRAFFITI, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: GRAVEYARD, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: GRENADE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: GYMNASIUM, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: HAIRCUTS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: HEIST9, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: INT_HOUSE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: INT_OFFICE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: INT_SHOP, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: JST_BUISNESS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: KART, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: KISSING, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: KNIFE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: LAPDAN1, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: LAPDAN2, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: LAPDAN3, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: LOWRIDER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: MD_CHASE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: MD_END, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: MEDIC, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: MISC, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: MTB, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: MUSCULAR, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: NEVADA, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: ON_LOOKERS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: OTB, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: PARACHUTE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: PARK, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: PAULNMAC, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: ped, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: PLAYER_DVBYS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: PLAYIDLES, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: POLICE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: POOL, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: POOR, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: PYTHON, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: QUAD, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: QUAD_DBZ, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: RAPPING, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: RIFLE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: RIOT, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: ROB_BANK, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: ROCKET, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: RUSTLER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: RYDER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SCRATCHING, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SHAMAL, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SHOP, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SHOTGUN, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SILENCED, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SKATE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SMOKING, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SNIPER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SPRAYCAN, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: STRIP, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SUNBATHE, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SWAT, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SWEET, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SWIM, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: SWORD, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: TANK, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: TATTOOS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: TEC, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: TRAIN, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: TRUCK, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: UZI, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: VAN, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: VENDING, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: VORTEX, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: WAYFARER, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: WEAPONS, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrApplyPlayerAnimation
+[11-11-2026 22:34:58] [info] ApplyAnimation: WUZI, null
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 3374, (-50.0156, 3.1797, 3.4766), 0.25
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 11654, (-681.875, 965.8906, 11.125), 0.25
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 11492, (-681.875, 965.8906, 11.125), 0.25
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 16203, (199.344, 1943.79, 18.2031), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 16590, (199.344, 1943.79, 18.2031), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 16323, (199.336, 1943.88, 18.2031), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 16619, (199.336, 1943.88, 18.2031), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 1697, (228.797, 1835.34, 23.2344), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 16094, (191.141, 1870.04, 21.4766), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 1411, (347.1953, 1799.2656, 18.7578), 10
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 10027, (-1951.6875, 660.024, 89.5078), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 9939, (-1951.6875, 660.024, 89.5078), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 985, (2497.4062, 2777.0703, 11.5313), 0.25
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 986, (2497.4062, 2769.1094, 11.5313), 0.25
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 1226, (265.481, -1581.1, 32.9311), 5
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 6518, (280.297, -1606.2, 72.3984), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 6463, (389.7734, -2028.4688, 19.8047), 0.5
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 3751, (389.875, -2035.3828, 29.9531), 50
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 6298, (389.7734, -2028.4688, 19.8047), 0.5
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 6461, (389.7734, -2028.5, 20.1094), 0.5
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 3752, (389.875, -2028.5, 32.2266), 50
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 12853, (666.711, -565.133, 17.3359), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 12854, (666.492, -571.18, 17.3125), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrRemoveBuilding
+[11-11-2026 22:34:58] [info] RemoveBuilding::add 13245, (666.711, -565.133, 17.3359), 250
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrShowTextDraw
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 1 modelid: 18877
+[11-11-2026 22:34:58] [info] CObject::CObject(18877, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18877
+[11-11-2026 22:34:58] [info] Object created with model 18877 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 5 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 10 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 2 modelid: 18878
+[11-11-2026 22:34:58] [info] CObject::CObject(18878, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18878
+[11-11-2026 22:34:58] [info] Object created with model 18878 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 6 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 12 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 11 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 7 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 8 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 3 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 9 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:34:58] [info] obj id: 4 modelid: 18879
+[11-11-2026 22:34:58] [info] CObject::CObject(18879, [389.7734 -2028.4688 22], [0 0 90], 0, 0).
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 18879
+[11-11-2026 22:34:58] [info] Object created with model 18879 at [389.7734 -2028.4688 22].
+[11-11-2026 22:34:58] [info] RPC: InitGame
+[11-11-2026 22:34:58] [info] szHostName,                 UIF - United Islands Freeroam
+[11-11-2026 22:34:58] [info] vehicleFriendlyFire, 0
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerName
+[11-11-2026 22:34:58] [info] RPC: DialogBox
+[11-11-2026 22:34:58] [info] wDialogID 2
+[11-11-2026 22:34:58] [info] byteDialogStyle 3
+[11-11-2026 22:34:58] [info] szTitle {00FF00}UIF - Login
+[11-11-2026 22:34:58] [info] szButton1 Login
+[11-11-2026 22:34:58] [info] szButton2 Forgot Pass
+[11-11-2026 22:34:58] [info] szMessage {FFFFFF}This name is registered.
+
+\   - Your account? Enter your password and click 'Login'.
+
+\   - Not your account? Click 'Login'.
+
+\   - Forgot your password? Click 'Forgot Pass'.
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerDrunkLevel
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrShowTextDraw
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerTeam
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrTogglePlayerControllable
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrPlayerPlaySound
+[11-11-2026 22:34:58] [info] RPC: Weather
+[11-11-2026 22:34:58] [info] weather 1
+[11-11-2026 22:34:58] [info] RPC: SetTimeEx
+[11-11-2026 22:34:58] [info] byteHour 12
+[11-11-2026 22:34:58] [info] byteMinute 0
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetCameraPos
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetCameraLookAt
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerInterior
+[11-11-2026 22:34:58] [info] refresh streaming at x: 1133.0504, y: -2038.4034
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerPos
+[11-11-2026 22:34:58] [info] ScriptRPC: ScrSetPlayerFacingAngle
+[11-11-2026 22:34:58] [info] RPC: Request class
+[11-11-2026 22:34:58] [info] SetModelIndex: 299
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 299
+[11-11-2026 22:34:58] [info] IsValidPedModel: (299)
+[11-11-2026 22:34:58] [info] saveBytesToMap addr: 0x7aa3c581 bytes: b5 03 
+[11-11-2026 22:34:58] [info] GetModelInfoByID: 299
+[11-11-2026 22:34:58] [info] GetModelRWObject: 299
+[11-11-2026 22:34:59] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:59] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:59] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:59] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:34:59] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:59] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:34:59] [info] RPC: Server quit
+[11-11-2026 22:35:00] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:00] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:00] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:00] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:00] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:00] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:00] [info] RPC: Server quit
+[11-11-2026 22:35:00] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:00] [info] RPC: Server quit
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:12] [info] RPC: Player Death
+[11-11-2026 22:35:12] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:16] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:16] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:16] [info] RPC: Server quit
+[11-11-2026 22:35:21] [info] Java_com_samp_game_ui_UI_sendDialogResponse
+[11-11-2026 22:35:21] [info] ScriptRPC: ScrShowTextDraw
+[11-11-2026 22:35:21] [info] ScriptRPC: ScrTextDrawSetString
+[11-11-2026 22:35:22] [info] ScriptRPC: ScrSetPlayerTeam
+[11-11-2026 22:35:22] [info] ScriptRPC: ScrSetSpawnInfo
+[11-11-2026 22:35:22] [info] RPC: DialogBox
+[11-11-2026 22:35:22] [info] wDialogID 30
+[11-11-2026 22:35:22] [info] byteDialogStyle 5
+[11-11-2026 22:35:22] [info] szTitle {00FF00}Where would you like to go?
+[11-11-2026 22:35:22] [info] szButton1 OK
+[11-11-2026 22:35:22] [info] szButton2 Cancel
+[11-11-2026 22:35:22] [info] szMessage {FFFF00}Teleport	{FFFF00}Players
+{00FF00}Freeroam	{00FF00}37
+{00FF00}Deathmatch	{00FF00}1
+{00FF00}Race	{00FF00}0
+{00FF00}Derby	{00FF00}0
+{00FF00}Fall	{00FF00}0
+{00FF00}Protect the President	{00FF00}7
+{00FF00}Cops and Robbers	{00FF00}4
+Stunts
+Specials
+Challenges
+Jumps
+Parachute Jumps
+Cities
+Hotspots
+Interiors
+House Interiors
+Vehicle Tuning
+Drift Spots
+
+[11-11-2026 22:35:22] [info] RPC: Request spawn
+[11-11-2026 22:35:22] [info] byteRequestOutcome 0
+[11-11-2026 22:35:23] [info] PlayerID 24
+[11-11-2026 22:35:23] [info] dwMarkerColor 2005441023
+[11-11-2026 22:35:23] [info] byteIsNPC 0
+[11-11-2026 22:35:23] [info] szPlayerName Pinolit
+[11-11-2026 22:35:23] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:23] [info] Java_com_samp_game_ui_UI_sendDialogResponse
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrTogglePlayerControllable
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrPlayerPlaySound
+[11-11-2026 22:35:24] [info] RPC: Weather
+[11-11-2026 22:35:24] [info] weather 10
+[11-11-2026 22:35:24] [info] RPC: SetTimeEx
+[11-11-2026 22:35:24] [info] byteHour 12
+[11-11-2026 22:35:24] [info] byteMinute 0
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrResetPlayerWeapons
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrDisableVehicleCollisions
+[11-11-2026 22:35:24] [info] RPC: Request spawn
+[11-11-2026 22:35:24] [info] byteRequestOutcome 2
+[11-11-2026 22:35:24] [info] Spawn localplayer
+[11-11-2026 22:35:24] [error] GetSymbol: Invalid address! Address: 0x0 Name: _ZZ20Menu_SwitchOffToGamevE12bInitWidgets
+[11-11-2026 22:35:24] [info] Widgets not inited
+[11-11-2026 22:35:24] [info] SetModelIndex: 299
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 299
+[11-11-2026 22:35:24] [info] IsValidPedModel: (299)
+[11-11-2026 22:35:24] [info] RPC: DialogBox
+[11-11-2026 22:35:24] [info] wDialogID 0
+[11-11-2026 22:35:24] [info] byteDialogStyle 0
+[11-11-2026 22:35:24] [info] szTitle {00FF00}Welcome to UIF
+[11-11-2026 22:35:24] [info] szButton1 OK
+[11-11-2026 22:35:24] [info] szButton2 
+[11-11-2026 22:35:24] [info] szMessage {00FF00}/c {FFFFFF}- commands
+{00FF00}/t {FFFFFF}- teleports
+{00FF00}/v {FFFFFF}- vehicles
+{00FF00}/w {FFFFFF}- weapons
+{00FF00}/a {FFFFFF}- animations
+{00FF00}/o {FFFFFF}- body objects
+{00FF00}/h {FFFFFF}- houses
+
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrHideTextDraw
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetArmedWeapon
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerTeam
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerArmour
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrDisableVehicleCollisions
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrTogglePlayerControllable
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerInterior
+[11-11-2026 22:35:24] [info] refresh streaming at x: -1479.4341, y: 920.4487
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerPos
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerFacingAngle
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 13 modelid: 19549
+[11-11-2026 22:35:24] [info] CObject::CObject(19549, [2618.4988 2721.582 30.8715], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19549
+[11-11-2026 22:35:24] [info] Object created with model 19549 at [2618.4988 2721.582 30.8715].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 14 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2616.1196 2726.4453 30.846], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2616.1196 2726.4453 30.846].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 15 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2631.1162 2726.4453 30.846], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2631.1162 2726.4453 30.846].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 16 modelid: 3534
+[11-11-2026 22:35:24] [info] CObject::CObject(3534, [2630.6775 2709.0332 36.6417], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 3534
+[11-11-2026 22:35:24] [info] Object created with model 3534 at [2630.6775 2709.0332 36.6417].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 17 modelid: 3534
+[11-11-2026 22:35:24] [info] CObject::CObject(3534, [2606.042 2709.0327 36.6417], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 3534
+[11-11-2026 22:35:24] [info] Object created with model 3534 at [2606.042 2709.0327 36.6417].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 18 modelid: 3534
+[11-11-2026 22:35:24] [info] CObject::CObject(3534, [2630.687 2733.6697 36.6417], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 3534
+[11-11-2026 22:35:24] [info] Object created with model 3534 at [2630.687 2733.6697 36.6417].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 19 modelid: 3534
+[11-11-2026 22:35:24] [info] CObject::CObject(3534, [2606.0422 2733.67 36.6417], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 3534
+[11-11-2026 22:35:24] [info] Object created with model 3534 at [2606.0422 2733.67 36.6417].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 20 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2601.1182 2726.4453 30.846], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2601.1182 2726.4453 30.846].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 21 modelid: 19549
+[11-11-2026 22:35:24] [info] CObject::CObject(19549, [2618.499 2699.0593 30.8715], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19549
+[11-11-2026 22:35:24] [info] Object created with model 19549 at [2618.499 2699.0593 30.8715].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 22 modelid: 712
+[11-11-2026 22:35:24] [info] CObject::CObject(712, [2604.6157 2739.7832 39.45536], [0 0 230], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 712
+[11-11-2026 22:35:24] [info] Object created with model 712 at [2604.6157 2739.7832 39.45536].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 23 modelid: 648
+[11-11-2026 22:35:24] [info] CObject::CObject(648, [2631.3064 2701.2842 26.97909], [0 0 295.474], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 648
+[11-11-2026 22:35:24] [info] Object created with model 648 at [2631.3064 2701.2842 26.97909].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 24 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2592.1038 2713.0125 30.9927], [348 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2592.1038 2713.0125 30.9927].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 25 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2593.6292 2726.4475 23.3563], [0 270 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2593.6292 2726.4475 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 26 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2646.1133 2726.4453 30.846], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2646.1133 2726.4453 30.846].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 27 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2624.8682 2695.2012 23.3563], [0 270 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2624.8682 2695.2012 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 28 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2625.86 2695.2102 23.3563], [0 270 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2625.86 2695.2102 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 29 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2589.1772 2713.0127 30.3627], [348 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2589.1772 2713.0127 30.3627].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 30 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2616.1165 2751.4482 30.855], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2616.1165 2751.4482 30.855].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 31 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2649.6074 2726.4453 30.828], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2649.6074 2726.4453 30.828].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 32 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2631.1055 2751.4482 30.855], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2631.1055 2751.4482 30.855].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 33 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2586.2615 2713.0127 29.7207], [348 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2586.2615 2713.0127 29.7207].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 34 modelid: 18778
+[11-11-2026 22:35:24] [info] CObject::CObject(18778, [2646.2588 2699.374 32.3308], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18778
+[11-11-2026 22:35:24] [info] Object created with model 18778 at [2646.2588 2699.374 32.3308].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 35 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2601.1182 2751.4482 30.855], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2601.1182 2751.4482 30.855].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 36 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2583.3555 2713.0127 29.0886], [348 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2583.3555 2713.0127 29.0886].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 37 modelid: 18779
+[11-11-2026 22:35:24] [info] CObject::CObject(18779, [2613.6355 2685.4617 20.8485], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18779
+[11-11-2026 22:35:24] [info] Object created with model 18779 at [2613.6355 2685.4617 20.8485].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 38 modelid: 18778
+[11-11-2026 22:35:24] [info] CObject::CObject(18778, [2646.2588 2693.4116 35.953], [20 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18778
+[11-11-2026 22:35:24] [info] Object created with model 18778 at [2646.2588 2693.4116 35.953].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 39 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2580.4392 2713.0127 28.4545], [348 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2580.4392 2713.0127 28.4545].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 40 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2657.11 2726.431 23.3563], [0 270 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2657.11 2726.431 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 41 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2593.62 2751.4543 23.3563], [0 270 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2593.62 2751.4543 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 42 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2646.0947 2751.4482 30.855], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2646.0947 2751.4482 30.855].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 43 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2649.608 2751.4573 30.846], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2649.608 2751.4573 30.846].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 44 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2576.966 2708.2292 28.1191], [25 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2576.966 2708.2292 28.1191].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 45 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2585.544 2747.2844 22.0472], [12 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2585.544 2747.2844 22.0472].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 46 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2576.9658 2699.379 28.1191], [25 0 360], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2576.9658 2699.379 28.1191].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 47 modelid: 19550
+[11-11-2026 22:35:24] [info] CObject::CObject(19550, [2631.8538 2679.995 11.8463], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19550
+[11-11-2026 22:35:24] [info] Object created with model 19550 at [2631.8538 2679.995 11.8463].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 48 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2657.1013 2751.4604 23.3563], [0 270 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2657.1013 2751.4604 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 49 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2665.6387 2736.5066 22.4702], [9 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2665.6387 2736.5066 22.4702].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 50 modelid: 19550
+[11-11-2026 22:35:24] [info] CObject::CObject(19550, [2638.8635 2679.9946 11.8733], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19550
+[11-11-2026 22:35:24] [info] Object created with model 19550 at [2638.8635 2679.9946 11.8733].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 51 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2574.7212 2692.1973 28.8484], [25 0 168], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2574.7212 2692.1973 28.8484].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 52 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2585.544 2759.7273 22.0472], [12 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2585.544 2759.7273 22.0472].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 53 modelid: 19688
+[11-11-2026 22:35:24] [info] CObject::CObject(19688, [2646.2278 2676.7512 51.4342], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19688
+[11-11-2026 22:35:24] [info] Object created with model 19688 at [2646.2278 2676.7512 51.4342].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 54 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2574.1606 2689.5415 30.1035], [25 0 168], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2574.1606 2689.5415 30.1035].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 55 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2573.5933 2686.8665 31.3575], [25 0 168], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2573.5933 2686.8665 31.3575].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 56 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2572.4443 2747.2754 14.5748], [359 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2572.4443 2747.2754 14.5748].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 57 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2573.034 2684.2383 32.6057], [25 0 168], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2573.034 2684.2383 32.6057].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 58 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2665.6387 2754.0493 22.4702], [9 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2665.6387 2754.0493 22.4702].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 59 modelid: 740
+[11-11-2026 22:35:24] [info] CObject::CObject(740, [2592.4353 2673.9238 11.09172], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 740
+[11-11-2026 22:35:24] [info] Object created with model 740 at [2592.4353 2673.9238 11.09172].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 60 modelid: 620
+[11-11-2026 22:35:24] [info] CObject::CObject(620, [2564.9663 2727.0562 11.22948], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 620
+[11-11-2026 22:35:24] [info] Object created with model 620 at [2564.9663 2727.0562 11.22948].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 61 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2572.4653 2681.5833 33.8507], [25 0 168], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2572.4653 2681.5833 33.8507].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 62 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2623.5835 2660.3623 36.6525], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2623.5835 2660.3623 36.6525].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 63 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2628.4036 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2628.4036 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 64 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2631.3926 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2631.3926 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 65 modelid: 19543
+[11-11-2026 22:35:24] [info] CObject::CObject(19543, [2588.3958 2672.663 11.8553], [0 0 45], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19543
+[11-11-2026 22:35:24] [info] Object created with model 19543 at [2588.3958 2672.663 11.8553].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 66 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2603.0737 2660.3625 36.6525], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2603.0737 2660.3625 36.6525].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 67 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2585.544 2772.1694 22.0472], [12 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2585.544 2772.1694 22.0472].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 68 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2634.3757 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2634.3757 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 69 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2571.8982 2678.9182 35.0958], [25 0 168], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2571.8982 2678.9182 35.0958].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 70 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2637.3652 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2637.3652 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 71 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2624.8652 2782.6953 23.3563], [0 270 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2624.8652 2782.6953 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 72 modelid: 19545
+[11-11-2026 22:35:24] [info] CObject::CObject(19545, [2625.8462 2782.6863 23.3563], [0 270 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19545
+[11-11-2026 22:35:24] [info] Object created with model 19545 at [2625.8462 2782.6863 23.3563].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 73 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2598.2478 2660.3586 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2598.2478 2660.3586 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 74 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2572.4443 2759.732 14.5748], [359 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2572.4443 2759.732 14.5748].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 75 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2640.3735 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2640.3735 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 76 modelid: 5400
+[11-11-2026 22:35:24] [info] CObject::CObject(5400, [2598.8894 2776.9778 11.5], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 5400
+[11-11-2026 22:35:24] [info] Object created with model 5400 at [2598.8894 2776.9778 11.5].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 77 modelid: 3472
+[11-11-2026 22:35:24] [info] CObject::CObject(3472, [2630.8433 2783.6135 27.4498], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 3472
+[11-11-2026 22:35:24] [info] Object created with model 3472 at [2630.8433 2783.6135 27.4498].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 78 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2595.2678 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2595.2678 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 79 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2643.3733 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2643.3733 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 80 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2592.2783 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2592.2783 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 81 modelid: 7979
+[11-11-2026 22:35:24] [info] CObject::CObject(7979, [2656.0178 2775.2915 33.65924], [0 0 302.5855], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 7979
+[11-11-2026 22:35:24] [info] Object created with model 7979 at [2656.0178 2775.2915 33.65924].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 82 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2570.8562 2674.0166 35.3883], [13 0 348], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2570.8562 2674.0166 35.3883].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 83 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2647.0276 2660.3623 36.6525], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2647.0276 2660.3623 36.6525].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 84 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2640.1328 2784.3389 31.1758], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2640.1328 2784.3389 31.1758].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 85 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2589.323 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2589.323 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 86 modelid: 18779
+[11-11-2026 22:35:24] [info] CObject::CObject(18779, [2629.413 2656.8542 17.0982], [0 350 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18779
+[11-11-2026 22:35:24] [info] Object created with model 18779 at [2629.413 2656.8542 17.0982].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 87 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2586.342 2660.3584 36.2599], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2586.342 2660.3584 36.2599].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 88 modelid: 19700
+[11-11-2026 22:35:24] [info] CObject::CObject(19700, [2610.4922 2788.83 29.5355], [349 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19700
+[11-11-2026 22:35:24] [info] Object created with model 19700 at [2610.4922 2788.83 29.5355].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 89 modelid: 624
+[11-11-2026 22:35:24] [info] CObject::CObject(624, [2672.6128 2686.8232 10.7172], [0 0 120], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 624
+[11-11-2026 22:35:24] [info] Object created with model 624 at [2672.6128 2686.8232 10.7172].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 90 modelid: 19700
+[11-11-2026 22:35:24] [info] CObject::CObject(19700, [2599.8965 2788.8298 29.5355], [349 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19700
+[11-11-2026 22:35:24] [info] Object created with model 19700 at [2599.8965 2788.8298 29.5355].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 91 modelid: 19550
+[11-11-2026 22:35:24] [info] CObject::CObject(19550, [2559.8584 2751.9863 11.8643], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19550
+[11-11-2026 22:35:24] [info] Object created with model 19550 at [2559.8584 2751.9863 11.8643].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 92 modelid: 19695
+[11-11-2026 22:35:24] [info] CObject::CObject(19695, [2616.7368 2791.4678 29.1343], [0 349 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19695
+[11-11-2026 22:35:24] [info] Object created with model 19695 at [2616.7368 2791.4678 29.1343].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 93 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2581.5037 2660.3623 36.6525], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2581.5037 2660.3623 36.6525].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 94 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2640.1309 2789.1572 30.8702], [4 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2640.1309 2789.1572 30.8702].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 95 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2572.4443 2772.177 14.5748], [359 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2572.4443 2772.177 14.5748].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 96 modelid: 19550
+[11-11-2026 22:35:24] [info] CObject::CObject(19550, [2686.8604 2728.0066 11.8823], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19550
+[11-11-2026 22:35:24] [info] Object created with model 19550 at [2686.8604 2728.0066 11.8823].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 97 modelid: 18778
+[11-11-2026 22:35:24] [info] CObject::CObject(18778, [2616.5144 2790.3438 13.6101], [4 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18778
+[11-11-2026 22:35:24] [info] Object created with model 18778 at [2616.5144 2790.3438 13.6101].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 98 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2548.3208 2714.918 14.5083], [0 355 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2548.3208 2714.918 14.5083].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 99 modelid: 13593
+[11-11-2026 22:35:24] [info] CObject::CObject(13593, [2665.7275 2664.0483 37.071], [0 0 285], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13593
+[11-11-2026 22:35:24] [info] Object created with model 13593 at [2665.7275 2664.0483 37.071].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 100 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2640.1309 2792.1287 31.0412], [4 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2640.1309 2792.1287 31.0412].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 101 modelid: 19543
+[11-11-2026 22:35:24] [info] CObject::CObject(19543, [2567.2002 2672.6628 11.8553], [0 0 45], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19543
+[11-11-2026 22:35:24] [info] Object created with model 19543 at [2567.2002 2672.6628 11.8553].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 102 modelid: 18778
+[11-11-2026 22:35:24] [info] CObject::CObject(18778, [2597.9973 2790.3438 16.3583], [4 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18778
+[11-11-2026 22:35:24] [info] Object created with model 18778 at [2597.9973 2790.3438 16.3583].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 103 modelid: 19695
+[11-11-2026 22:35:24] [info] CObject::CObject(19695, [2593.6646 2791.4675 29.1343], [0 12 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19695
+[11-11-2026 22:35:24] [info] Object created with model 19695 at [2593.6646 2791.4675 29.1343].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 104 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2646.2202 2652.064 53.8631], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2646.2202 2652.064 53.8631].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 105 modelid: 623
+[11-11-2026 22:35:24] [info] CObject::CObject(623, [2693.4 2712.9941 21.9472], [0 0 4], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 623
+[11-11-2026 22:35:24] [info] Object created with model 623 at [2693.4 2712.9941 21.9472].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 106 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2640.1309 2794.381 31.1942], [5 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2640.1309 2794.381 31.1942].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 107 modelid: 19700
+[11-11-2026 22:35:24] [info] CObject::CObject(19700, [2610.4844 2797.1064 27.9014], [349 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19700
+[11-11-2026 22:35:24] [info] Object created with model 19700 at [2610.4844 2797.1064 27.9014].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 108 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2548.3213 2695.5151 14.5083], [0 355 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2548.3213 2695.5151 14.5083].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 109 modelid: 19700
+[11-11-2026 22:35:24] [info] CObject::CObject(19700, [2599.896 2797.1064 27.9014], [349 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19700
+[11-11-2026 22:35:24] [info] Object created with model 19700 at [2599.896 2797.1064 27.9014].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 110 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2640.1328 2799.049 31.6888], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2640.1328 2799.049 31.6888].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 111 modelid: 622
+[11-11-2026 22:35:24] [info] CObject::CObject(622, [2628.6658 2802.8684 24.41581], [0 0 263.04675], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 622
+[11-11-2026 22:35:24] [info] Object created with model 622 at [2628.6658 2802.8684 24.41581].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 112 modelid: 624
+[11-11-2026 22:35:24] [info] CObject::CObject(624, [2686.6755 2769.1006 11.0723], [0 0 30], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 624
+[11-11-2026 22:35:24] [info] Object created with model 624 at [2686.6755 2769.1006 11.0723].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 113 modelid: 19654
+[11-11-2026 22:35:24] [info] CObject::CObject(19654, [2593.4377 2639.6003 58.8529], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19654
+[11-11-2026 22:35:24] [info] Object created with model 19654 at [2593.4377 2639.6003 58.8529].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 114 modelid: 7073
+[11-11-2026 22:35:24] [info] CObject::CObject(7073, [2684.8508 2780.0132 45.698], [0 0 36], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 7073
+[11-11-2026 22:35:24] [info] Object created with model 7073 at [2684.8508 2780.0132 45.698].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 115 modelid: 19633
+[11-11-2026 22:35:24] [info] CObject::CObject(19633, [2537.6099 2753.2278 11.8643], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19633
+[11-11-2026 22:35:24] [info] Object created with model 19633 at [2537.6099 2753.2278 11.8643].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 116 modelid: 19543
+[11-11-2026 22:35:24] [info] CObject::CObject(19543, [2545.9763 2672.6724 11.8553], [0 0 45], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19543
+[11-11-2026 22:35:24] [info] Object created with model 19543 at [2545.9763 2672.6724 11.8553].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 117 modelid: 19654
+[11-11-2026 22:35:24] [info] CObject::CObject(19654, [2593.4375 2639.6006 68.8537], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19654
+[11-11-2026 22:35:24] [info] Object created with model 19654 at [2593.4375 2639.6006 68.8537].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 118 modelid: 19005
+[11-11-2026 22:35:24] [info] CObject::CObject(19005, [2704.5183 2736.5168 10.6854], [2 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19005
+[11-11-2026 22:35:24] [info] Object created with model 19005 at [2704.5183 2736.5168 10.6854].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 119 modelid: 19543
+[11-11-2026 22:35:24] [info] CObject::CObject(19543, [2573.7637 2644.9033 11.8643], [0 0 45], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19543
+[11-11-2026 22:35:24] [info] Object created with model 19543 at [2573.7637 2644.9033 11.8643].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 120 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2528.3213 2714.918 14.5083], [0 355 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2528.3213 2714.918 14.5083].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 121 modelid: 18781
+[11-11-2026 22:35:24] [info] CObject::CObject(18781, [2551.7402 2783.8389 18.5026], [351 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18781
+[11-11-2026 22:35:24] [info] Object created with model 18781 at [2551.7402 2783.8389 18.5026].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 122 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2528.3271 2695.5156 14.5083], [0 355 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2528.3271 2695.5156 14.5083].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 123 modelid: 19661
+[11-11-2026 22:35:24] [info] CObject::CObject(19661, [2640.9675 2628.9155 53.8531], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19661
+[11-11-2026 22:35:24] [info] Object created with model 19661 at [2640.9675 2628.9155 53.8531].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 124 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2623.5066 2817.2344 31.8008], [32 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2623.5066 2817.2344 31.8008].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 125 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2619.9639 2817.2346 28.1885], [11 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2619.9639 2817.2346 28.1885].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 126 modelid: 13593
+[11-11-2026 22:35:24] [info] CObject::CObject(13593, [2631.568 2817.1985 36.0651], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13593
+[11-11-2026 22:35:24] [info] Object created with model 13593 at [2631.568 2817.1985 36.0651].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 127 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2635.0942 2627.307 14.3733], [0 359 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2635.0942 2627.307 14.3733].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 128 modelid: 19550
+[11-11-2026 22:35:24] [info] CObject::CObject(19550, [2559.8582 2795.011 11.8553], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19550
+[11-11-2026 22:35:24] [info] Object created with model 19550 at [2559.8582 2795.011 11.8553].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 129 modelid: 19550
+[11-11-2026 22:35:24] [info] CObject::CObject(19550, [2677.3748 2795.0107 11.8463], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19550
+[11-11-2026 22:35:24] [info] Object created with model 19550 at [2677.3748 2795.0107 11.8463].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 130 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2617.8127 2623.6816 53.8631], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2617.8127 2623.6816 53.8631].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 131 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2617.933 2624.6484 12.9394], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2617.933 2624.6484 12.9394].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 132 modelid: 621
+[11-11-2026 22:35:24] [info] CObject::CObject(621, [2677.551 2796.7996 11.8553], [0 0 308], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 621
+[11-11-2026 22:35:24] [info] Object created with model 621 at [2677.551 2796.7996 11.8553].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 133 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2605.8796 2623.6816 53.8541], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2605.8796 2623.6816 53.8541].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 134 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2650.7437 2817.2344 36.3832], [339 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2650.7437 2817.2344 36.3832].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 135 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2518.329 2714.9004 14.5083], [0 355 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2518.329 2714.9004 14.5083].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 136 modelid: 19543
+[11-11-2026 22:35:24] [info] CObject::CObject(19543, [2552.5784 2644.9033 11.8643], [0 0 45], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19543
+[11-11-2026 22:35:24] [info] Object created with model 19543 at [2552.5784 2644.9033 11.8643].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 137 modelid: 19550
+[11-11-2026 22:35:24] [info] CObject::CObject(19550, [2686.8606 2795.0107 11.8553], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19550
+[11-11-2026 22:35:24] [info] Object created with model 19550 at [2686.8606 2795.0107 11.8553].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 138 modelid: 13636
+[11-11-2026 22:35:24] [info] CObject::CObject(13636, [2576.0881 2814.6309 14.1357], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13636
+[11-11-2026 22:35:24] [info] Object created with model 13636 at [2576.0881 2814.6309 14.1357].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 139 modelid: 18836
+[11-11-2026 22:35:24] [info] CObject::CObject(18836, [2555.4426 2638.8828 16.7014], [0 270 225], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18836
+[11-11-2026 22:35:24] [info] Object created with model 18836 at [2555.4426 2638.8828 16.7014].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 140 modelid: 710
+[11-11-2026 22:35:24] [info] CObject::CObject(710, [2649.845 2620.78 26.83942], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 710
+[11-11-2026 22:35:24] [info] Object created with model 710 at [2649.845 2620.78 26.83942].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 141 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2518.3293 2695.5156 14.5083], [0 355 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2518.3293 2695.5156 14.5083].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 142 modelid: 19543
+[11-11-2026 22:35:24] [info] CObject::CObject(19543, [2524.7742 2672.6924 11.8553], [0 0 45], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19543
+[11-11-2026 22:35:24] [info] Object created with model 19543 at [2524.7742 2672.6924 11.8553].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 143 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2670.7039 2817.2344 36.3832], [339 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2670.7039 2817.2344 36.3832].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 144 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2580.9258 2623.6816 73.851], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2580.9258 2623.6816 73.851].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 145 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2677.2705 2628.0996 12.6154], [356 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2677.2705 2628.0996 12.6154].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 146 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2682.1548 2628.0996 14.7985], [8 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2682.1548 2628.0996 14.7985].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 147 modelid: 19635
+[11-11-2026 22:35:24] [info] CObject::CObject(19635, [2718.35 2773.835 11.8564], [0 0 45], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19635
+[11-11-2026 22:35:24] [info] Object created with model 19635 at [2718.35 2773.835 11.8564].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 148 modelid: 13593
+[11-11-2026 22:35:24] [info] CObject::CObject(13593, [2642.3362 2834.232 23.8151], [0 0 70], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13593
+[11-11-2026 22:35:24] [info] Object created with model 13593 at [2642.3362 2834.232 23.8151].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 149 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2635.0947 2607.8313 13.2643], [0 353 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2635.0947 2607.8313 13.2643].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 150 modelid: 13666
+[11-11-2026 22:35:24] [info] CObject::CObject(13666, [2593.1384 2833.53 16.6186], [0 0 80], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13666
+[11-11-2026 22:35:24] [info] Object created with model 13666 at [2593.1384 2833.53 16.6186].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 151 modelid: 621
+[11-11-2026 22:35:24] [info] CObject::CObject(621, [2626.4238 2837.5476 19.05068], [0 0 307.27863], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 621
+[11-11-2026 22:35:24] [info] Object created with model 621 at [2626.4238 2837.5476 19.05068].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 152 modelid: 624
+[11-11-2026 22:35:24] [info] CObject::CObject(624, [2509.0068 2684.434 10.5372], [0 0 320], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 624
+[11-11-2026 22:35:24] [info] Object created with model 624 at [2509.0068 2684.434 10.5372].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 153 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2513.5586 2772.7397 12.7912], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2513.5586 2772.7397 12.7912].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 154 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2733.8115 2744.3154 12.9484], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2733.8115 2744.3154 12.9484].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 155 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2690.754 2817.2344 36.3832], [339 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2690.754 2817.2344 36.3832].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 156 modelid: 13638
+[11-11-2026 22:35:24] [info] CObject::CObject(13638, [2609.864 2838.373 10.131], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13638
+[11-11-2026 22:35:24] [info] Object created with model 13638 at [2609.864 2838.373 10.131].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 157 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2555.965 2623.6816 73.851], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2555.965 2623.6816 73.851].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 158 modelid: 621
+[11-11-2026 22:35:24] [info] CObject::CObject(621, [2502.674 2753.8076 11.8643], [0 0 308], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 621
+[11-11-2026 22:35:24] [info] Object created with model 621 at [2502.674 2753.8076 11.8643].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 159 modelid: 13666
+[11-11-2026 22:35:24] [info] CObject::CObject(13666, [2575.2373 2834.6663 16.6186], [0 0 80], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13666
+[11-11-2026 22:35:24] [info] Object created with model 13666 at [2575.2373 2834.6663 16.6186].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 160 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2739.7585 2715.4453 14.3], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2739.7585 2715.4453 14.3].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 161 modelid: 19689
+[11-11-2026 22:35:24] [info] CObject::CObject(19689, [2704.6902 2628.1296 23.9927], [0 315 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19689
+[11-11-2026 22:35:24] [info] Object created with model 19689 at [2704.6902 2628.1296 23.9927].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 162 modelid: 19651
+[11-11-2026 22:35:24] [info] CObject::CObject(19651, [2598.8096 2849.4219 38.0552], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19651
+[11-11-2026 22:35:24] [info] Object created with model 19651 at [2598.8096 2849.4219 38.0552].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 163 modelid: 711
+[11-11-2026 22:35:24] [info] CObject::CObject(711, [2510.2144 2790.7434 17.49831], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 711
+[11-11-2026 22:35:24] [info] Object created with model 711 at [2510.2144 2790.7434 17.49831].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 164 modelid: 18779
+[11-11-2026 22:35:24] [info] CObject::CObject(18779, [2652.116 2845.5098 18.7053], [360 355 360], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18779
+[11-11-2026 22:35:24] [info] Object created with model 18779 at [2652.116 2845.5098 18.7053].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 165 modelid: 621
+[11-11-2026 22:35:24] [info] CObject::CObject(621, [2744.602 2701.4038 9.65826], [0 0 1.38093], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 621
+[11-11-2026 22:35:24] [info] Object created with model 621 at [2744.602 2701.4038 9.65826].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 166 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2807.9216 11.8368], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2807.9216 11.8368].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 167 modelid: 18451
+[11-11-2026 22:35:24] [info] CObject::CObject(18451, [2550.084 2830.3577 12.3048], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18451
+[11-11-2026 22:35:24] [info] Object created with model 18451 at [2550.084 2830.3577 12.3048].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 168 modelid: 2931
+[11-11-2026 22:35:24] [info] CObject::CObject(2931, [2499.6953 2775.0586 16.2791], [4 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 2931
+[11-11-2026 22:35:24] [info] Object created with model 2931 at [2499.6953 2775.0586 16.2791].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 169 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2810.4282 11.9945], [8 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2810.4282 11.9945].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 170 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2710.5032 2817.2344 36.3832], [339 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2710.5032 2817.2344 36.3832].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 171 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2812.8955 12.4652], [15 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2812.8955 12.4652].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 172 modelid: 19682
+[11-11-2026 22:35:24] [info] CObject::CObject(19682, [2531.3044 2626.118 73.8337], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19682
+[11-11-2026 22:35:24] [info] Object created with model 19682 at [2531.3044 2626.118 73.8337].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 173 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2815.2842 13.2413], [22 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2815.2842 13.2413].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 174 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2817.5566 14.3107], [29 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2817.5566 14.3107].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 175 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2543.9226 2836.2852 27.8864], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2543.9226 2836.2852 27.8864].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 176 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2512.1382 2641.844 73.851], [0 0 315], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2512.1382 2641.844 73.851].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 177 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2753.159 2744.207 19.4412], [0 3 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2753.159 2744.207 19.4412].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 178 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2582.8818 2853.597 48.7562], [0 351 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2582.8818 2853.597 48.7562].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 179 modelid: 13590
+[11-11-2026 22:35:24] [info] CObject::CObject(13590, [2589.5403 2853.7742 13.0771], [0 0 94], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13590
+[11-11-2026 22:35:24] [info] Object created with model 13590 at [2589.5403 2853.7742 13.0771].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 180 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2819.6772 15.6565], [36 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2819.6772 15.6565].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 181 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2821.6125 17.2574], [44 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2821.6125 17.2574].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 182 modelid: 1632
+[11-11-2026 22:35:24] [info] CObject::CObject(1632, [2704.434 2830.2266 23.1823], [352 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1632
+[11-11-2026 22:35:24] [info] Object created with model 1632 at [2704.434 2830.2266 23.1823].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 183 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2823.3318 19.0883], [51 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2823.3318 19.0883].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 184 modelid: 13593
+[11-11-2026 22:35:24] [info] CObject::CObject(13593, [2692.2708 2840.0815 21.0651], [0 0 110], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 13593
+[11-11-2026 22:35:24] [info] Object created with model 13593 at [2692.2708 2840.0815 21.0651].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 185 modelid: 19688
+[11-11-2026 22:35:24] [info] CObject::CObject(19688, [2724.9365 2628.1484 37.4248], [0 315 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19688
+[11-11-2026 22:35:24] [info] Object created with model 19688 at [2724.9365 2628.1484 37.4248].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 186 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2824.808 21.1203], [58 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2824.808 21.1203].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 187 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2826.018 23.3212], [65 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2826.018 23.3212].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 188 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2826.9429 25.6565], [72 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2826.9429 25.6565].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 189 modelid: 1632
+[11-11-2026 22:35:24] [info] CObject::CObject(1632, [2709.402 2830.2266 25.9735], [19 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1632
+[11-11-2026 22:35:24] [info] Object created with model 1632 at [2709.402 2830.2266 25.9735].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 190 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2827.5674 28.0892], [80 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2827.5674 28.0892].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 191 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2827.936 33.0926], [90 180 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2827.936 33.0926].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 192 modelid: 19128
+[11-11-2026 22:35:24] [info] CObject::CObject(19128, [2524.0833 2827.882 30.581], [87 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19128
+[11-11-2026 22:35:24] [info] Object created with model 19128 at [2524.0833 2827.882 30.581].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 193 modelid: 18784
+[11-11-2026 22:35:24] [info] CObject::CObject(18784, [2759.423 2715.4307 13.2902], [0 -6 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18784
+[11-11-2026 22:35:24] [info] Object created with model 18784 at [2759.423 2715.4307 13.2902].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 194 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2494.4685 2659.5088 73.851], [0 0 315], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2494.4685 2659.5088 73.851].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 195 modelid: 1632
+[11-11-2026 22:35:24] [info] CObject::CObject(1632, [2713.8552 2830.226 33.316], [51 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1632
+[11-11-2026 22:35:24] [info] Object created with model 1632 at [2713.8552 2830.226 33.316].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 196 modelid: 740
+[11-11-2026 22:35:24] [info] CObject::CObject(740, [2707.3396 2836.5579 21.862], [0 0 258], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 740
+[11-11-2026 22:35:24] [info] Object created with model 740 at [2707.3396 2836.5579 21.862].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 197 modelid: 19684
+[11-11-2026 22:35:24] [info] CObject::CObject(19684, [2476.3376 2728.3176 73.031], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19684
+[11-11-2026 22:35:24] [info] Object created with model 19684 at [2476.3376 2728.3176 73.031].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 198 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2582.8777 2863.0417 50.7294], [0 346 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2582.8777 2863.0417 50.7294].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 199 modelid: 19652
+[11-11-2026 22:35:24] [info] CObject::CObject(19652, [2765.4517 2728.3003 30.0507], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19652
+[11-11-2026 22:35:24] [info] Object created with model 19652 at [2765.4517 2728.3003 30.0507].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 200 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2500.8955 2808.1406 18.2874], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2500.8955 2808.1406 18.2874].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 201 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2476.3223 2703.351 73.851], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2476.3223 2703.351 73.851].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 202 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2476.3223 2752.6343 67.3586], [0 345 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2476.3223 2752.6343 67.3586].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 203 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2733.7637 2817.123 38.5949], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2733.7637 2817.123 38.5949].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 204 modelid: 1655
+[11-11-2026 22:35:24] [info] CObject::CObject(1655, [2479.7173 2773.2224 10.4848], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1655
+[11-11-2026 22:35:24] [info] Object created with model 1655 at [2479.7173 2773.2224 10.4848].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 205 modelid: 19682
+[11-11-2026 22:35:24] [info] CObject::CObject(19682, [2478.7454 2678.6667 73.8337], [0 0 315], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19682
+[11-11-2026 22:35:24] [info] Object created with model 19682 at [2478.7454 2678.6667 73.8337].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 206 modelid: 1632
+[11-11-2026 22:35:24] [info] CObject::CObject(1632, [2717.213 2834.6736 12.1704], [355 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1632
+[11-11-2026 22:35:24] [info] Object created with model 1632 at [2717.213 2834.6736 12.1704].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 207 modelid: 18794
+[11-11-2026 22:35:24] [info] CObject::CObject(18794, [2477.7183 2773.1165 5.753], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18794
+[11-11-2026 22:35:24] [info] Object created with model 18794 at [2477.7183 2773.1165 5.753].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 208 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2504.9966 2823.4988 18.2874], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2504.9966 2823.4988 18.2874].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 209 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2485.655 2795.7732 61.3511], [0 303 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2485.655 2795.7732 61.3511].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 210 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2485.435 2794.8657 63.0018], [0 296 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2485.435 2794.8657 63.0018].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 211 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2485.875 2796.8806 59.8272], [0 310 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2485.875 2796.8806 59.8272].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 212 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2476.3223 2776.766 60.8891], [0 345 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2476.3223 2776.766 60.8891].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 213 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2485.215 2794.1724 64.7533], [0 288 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2485.215 2794.1724 64.7533].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 214 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2486.095 2798.17 58.454], [0 317 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2486.095 2798.17 58.454].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 215 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2484.995 2793.7039 66.5778], [0 281 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2484.995 2793.7039 66.5778].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 216 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2486.315 2799.6213 57.2533], [0 324 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2486.315 2799.6213 57.2533].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 217 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2484.7751 2793.4678 68.4467], [0 274 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2484.7751 2793.4678 68.4467].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 218 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2486.5352 2801.212 56.2439], [0 332 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2486.5352 2801.212 56.2439].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 219 modelid: 1632
+[11-11-2026 22:35:24] [info] CObject::CObject(1632, [2717.213 2839.7139 15.3136], [21 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1632
+[11-11-2026 22:35:24] [info] Object created with model 1632 at [2717.213 2839.7139 15.3136].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 220 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2484.555 2793.4678 70.3304], [0 267 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2484.555 2793.4678 70.3304].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 221 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2486.7551 2802.9163 55.4419], [0 339 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2486.7551 2802.9163 55.4419].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 222 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2484.335 2793.7039 72.1992], [0 260 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2484.335 2793.7039 72.1992].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 223 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2486.975 2804.7078 54.8598], [0 346 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2486.975 2804.7078 54.8598].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 224 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2484.115 2794.1724 74.0238], [0 252 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2484.115 2794.1724 74.0238].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 225 modelid: 1632
+[11-11-2026 22:35:24] [info] CObject::CObject(1632, [2717.213 2842.784 19.7049], [51 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 1632
+[11-11-2026 22:35:24] [info] Object created with model 1632 at [2717.213 2842.784 19.7049].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 226 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2487.195 2806.5583 54.5068], [0 353 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2487.195 2806.5583 54.5068].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 227 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2483.895 2794.8657 75.7752], [0 245 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2483.895 2794.8657 75.7752].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 228 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2487.415 2808.4382 54.3885], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2487.415 2808.4382 54.3885].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 229 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2483.675 2795.7732 77.4259], [0 238 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2483.675 2795.7732 77.4259].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 230 modelid: 19647
+[11-11-2026 22:35:24] [info] CObject::CObject(19647, [2778.0156 2717.8162 39.8955], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19647
+[11-11-2026 22:35:24] [info] Object created with model 19647 at [2778.0156 2717.8162 39.8955].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 231 modelid: 620
+[11-11-2026 22:35:24] [info] CObject::CObject(620, [2534.1963 2854.4434 10.5912], [0 0 230], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 620
+[11-11-2026 22:35:24] [info] Object created with model 620 at [2534.1963 2854.4434 10.5912].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 232 modelid: 19650
+[11-11-2026 22:35:24] [info] CObject::CObject(19650, [2777.9365 2735.3076 37.5411], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19650
+[11-11-2026 22:35:24] [info] Object created with model 19650 at [2777.9365 2735.3076 37.5411].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 233 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2483.455 2796.8806 78.9499], [0 231 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2483.455 2796.8806 78.9499].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 234 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2749.6123 2628.1455 39.859], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2749.6123 2628.1455 39.859].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 235 modelid: 19684
+[11-11-2026 22:35:24] [info] CObject::CObject(19684, [2582.8828 2876.7266 53.5662], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19684
+[11-11-2026 22:35:24] [info] Object created with model 19684 at [2582.8828 2876.7266 53.5662].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 236 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2778.0088 2700.3223 39.877], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2778.0088 2700.3223 39.877].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 237 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2483.235 2798.17 80.323], [0 224 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2483.235 2798.17 80.323].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 238 modelid: 19650
+[11-11-2026 22:35:24] [info] CObject::CObject(19650, [2777.9365 2753.535 37.554], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19650
+[11-11-2026 22:35:24] [info] Object created with model 19650 at [2777.9365 2753.535 37.554].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 239 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2483.0151 2799.6213 81.5238], [0 216 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2483.0151 2799.6213 81.5238].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 240 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2482.795 2801.212 82.5331], [0 209 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2482.795 2801.212 82.5331].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 241 modelid: 19686
+[11-11-2026 22:35:24] [info] CObject::CObject(19686, [2476.3257 2801.0847 55.2163], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19686
+[11-11-2026 22:35:24] [info] Object created with model 19686 at [2476.3257 2801.0847 55.2163].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 242 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2503.3455 2837.6052 18.1579], [0 0 0], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2503.3455 2837.6052 18.1579].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 243 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2482.575 2802.9163 83.3352], [0 202 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2482.575 2802.9163 83.3352].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 244 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2778.0088 2675.377 39.877], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2778.0088 2675.377 39.877].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 245 modelid: 18367
+[11-11-2026 22:35:24] [info] CObject::CObject(18367, [2513.0098 2846.5928 9.7837], [334 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18367
+[11-11-2026 22:35:24] [info] Object created with model 18367 at [2513.0098 2846.5928 9.7837].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 246 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2482.355 2804.7078 83.9173], [0 195 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2482.355 2804.7078 83.9173].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 247 modelid: 19647
+[11-11-2026 22:35:24] [info] CObject::CObject(19647, [2778.0159 2771.0151 39.7564], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19647
+[11-11-2026 22:35:24] [info] Object created with model 19647 at [2778.0159 2771.0151 39.7564].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 248 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2476.415 2808.4382 54.3885], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2476.415 2808.4382 54.3885].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 249 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2482.135 2806.5583 84.2702], [0 188 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2482.135 2806.5583 84.2702].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 250 modelid: 19681
+[11-11-2026 22:35:24] [info] CObject::CObject(19681, [2758.3335 2814.7014 38.5776], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19681
+[11-11-2026 22:35:24] [info] Object created with model 19681 at [2758.3335 2814.7014 38.5776].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 251 modelid: 18367
+[11-11-2026 22:35:24] [info] CObject::CObject(18367, [2513.0095 2849.4597 9.7837], [334 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 18367
+[11-11-2026 22:35:24] [info] Object created with model 18367 at [2513.0095 2849.4597 9.7837].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 252 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2476.635 2810.318 54.5068], [0 8 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2476.635 2810.318 54.5068].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 253 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2481.915 2808.4382 84.3885], [0 180 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2481.915 2808.4382 84.3885].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 254 modelid: 11697
+[11-11-2026 22:35:24] [info] CObject::CObject(11697, [2503.3457 2843.8027 18.1579], [0 0 180], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11697
+[11-11-2026 22:35:24] [info] Object created with model 11697 at [2503.3457 2843.8027 18.1579].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 255 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2476.855 2812.1687 54.8598], [0 15 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2476.855 2812.1687 54.8598].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 256 modelid: 11698
+[11-11-2026 22:35:24] [info] CObject::CObject(11698, [2511.7551 2851.4468 18.2874], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 11698
+[11-11-2026 22:35:24] [info] Object created with model 11698 at [2511.7551 2851.4468 18.2874].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 257 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2481.695 2810.318 84.2702], [0 173 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2481.695 2810.318 84.2702].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 258 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2477.075 2813.9602 55.4419], [0 22 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2477.075 2813.9602 55.4419].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 259 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2777.9893 2780.6868 39.0664], [0 354 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2777.9893 2780.6868 39.0664].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 260 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2477.295 2815.6646 56.2439], [0 29 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2477.295 2815.6646 56.2439].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 261 modelid: 19670
+[11-11-2026 22:35:24] [info] CObject::CObject(19670, [2780.07 2744.5107 -14.9861], [180 0 315], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19670
+[11-11-2026 22:35:24] [info] Object created with model 19670 at [2780.07 2744.5107 -14.9861].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 262 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2481.475 2812.1687 83.9173], [0 166 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2481.475 2812.1687 83.9173].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 263 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2477.5151 2817.2551 57.2533], [0 36 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2477.5151 2817.2551 57.2533].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 264 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2778.0088 2656.5864 39.859], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2778.0088 2656.5864 39.859].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 265 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2481.2551 2813.9602 83.3352], [0 159 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2481.2551 2813.9602 83.3352].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 266 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2477.735 2818.7065 58.454], [0 44 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2477.735 2818.7065 58.454].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 267 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2481.0352 2815.6646 82.5331], [0 152 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2481.0352 2815.6646 82.5331].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 268 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2477.955 2819.9958 59.8272], [0 51 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2477.955 2819.9958 59.8272].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 269 modelid: 19670
+[11-11-2026 22:35:24] [info] CObject::CObject(19670, [2777.9812 2669.914 -10.162], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19670
+[11-11-2026 22:35:24] [info] Object created with model 19670 at [2777.9812 2669.914 -10.162].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 270 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2480.815 2817.2551 81.5238], [0 144 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2480.815 2817.2551 81.5238].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 271 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2478.175 2821.1033 61.3511], [0 58 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2478.175 2821.1033 61.3511].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 272 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2480.595 2818.7065 80.323], [0 137 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2480.595 2818.7065 80.323].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 273 modelid: 19681
+[11-11-2026 22:35:24] [info] CObject::CObject(19681, [2775.5603 2797.465 38.5776], [0 0 135], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19681
+[11-11-2026 22:35:24] [info] Object created with model 19681 at [2775.5603 2797.465 38.5776].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 274 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2478.395 2822.0107 63.0018], [0 65 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2478.395 2822.0107 63.0018].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 275 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2480.375 2819.9958 78.9499], [0 130 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2480.375 2819.9958 78.9499].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 276 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2478.615 2822.704 64.7533], [0 72 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2478.615 2822.704 64.7533].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 277 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2480.155 2821.1033 77.4259], [0 123 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2480.155 2821.1033 77.4259].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 278 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2478.835 2823.1726 66.5778], [0 80 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2478.835 2823.1726 66.5778].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 279 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2479.935 2822.0107 75.7752], [0 116 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2479.935 2822.0107 75.7752].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 280 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2479.055 2823.4087 68.4467], [0 87 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2479.055 2823.4087 68.4467].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 281 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2479.715 2822.704 74.0238], [0 108 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2479.715 2822.704 74.0238].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 282 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2479.2751 2823.4087 70.3304], [0 94 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2479.2751 2823.4087 70.3304].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 283 modelid: 19646
+[11-11-2026 22:35:24] [info] CObject::CObject(19646, [2479.495 2823.1726 72.1992], [0 101 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19646
+[11-11-2026 22:35:24] [info] Object created with model 19646 at [2479.495 2823.1726 72.1992].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 284 modelid: 19649
+[11-11-2026 22:35:24] [info] CObject::CObject(19649, [2487.4153 2838.4324 54.3885], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19649
+[11-11-2026 22:35:24] [info] Object created with model 19649 at [2487.4153 2838.4324 54.3885].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 285 modelid: 19661
+[11-11-2026 22:35:24] [info] CObject::CObject(19661, [2772.7732 2633.395 39.8848], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19661
+[11-11-2026 22:35:24] [info] Object created with model 19661 at [2772.7732 2633.395 39.8848].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 286 modelid: 19670
+[11-11-2026 22:35:24] [info] CObject::CObject(19670, [2768.6897 2807.7083 -11.4721], [0 0 315], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19670
+[11-11-2026 22:35:24] [info] Object created with model 19670 at [2768.6897 2807.7083 -11.4721].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 287 modelid: 19687
+[11-11-2026 22:35:24] [info] CObject::CObject(19687, [2582.8906 2900.9 54.387], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19687
+[11-11-2026 22:35:24] [info] Object created with model 19687 at [2582.8906 2900.9 54.387].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 288 modelid: 19548
+[11-11-2026 22:35:24] [info] CObject::CObject(19548, [2746.006 2865.993 2.045], [0 0 230], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19548
+[11-11-2026 22:35:24] [info] Object created with model 19548 at [2746.006 2865.993 2.045].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 289 modelid: 19659
+[11-11-2026 22:35:24] [info] CObject::CObject(19659, [2535.1553 2902.7188 54.4034], [0 0 90], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19659
+[11-11-2026 22:35:24] [info] Object created with model 19659 at [2535.1553 2902.7188 54.4034].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 290 modelid: 19660
+[11-11-2026 22:35:24] [info] CObject::CObject(19660, [2566.9834 2924.046 54.3862], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19660
+[11-11-2026 22:35:24] [info] Object created with model 19660 at [2566.9834 2924.046 54.3862].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 291 modelid: 19649
+[11-11-2026 22:35:24] [info] CObject::CObject(19649, [2487.415 2888.3938 54.3885], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19649
+[11-11-2026 22:35:24] [info] Object created with model 19649 at [2487.415 2888.3938 54.3885].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrCreateObject
+[11-11-2026 22:35:24] [info] obj id: 292 modelid: 19660
+[11-11-2026 22:35:24] [info] CObject::CObject(19660, [2503.3257 2924.0454 54.3862], [0 0 270], 0, 0).
+[11-11-2026 22:35:24] [info] GetModelInfoByID: 19660
+[11-11-2026 22:35:24] [info] Object created with model 19660 at [2503.3257 2924.0454 54.3862].
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrTogglePlayerControllable
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerTeam
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetSpawnInfo
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrResetPlayerWeapons
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrGivePlayerWeapon
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrGivePlayerWeapon
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrGivePlayerWeapon
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrGivePlayerWeapon
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrGivePlayerWeapon
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerCameraBehindPlayer
+[11-11-2026 22:35:24] [info] RPC: World vehicle add
+[11-11-2026 22:35:24] [info] CVehicle::CVehicle(538, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[11-11-2026 22:35:24] [info] GamePrepareTrain
+[11-11-2026 22:35:24] [info] CVehicle::CVehicle(570, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[11-11-2026 22:35:24] [error] CEntity::SetModelIndex: m_entity is nullptr
+[11-11-2026 22:35:24] [info] CVehicle::CVehicle(570, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[11-11-2026 22:35:24] [error] CEntity::SetModelIndex: m_entity is nullptr
+[11-11-2026 22:35:24] [info] CVehicle::CVehicle(570, -1554.6874, 545.4514, 33.6617, 307.1778, false, false)
+[11-11-2026 22:35:24] [error] CEntity::SetModelIndex: m_entity is nullptr
+[11-11-2026 22:35:24] [info] dwTime 162333991
+[11-11-2026 22:35:24] [info] RPC: Update 3D text label
+[11-11-2026 22:35:24] [info] RPC: Create 3D text label
+[11-11-2026 22:35:24] [info] RPC: Create 3D text label
+[11-11-2026 22:35:24] [info] RPC: Create 3D text label
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrShowTextDraw
+[11-11-2026 22:35:24] [info] Vehicle 366 is removed
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:24] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:24] [info] RPC: Player Death
+[11-11-2026 22:35:25] [info] RPC: Update 3D text label
+[11-11-2026 22:35:25] [info] RPC: Update 3D text label
+[11-11-2026 22:35:25] [info] Java_com_samp_game_ui_UI_sendDialogResponse
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:25] [info] CycleWeaponLeftJustDown isPressed
+[11-11-2026 22:35:25] [info] CycleWeaponLeftJustDown isPressed
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(463, 2628.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 1025
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(461, 2606.267, 2743.103, 31.4429, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 1281
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(581, 2622.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 1537
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(522, 2620.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 1793
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(462, 2618.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 2049
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(522, 2630.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 2305
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(448, 2626.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 2561
+[11-11-2026 22:35:26] [info] RPC: World vehicle remove
+[11-11-2026 22:35:26] [info] VehicleID 366
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(468, 2614.0132, 2743.103, 31.53804, 359.9986, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 258
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(523, 2610.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 514
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(538, 2525.2126, 2637.526, 10.3787, 30.7754, false, false)
+[11-11-2026 22:35:26] [info] GamePrepareTrain
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(570, 2525.2126, 2637.526, 10.3787, 30.7754, false, false)
+[11-11-2026 22:35:26] [error] CEntity::SetModelIndex: m_entity is nullptr
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(570, 2525.2126, 2637.526, 10.3787, 30.7754, false, false)
+[11-11-2026 22:35:26] [error] CEntity::SetModelIndex: m_entity is nullptr
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(570, 2525.2126, 2637.526, 10.3787, 30.7754, false, false)
+[11-11-2026 22:35:26] [error] CEntity::SetModelIndex: m_entity is nullptr
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(522, 2624.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 3585
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(522, 2612.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 3841
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(521, 2616.0127, 2743.103, 31.4424, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 4097
+[11-11-2026 22:35:26] [info] RPC: World vehicle add
+[11-11-2026 22:35:26] [info] CVehicle::CVehicle(581, 2608.267, 2743.103, 31.4429, 1.0017912e-05, false, false)
+[11-11-2026 22:35:26] [info] vehicle ret id: 4353
+[11-11-2026 22:35:26] [info] RPC: Pickup
+[11-11-2026 22:35:26] [info] GetModelInfoByID: 370
+[11-11-2026 22:35:26] [info] RPC: Pickup
+[11-11-2026 22:35:26] [info] GetModelInfoByID: 1242
+[11-11-2026 22:35:26] [info] RPC: Create 3D text label
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:26] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:27] [info] CycleWeaponLeftJustDown isPressed
+[11-11-2026 22:35:27] [info] CycleWeaponLeftJustDown isPressed
+[11-11-2026 22:35:27] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:28] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:29] [info] RPC: Update 3D text label
+[11-11-2026 22:35:29] [info] RPC: Create 3D text label
+[11-11-2026 22:35:29] [info] RPC: World player add
+[11-11-2026 22:35:29] [info] CRemotePlayer::Spawn: 24 100 299 2618.4902 2720.93 36.538643 2.854785
+[11-11-2026 22:35:29] [info] CPlayerPed::CPlayerPed(2, 299, 2618.4902, 2720.93, 36.538643, 2.854785)
+[11-11-2026 22:35:29] [info] SetModelIndex: 299
+[11-11-2026 22:35:29] [info] GetModelInfoByID: 299
+[11-11-2026 22:35:29] [info] IsValidPedModel: (299)
+[11-11-2026 22:35:29] [info] saveBytesToMap addr: 0x7aa87a92 bytes: f0 f4 ee ea 
+[11-11-2026 22:35:29] [info] saveBytesToMap addr: 0x7a898cac bytes: a8 f3 
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:31] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] CycleWeaponLeftJustDown isPressed
+[11-11-2026 22:35:33] [info] CycleWeaponLeftJustDown isPressed
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:33] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:33] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:33] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:38] [info] ScriptRPC: ScrShowGameText
+[11-11-2026 22:35:38] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:38] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:38] [info] RPC: Player Death
+[11-11-2026 22:35:39] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:39] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:39] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:39] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:40] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:40] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:40] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:40] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:40] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:40] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:41] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:41] [info] SendTakeDamageEvent: PlayerID: 65535, fDamageFactor: 10, weaponType: 54, pedPieceType: 3
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrHideTextDraw
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrShowGameText
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrSetPlayerWantedLevel
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrShowTextDraw
+[11-11-2026 22:35:41] [info] RPC: Player Death
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrResetPlayerWeapons
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:41] [info] ScriptRPC: ScrShowGameText
+[11-11-2026 22:35:42] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:44] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:44] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:47] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:47] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:47] [info] Spawn localplayer
+[11-11-2026 22:35:47] [error] GetSymbol: Invalid address! Address: 0x0 Name: _ZZ20Menu_SwitchOffToGamevE12bInitWidgets
+[11-11-2026 22:35:47] [info] Widgets not inited
+[11-11-2026 22:35:47] [info] SetModelIndex: 299
+[11-11-2026 22:35:47] [info] GetModelInfoByID: 299
+[11-11-2026 22:35:47] [info] IsValidPedModel: (299)
+[11-11-2026 22:35:47] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrHideTextDraw
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetArmedWeapon
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerTeam
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerArmour
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrDisableVehicleCollisions
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrTogglePlayerControllable
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerInterior
+[11-11-2026 22:35:47] [info] refresh streaming at x: 2618.4902, y: 2720.93
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerPos
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerFacingAngle
+[11-11-2026 22:35:47] [info] RPC: Update 3D text label
+[11-11-2026 22:35:47] [info] RPC: Create 3D text label
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrTogglePlayerControllable
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerTeam
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetSpawnInfo
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrResetPlayerWeapons
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:47] [info] ScriptRPC: ScrSetPlayerCameraBehindPlayer
+[11-11-2026 22:35:48] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:48] [info] RPC: World player add
+[11-11-2026 22:35:48] [info] CRemotePlayer::Spawn: 35 100 299 2618.7158 2722.818 36.538643 340.53882
+[11-11-2026 22:35:48] [info] CPlayerPed::CPlayerPed(3, 299, 2618.7158, 2722.818, 36.538643, 340.53882)
+[11-11-2026 22:35:48] [info] SetModelIndex: 299
+[11-11-2026 22:35:48] [info] GetModelInfoByID: 299
+[11-11-2026 22:35:48] [info] IsValidPedModel: (299)
+[11-11-2026 22:35:48] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:48] [info] ScriptRPC: ScrSetPlayerName
+[11-11-2026 22:35:48] [info] ScriptRPC: ScrShowTextDraw
+[11-11-2026 22:35:48] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:49] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:50] [info] CPlayerPed::FireInstant
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerTeam
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerAttachedObject
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerSkin
+[11-11-2026 22:35:50] [info] GetModelInfoByID: 306
+[11-11-2026 22:35:50] [info] IsValidPedModel: (306)
+[11-11-2026 22:35:50] [info] SetModelIndex: 306
+[11-11-2026 22:35:50] [info] GetModelInfoByID: 306
+[11-11-2026 22:35:50] [info] IsValidPedModel: (306)
+[11-11-2026 22:35:50] [info] GetModelInfoByID: 306
+[11-11-2026 22:35:50] [info] GetModelRWObject: 306
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:50] [info] RPC: Player Death
+[11-11-2026 22:35:50] [info] RPC: World player remove
+[11-11-2026 22:35:50] [info] playerId 35
+[11-11-2026 22:35:50] [info] Destroying PlayerPed(3)
+[11-11-2026 22:35:50] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:51] [info] RPC: Update 3D text label
+[11-11-2026 22:35:51] [info] SendTakeDamageEvent: PlayerID: 65535, fDamageFactor: 15, weaponType: 54, pedPieceType: 3
+[11-11-2026 22:35:51] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:51] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:51] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:51] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:51] [info] ScriptRPC: ScrSetPlayerHealth
+[11-11-2026 22:35:53] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:53] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:53] [info] RPC: Player Death
+[11-11-2026 22:35:53] [info] ScriptRPC: ScrSetPlayerColor
+[11-11-2026 22:35:54] [info] dwTime 162364013
+[11-11-2026 22:35:54] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35:54] [info] RPC: Server quit
+[11-11-2026 22:35:54] [info] RPC: Client message 
+[11-11-2026 22:35:54] [info] dwColor 16777215
+[11-11-2026 22:35:54] [info] dwStrLen 20
+[11-11-2026 22:35:54] [info] szMsg * Online players: 56
+[11-11-2026 22:35:54] [info] RPC: Client message 
+[11-11-2026 22:35:54] [info] dwColor 16777215
+[11-11-2026 22:35:54] [info] dwStrLen 107
+[11-11-2026 22:35:54] [info] szMsg {00FFFF}* Go to {FF0000}uifserver.net/vip {00FFFF}for information about {00FF00}Very Important Player (VIP)
+[11-11-2026 22:35:56] [info] PlayerID 32
+[11-11-2026 22:35:56] [info] dwMarkerColor 4104413439
+[11-11-2026 22:35:56] [info] byteIsNPC 0
+[11-11-2026 22:35:56] [info] szPlayerName Lilithz
+[11-11-2026 22:35:56] [info] ScriptRPC: ScrDeathMessage
+[11-11-2026 22:35
