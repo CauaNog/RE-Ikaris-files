@@ -2,3 +2,4 @@ ro.alynsampmobile.launcher/files/texdb/gta3.img filter=lfs diff=lfs merge=lfs -t
 ro.alynsampmobile.launcher/files/texdb/gta3/gta3.dxt.dat filter=lfs diff=lfs merge=lfs -text
 /ro.alynsampmobile.launcher/files/texdb/gta3/gta3.etc.dat filter=lfs diff=lfs merge=lfs -text
 /ro.alynsampmobile.launcher/files/texdb/gta3/gta3.pvr.dat filter=lfs diff=lfs merge=lfs -text
+ro.alynsampmobile.launcher/files/texdb/gta3/gta3.etc.dat filter=lfs diff=lfs merge=lfs -text
