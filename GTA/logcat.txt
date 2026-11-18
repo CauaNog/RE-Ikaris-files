@@ -1,0 +1,830 @@
+libGame.so: 0xece9d000
+libsamp.so: 0xeb800000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+WARNING! No tex = micro_active
+Error: Texture (samp) not found in database (micro_active)
+WARNING! No tex = micro_passive
+Error: Texture (samp) not found in database (micro_passive)
+Loading handling.cfg..
+Loading /storage/emulated/0/GTA/SAMP/handling.cfg
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/script.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ea.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_fa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ga.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_na.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_pa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf10.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/scache.txt)
+Starting game..
+Installing patches..
+CPools::Initialise
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/gta3.ini)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/cinfo.bin)
+Loading vehicles.ide..
+Loading /storage/emulated/0/GTA/SAMP/vehicles.ide
+Loading peds.ide..
+Loading /storage/emulated/0/GTA/SAMP/peds.ide
+Loading gta.dat..
+Loading /storage/emulated/0/GTA/SAMP/gta.dat
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/models/minfo.bin)
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+Loading weapon.dat..
+Loading /storage/emulated/0/GTA/SAMP/weapon.dat
+Loading mainv1
+Loading /storage/emulated/0/GTA/SAMP/main.scm
+CGame initializing..
+Installing patches (ingame)..
+Loading settings..
+Settings loaded.
+CNetGame initializing..
+CLocalPlayer::CLocalPlayer()
+Registering script RPC's..
+DoInitStuff end
+Stop: 
+Stop: 
+Stop: 
+Stop: 
+libGame.so: 0xeca93000
+libsamp.so: 0xe9c1d000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+WARNING! No tex = micro_active
+Error: Texture (samp) not found in database (micro_active)
+WARNING! No tex = micro_passive
+Error: Texture (samp) not found in database (micro_passive)
+Loading handling.cfg..
+Loading /storage/emulated/0/GTA/SAMP/handling.cfg
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/script.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ea.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_fa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ga.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_na.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_pa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf10.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/scache.txt)
+Starting game..
+Installing patches..
+CPools::Initialise
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/gta3.ini)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/cinfo.bin)
+Loading vehicles.ide..
+Loading /storage/emulated/0/GTA/SAMP/vehicles.ide
+Loading peds.ide..
+Loading /storage/emulated/0/GTA/SAMP/peds.ide
+Loading gta.dat..
+Loading /storage/emulated/0/GTA/SAMP/gta.dat
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/models/minfo.bin)
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+Loading weapon.dat..
+Loading /storage/emulated/0/GTA/SAMP/weapon.dat
+Loading mainv1
+Loading /storage/emulated/0/GTA/SAMP/main.scm
+CGame initializing..
+Installing patches (ingame)..
+Loading settings..
+Settings loaded.
+CNetGame initializing..
+CLocalPlayer::CLocalPlayer()
+Registering script RPC's..
+DoInitStuff end
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable5
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable6
+TryLoadModel 299
+TryLoadModel 1
+TryLoadModel 11
+libGame.so: 0xe5e7c000
+libsamp.so: 0xe3c18000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/texdb/player/player.dxt.tmb)
+SIGSEGV | Fault address: 0xee6
+1: libGame.so + 0x797204
+2: libGame.so + 0x79718c
+1: libsamp.so + 0x29fb204
+2: libsamp.so + 0x29fb18c
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7223f150a4 samp: 0x4402fd0a4 gta: 0x43e0990a4] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0x7265299860 samp: 0x481681860 gta: 0x47f41d860] __kernel_rt_sigreturn
+
+[adr: 0x6de6613204 samp: 0x29fb204 gta: 0x797204] _ZN22TextureDatabaseRuntime11SortEntriesEb
+
+[adr: 0x6de6613bc8 samp: 0x29fbbc8 gta: 0x797bc8] _ZN22TextureDatabaseRuntime4LoadEPKcb21TextureDatabaseFormat
+
+[adr: 0x6de63d737c samp: 0x27bf37c gta: 0x55b37c] _ZN5CGame20InitialiseRenderWareEv
+
+[adr: 0x6de3dc1568 samp: 0x1a9568 gta: 0xfffffffffdf45568] _Z32CGame__InitialiseRenderWare_hookv
+
+[adr: 0x6de63d72b8 samp: 0x27bf2b8 gta: 0x55b2b8] _Z12Initialise3DPv
+
+[adr: 0x6de63154e0 samp: 0x26fd4e0 gta: 0x4994e0] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x6de6483454 samp: 0x286b454 gta: 0x607454] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x6de61e7710 samp: 0x25cf710 gta: 0x36b710] _Z29OS_ApplicationInitRenderQueuev
+
+[adr: 0x6de61e4560 samp: 0x25cc560 gta: 0x368560] _Z11DoGameStatef
+
+libGame.so: 0xed055000
+libsamp.so: 0xe7222000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/texdb/menu/menu.dxt.tmb)
+SIGSEGV | Fault address: 0x340
+1: libGame.so + 0x797204
+2: libGame.so + 0x79718c
+1: libsamp.so + 0x65ca204
+2: libsamp.so + 0x65ca18c
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7223f150a4 samp: 0x43ccf30a4 gta: 0x436ec00a4] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0x7265299860 samp: 0x47e077860 gta: 0x478244860] __kernel_rt_sigreturn
+
+[adr: 0x6ded7ec204 samp: 0x65ca204 gta: 0x797204] _ZN22TextureDatabaseRuntime11SortEntriesEb
+
+[adr: 0x6ded7ecbc8 samp: 0x65cabc8 gta: 0x797bc8] _ZN22TextureDatabaseRuntime4LoadEPKcb21TextureDatabaseFormat
+
+[adr: 0x6ded5b0390 samp: 0x638e390 gta: 0x55b390] _ZN5CGame20InitialiseRenderWareEv
+
+[adr: 0x6de73cb568 samp: 0x1a9568 gta: 0xfffffffffa376568] _Z32CGame__InitialiseRenderWare_hookv
+
+[adr: 0x6ded5b02b8 samp: 0x638e2b8 gta: 0x55b2b8] _Z12Initialise3DPv
+
+[adr: 0x6ded4ee4e0 samp: 0x62cc4e0 gta: 0x4994e0] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x6ded65c454 samp: 0x643a454 gta: 0x607454] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x6ded3c0710 samp: 0x619e710 gta: 0x36b710] _Z29OS_ApplicationInitRenderQueuev
+
+[adr: 0x6ded3bd560 samp: 0x619b560 gta: 0x368560] _Z11DoGameStatef
+
+[adr: 0x6ded3c080c samp: 0x619e80c gta: 0x36b80c] _Z18OS_ApplicationTickf
+
+[adr: 0x6ded827920 samp: 0x6605920 gta: 0x7d2920] Java_com_rockstargames_oswrapper_GameNative_implOnDrawFrame
+
+libGame.so: 0xe9054000
+libsamp.so: 0xe7605000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+Loading handling.cfg..
+Loading /storage/emulated/0/GTA/SAMP/handling.cfg
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/script.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ea.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_fa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ga.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_na.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_pa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf10.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/scache.txt)
+Starting game..
+Installing patches..
+CPools::Initialise
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/gta3.ini)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/cinfo.bin)
+Loading vehicles.ide..
+Loading /storage/emulated/0/GTA/SAMP/vehicles.ide
+Loading peds.ide..
+Loading /storage/emulated/0/GTA/SAMP/peds.ide
+Loading gta.dat..
+Loading /storage/emulated/0/GTA/SAMP/gta.dat
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/models/minfo.bin)
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+SIGSEGV | Fault address: 0x0
+1: libGame.so + 0x48bc9c
+2: libGame.so + 0x48dd0c
+1: libsamp.so + 0x1edac9c
+2: libsamp.so + 0x1edcd0c
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7223f150a4 samp: 0x43c9100a4 gta: 0x43aec10a4] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0x7265299860 samp: 0x47dc94860 gta: 0x47c245860] __kernel_rt_sigreturn
+
+[adr: 0x6de94dfc9c samp: 0x1edac9c gta: 0x48bc9c] _ZNK7CEntity12GetBoundRectEv
+
+[adr: 0x6de94e1d0c samp: 0x1edcd0c gta: 0x48dd0c] _ZN7CEntity3AddEv
+
+[adr: 0x6de951be0c samp: 0x1f16e0c gta: 0x4c7e0c] _ZN6CWorld3AddEP7CEntity
+
+[adr: 0x6de95a643c samp: 0x1fa143c gta: 0x55243c] _ZN11CFileLoader9LoadSceneEPKc
+
+[adr: 0x6de95a3ef4 samp: 0x1f9eef4 gta: 0x54fef4] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0x6de94e9828 samp: 0x1ee4828 gta: 0x495828] _ZN5CGame10InitialiseEPKc
+
+[adr: 0x6de94ed418 samp: 0x1ee8418 gta: 0x499418] _Z14InitialiseGamev
+
+[adr: 0x6de93bc610 samp: 0x1db7610 gta: 0x368610] _Z11DoGameStatef
+
+[adr: 0x6de93bf80c samp: 0x1dba80c gta: 0x36b80c] _Z18OS_ApplicationTickf
+
+libGame.so: 0xe9642000
+libsamp.so: 0xe2a28000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+Loading handling.cfg..
+Loading /storage/emulated/0/GTA/SAMP/handling.cfg
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/script.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ea.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_fa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ga.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_na.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_pa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf10.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/scache.txt)
+Starting game..
+Installing patches..
+CPools::Initialise
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/gta3.ini)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/cinfo.bin)
+Loading vehicles.ide..
+Loading /storage/emulated/0/GTA/SAMP/vehicles.ide
+Loading peds.ide..
+Loading /storage/emulated/0/GTA/SAMP/peds.ide
+Loading gta.dat..
+Loading /storage/emulated/0/GTA/SAMP/gta.dat
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/models/minfo.bin)
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+SIGSEGV | Fault address: 0x0
+1: libGame.so + 0x48bc9c
+2: libGame.so + 0x48dd0c
+1: libsamp.so + 0x70a5c9c
+2: libsamp.so + 0x70a7d0c
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7223f150a4 samp: 0x4414ed0a4 gta: 0x43a8d30a4] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+libGame.so: 0xeb008000
+libsamp.so: 0xe5825000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+Loading handling.cfg..
+Loading /storage/emulated/0/GTA/SAMP/handling.cfg
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/script.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ea.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_fa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ga.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_na.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_pa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf10.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/scache.txt)
+Starting game..
+Installing patches..
+CPools::Initialise
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/gta3.ini)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/cinfo.bin)
+Loading vehicles.ide..
+Loading /storage/emulated/0/GTA/SAMP/vehicles.ide
+Loading peds.ide..
+Loading /storage/emulated/0/GTA/SAMP/peds.ide
+Loading gta.dat..
+Loading /storage/emulated/0/GTA/SAMP/gta.dat
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/data/maps/paths.img)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/data/maps/rip1.ide)
+SIGSEGV | Fault address: 0x8
+1: libGame.so + 0x7d0880
+2: libGame.so + 0x492644
+1: libsamp.so + 0x5fb3880
+2: libsamp.so + 0x5c75644
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7223f150a4 samp: 0x43e6f00a4 gta: 0x438f0d0a4] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0x7265299860 samp: 0x47fa74860 gta: 0x47a291860] __kernel_rt_sigreturn
+
+[adr: 0x6deb7d8880 samp: 0x5fb3880 gta: 0x7d0880] _Z18OS_FileGetPositionPv
+
+[adr: 0x6deb49a644 samp: 0x5c75644 gta: 0x492644] _ZN8CFileMgr8ReadLineEyPci
+
+[adr: 0x6deb49794c samp: 0x5c7294c gta: 0x48f94c] _ZN11CFileLoader8LoadLineEy
+
+[adr: 0x6deb558488 samp: 0x5d33488 gta: 0x550488] _ZN11CFileLoader15LoadObjectTypesEPKc
+
+[adr: 0x6deb557e90 samp: 0x5d32e90 gta: 0x54fe90] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0x6deb49d828 samp: 0x5c78828 gta: 0x495828] _ZN5CGame10InitialiseEPKc
+
+[adr: 0x6deb4a1418 samp: 0x5c7c418 gta: 0x499418] _Z14InitialiseGamev
+
+[adr: 0x6deb370610 samp: 0x5b4b610 gta: 0x368610] _Z11DoGameStatef
+
+[adr: 0x6deb37380c samp: 0x5b4e80c gta: 0x36b80c] _Z18OS_ApplicationTickf
+
+[adr: 0x6deb7da920 samp: 0x5fb5920 gta: 0x7d2920] Java_com_rockstargames_oswrapper_GameNative_implOnDrawFrame
+
+libGame.so: 0xe9e88000
+libsamp.so: 0xe6006000
+libc.so: 0x0
+InjectHooks
+ApplyPatches_level0
+Initializing RenderWare..
+NvUtilInit
+New fps limit = 120
+Loading settings..
+Settings loaded.
+Loading SAMP texture database..
+Loading handling.cfg..
+Loading /storage/emulated/0/GTA/SAMP/handling.cfg
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/script.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ea.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_fa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_ga.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_na.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/audio/sfx/spc_pa.osw)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf10.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/scache.txt)
+Starting game..
+Installing patches..
+CPools::Initialise
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/gta3.ini)
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/cinfo.bin)
+Loading vehicles.ide..
+Loading /storage/emulated/0/GTA/SAMP/vehicles.ide
+Loading peds.ide..
+Loading /storage/emulated/0/GTA/SAMP/peds.ide
+Loading gta.dat..
+Loading /storage/emulated/0/GTA/SAMP/gta.dat
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+NVFOpen hook | Error: file not found (/storage/emulated/0/GTA/models/minfo.bin)
+Loading script.img..
+Loading /storage/emulated/0/GTA/SAMP/script.img
+Loading weapon.dat..
+Loading /storage/emulated/0/GTA/SAMP/weapon.dat
+Loading mainv1
+Loading /storage/emulated/0/GTA/SAMP/main.scm
+Loading mainv1
+Loading /storage/emulated/0/GTA/SAMP/main.scm
+Loading mainv1
+Loading /storage/emulated/0/GTA/SAMP/main.scm
+WARNING! No tex = micro_icon
+Error: Texture (samp) not found in database (micro_icon)
+CGame initializing..
+Installing patches (ingame)..
+Loading settings..
+Settings loaded.
+CNetGame initializing..
+CLocalPlayer::CLocalPlayer()
+Registering script RPC's..
+DoInitStuff end
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable5
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable6
+TryLoadModel 299
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable6
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable6
+TryLoadModel 299
+TryLoadModel 4
+GiveWeapon, iModelID -1, iWeaponID 0
+GiveWeapon, iModelID -1, iWeaponID 0
+GiveWeapon, iModelID -1, iWeaponID 0
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable5
+TogglePlayerControllable
+TogglePlayerControllable2
+TogglePlayerControllable3
+TogglePlayerControllable4
+TogglePlayerControllable6
+GiveWeapon, iModelID 326, iWeaponID 15
+TryLoadModel 326
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+GiveWeapon, iModelID 346, iWeaponID 22
+TryLoadModel 346
+TryLoadModel 4
+GiveWeapon, iModelID 349, iWeaponID 25
+TryLoadModel 349
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+GiveWeapon, iModelID 352, iWeaponID 28
+TryLoadModel 352
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+GiveWeapon, iModelID 356, iWeaponID 31
+TryLoadModel 356
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 538
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 570
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 537
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 569
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 449
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+GamePrepareTrain
+TryLoadModel 522
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 420
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 522
+TryLoadModel 4
+TryLoadModel 522
+TryLoadModel 4
+TryLoadModel 495
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 415
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 556
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 416
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 559
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 568
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 522
+TryLoadModel 4
+TryLoadModel 411
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 490
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 522
+TryLoadModel 4
+TryLoadModel 522
+TryLoadModel 4
+TryLoadModel 513
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 534
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 556
+TryLoadModel 4
+TryLoadModel 560
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 554
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 437
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+TryLoadModel 513
+TryLoadModel 4
+TryLoadModel 522
+TryLoadModel 4
+[RPC-IN] World player add
+Found free slot: 2
+TryLoadModel 251
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+CRemotePlayer::Spawn 1
+CRemotePlayer::Spawn 2
+CRemotePlayer::Spawn 3
+CRemotePlayer::Spawn 4
+WorldPlayerAdd
+[RPC-IN] World player add
+Found free slot: 3
+TryLoadModel 2
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+CRemotePlayer::Spawn 1
+CRemotePlayer::Spawn 2
+CRemotePlayer::Spawn 3
+CRemotePlayer::Spawn 4
+WorldPlayerAdd
+[RPC-IN] World player add
+Found free slot: 4
+TryLoadModel 90
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+CRemotePlayer::Spawn 1
+CRemotePlayer::Spawn 2
+CRemotePlayer::Spawn 3
+CRemotePlayer::Spawn 4
+WorldPlayerAdd
+m_tabList size: -476943072, -253069868
+Destroying PlayerPed(2)
+RPC_PINGIP: (126): score: 21503, ping: 139
+RPC_PINGIP: (64): score: 236776, ping: 257
+RPC_PINGIP: (11): score: 3, ping: 268
+RPC_PINGIP: (27): score: 0, ping: 247
+RPC_PINGIP: (57): score: 88, ping: 51
+RPC_PINGIP: (14): score: 89019, ping: 72
+RPC_PINGIP: (97): score: 188774, ping: 93
+RPC_PINGIP: (37): score: 809, ping: 51
+RPC_PINGIP: (15): score: 111615, ping: 53
+RPC_PINGIP: (133): score: 7209, ping: 119
+RPC_PINGIP: (25): score: 267757, ping: 216
+RPC_PINGIP: (45): score: 15, ping: 30
+RPC_PINGIP: (19): score: 0, ping: 65535
+RPC_PINGIP: (119): score: 32020, ping: 247
+RPC_PINGIP: (26): score: 7712, ping: 35
+RPC_PINGIP: (43): score: 3708, ping: 36
+RPC_PINGIP: (35): score: 0, ping: 206
+RPC_PINGIP: (12): score: 42880, ping: 72
+RPC_PINGIP: (23): score: 61204, ping: 98
+RPC_PINGIP: (125): score: 534, ping: 252
+RPC_PINGIP: (8): score: 41681, ping: 40
+RPC_PINGIP: (49): score: 22273, ping: 51
+RPC_PINGIP: (50): score: 956, ping: 82
+RPC_PINGIP: (21): score: 18250, ping: 268
+RPC_PINGIP: (10): score: 0, ping: 253
+RPC_PINGIP: (48): score: 5333, ping: 113
+RPC_PINGIP: (5): score: 712234, ping: 87
+RPC_PINGIP: (2): score: 3746, ping: 92
+RPC_PINGIP: (18): score: 23761, ping: 51
+RPC_PINGIP: (80): score: 3749, ping: 72
+RPC_PINGIP: (22): score: 41875, ping: 40
+RPC_PINGIP: (16): score: 41767, ping: 40
+RPC_PINGIP: (24): score: 66098, ping: 128
+RPC_PINGIP: (7): score: 213286, ping: 72
+RPC_PINGIP: (40): score: 4947, ping: 180
+RPC_PINGIP: (47): score: 142, ping: 83
+RPC_PINGIP: (106): score: 29771, ping: 170
+RPC_PINGIP: (0): score: 45169, ping: 108
+RPC_PINGIP: (20): score: 4, ping: 278
+RPC_PINGIP: (83): score: 22113, ping: 56
+RPC_PINGIP: (120): score: 16868, ping: 57
+RPC_PINGIP: (46): score: 20, ping: 283
+RPC_PINGIP: (30): score: 70098, ping: 102
+RPC_PINGIP: (17): score: 2398, ping: 61
+RPC_PINGIP: (9): score: 993, ping: 14
+RPC_PINGIP: (31): score: 139004, ping: 51
+RPC_PINGIP: (13): score: 27503, ping: 72
+RPC_PINGIP: (38): score: 3791, ping: 51
+RPC_PINGIP: (55): score: 817, ping: 149
+RPC_PINGIP: (63): score: 544, ping: 247
+RPC_PINGIP: (44): score: 30589, ping: 15
+RPC_PINGIP: (42): score: 33663, ping: 98
+RPC_PINGIP: (33): score: 150, ping: 51
+RPC_PINGIP: (39): score: 1, ping: 283
+RPC_PINGIP: (28): score: 22, ping: 226
+RPC_PINGIP: (29): score: 30829, ping: 25
+RPC_PINGIP: (51): score: 42, ping: 51
+RPC_PINGIP: (32): score: 3523, ping: 14
+RPC_PINGIP: (41): score: 3712, ping: 252
+RPC_PINGIP: (3): score: 0, ping: 175
+RPC_PINGIP: (72): score: 162411, ping: 175
+RPC_PINGIP: (61): score: 464, ping: 154
+RPC_PINGIP: (6): score: 0, ping: 313
+RPC_PINGIP: (129): score: 26073, ping: 701
+RPC_PINGIP: (4): score: 265395, ping: 56
+RPC_PINGIP: (54): score: 20277, ping: 36
+RPC_PINGIP: (95): score: 2525, ping: 119
+RPC_PINGIP: (82): score: 16892, ping: 190
+RPC_PINGIP: (113): score: 0, ping: 51
+RPC_PINGIP: (52): score: 0, ping: 232
+RPC_PINGIP: (34): score: 1179, ping: 82
+RPC_PINGIP: (66): score: 59729, ping: 57
+RPC_PINGIP: (58): score: 4229, ping: 67
+RPC_PINGIP: (71): score: 59551, ping: 247
+RPC_PINGIP: (107): score: 476, ping: 701
+RPC_PINGIP: (69): score: 15940, ping: 31
+RPC_PINGIP: (1): score: 6563, ping: 201
+RPC_PINGIP: (70): score: 939, ping: 103
+RPC_PINGIP: (36): score: 18890, ping: 77
+RPC_PINGIP: (60): score: 133103, ping: 67
+RPC_PINGIP: (59): score: 39, ping: 211
+RPC_PINGIP: (53): score: 19990, ping: 36
+RPC_PINGIP: (77): score: 72429, ping: 46
+[RPC-IN] World player add
+Found free slot: 2
+TryLoadModel 251
+TryLoadModel 4
+CRemotePlayer::Spawn 1
+CRemotePlayer::Spawn 2
+CRemotePlayer::Spawn 3
+CRemotePlayer::Spawn 4
+WorldPlayerAdd
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf1.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf2.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf3.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf4.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf5.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf6.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf7_.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf8_.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf9.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf1.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf2.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf3.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf4.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf5.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf6.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf7_.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf8_.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf9.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf1.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf2.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf3.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf4.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf5.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf6.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf7_.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf8_.b)
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.gta.game/files/GTASAsf9.b)
+[RPC-IN] World player add
+Found free slot: 5
+TryLoadModel 217
+TryLoadModel 1
+TryLoadModel 11
+TryLoadModel 2
+TryLoadModel 3
+TryLoadModel 4
+CRemotePlayer::Spawn 1
+CRemotePlayer::Spawn 2
+CRemotePlayer::Spawn 3
+CRemotePlayer::Spawn 4
+WorldPlayerAdd
